@@ -1,0 +1,372 @@
+[
+  {
+    "name": "Batery",
+    "domain": "batery.bet",
+    "reason": "http_403"
+  },
+  {
+    "name": "bet105",
+    "domain": "bet105.io",
+    "reason": "http_000"
+  },
+  {
+    "name": "22bet",
+    "domain": "22bet.com",
+    "reason": "http_404"
+  },
+  {
+    "name": "4Cx",
+    "domain": "4cx.com",
+    "reason": "html_1_candidates_all_failed"
+  },
+  {
+    "name": "Betano",
+    "domain": "betano.com",
+    "reason": "http_429"
+  },
+  {
+    "name": "BET99",
+    "domain": "bet99.ca",
+    "reason": "http_403"
+  },
+  {
+    "name": "Betano (Argentina)",
+    "domain": "betano.com",
+    "reason": "http_429"
+  },
+  {
+    "name": "Betcris",
+    "domain": "betcris.com",
+    "reason": "http_403"
+  },
+  {
+    "name": "BetDeluxe",
+    "domain": "betdeluxe.com",
+    "reason": "no_candidates_in_html"
+  },
+  {
+    "name": "BetGRW",
+    "domain": "betgrw.com",
+    "reason": "http_403"
+  },
+  {
+    "name": "BetNation",
+    "domain": "betnation.com",
+    "reason": "http_000"
+  },
+  {
+    "name": "BetNation (Australia)",
+    "domain": "betnation.com.au",
+    "reason": "http_403"
+  },
+  {
+    "name": "BetMania",
+    "domain": "betmania.com",
+    "reason": "http_000"
+  },
+  {
+    "name": "BetVictor",
+    "domain": "betvictor.com",
+    "reason": "http_403"
+  },
+  {
+    "name": "betwhale",
+    "domain": "betwhale.com",
+    "reason": "no_candidates_in_html"
+  },
+  {
+    "name": "Boomers",
+    "domain": "boomers.bet",
+    "reason": "no_candidates_in_html"
+  },
+  {
+    "name": "Bracco",
+    "domain": "bracco.bet",
+    "reason": "http_000"
+  },
+  {
+    "name": "CampoBet",
+    "domain": "campobet.com",
+    "reason": "http_403"
+  },
+  {
+    "name": "Casumo",
+    "domain": "casumo.com",
+    "reason": "http_403"
+  },
+  {
+    "name": "Codere",
+    "domain": "codere.com",
+    "reason": "http_000"
+  },
+  {
+    "name": "Boyle Sports",
+    "domain": "boylesports.com",
+    "reason": "http_403"
+  },
+  {
+    "name": "Courtside",
+    "domain": "courtside.com",
+    "reason": "http_000"
+  },
+  {
+    "name": "Borgata",
+    "domain": "borgata.com",
+    "reason": "http_302"
+  },
+  {
+    "name": "Crab Sports",
+    "domain": "crabsports.com",
+    "reason": "html_4_candidates_all_failed"
+  },
+  {
+    "name": "Dogg House",
+    "domain": "dogghouse.com",
+    "reason": "html_1_candidates_all_failed"
+  },
+  {
+    "name": "Danske Spil",
+    "domain": "dansk-spil.dk",
+    "reason": "http_000"
+  },
+  {
+    "name": "Coolbet",
+    "domain": "coolbet.com",
+    "reason": "no_candidates_in_html"
+  },
+  {
+    "name": "Fonbet",
+    "domain": "fonbet.com",
+    "reason": "http_403"
+  },
+  {
+    "name": "Galera.bet",
+    "domain": "galera.bet",
+    "reason": "http_403"
+  },
+  {
+    "name": "Goldbet",
+    "domain": "goldbet.it",
+    "reason": "http_403"
+  },
+  {
+    "name": "Heritage",
+    "domain": "heritage.com",
+    "reason": "http_404"
+  },
+  {
+    "name": "Jazz Sports",
+    "domain": "jazzsports.com",
+    "reason": "html_1_candidates_all_failed"
+  },
+  {
+    "name": "Jugabet (Argentina)",
+    "domain": "jugabet.com",
+    "reason": "http_403"
+  },
+  {
+    "name": "Jugabet (Chile)",
+    "domain": "jugabet.com",
+    "reason": "http_403"
+  },
+  {
+    "name": "JustBet",
+    "domain": "justbet.com",
+    "reason": "http_000"
+  },
+  {
+    "name": "Ladbrokes (Australia)",
+    "domain": "ladbrokes.com.au",
+    "reason": "http_403"
+  },
+  {
+    "name": "Lucky Casino",
+    "domain": "luckycasino.com",
+    "reason": "http_403"
+  },
+  {
+    "name": "Melbet",
+    "domain": "melbet.com",
+    "reason": "http_203"
+  },
+  {
+    "name": "Mise-o-jeu",
+    "domain": "miseojeu.com",
+    "reason": "http_000"
+  },
+  {
+    "name": "Neds",
+    "domain": "neds.com.au",
+    "reason": "http_403"
+  },
+  {
+    "name": "Ninja Casino",
+    "domain": "ninjacasino.com",
+    "reason": "http_403"
+  },
+  {
+    "name": "NorthStar Bets",
+    "domain": "northstarbets.com",
+    "reason": "no_candidates_in_html"
+  },
+  {
+    "name": "Desert Diamond",
+    "domain": "desertdiamondcasino.com",
+    "reason": "http_000"
+  },
+  {
+    "name": "Oddin",
+    "domain": "oddin.com",
+    "reason": "http_000"
+  },
+  {
+    "name": "Four Winds",
+    "domain": "fourwinds.com",
+    "reason": "http_000"
+  },
+  {
+    "name": "Overtime",
+    "domain": "overtime.com",
+    "reason": "http_000"
+  },
+  {
+    "name": "Parimatch (Brazil)",
+    "domain": "parimatch.com",
+    "reason": "http_403"
+  },
+  {
+    "name": "Ozoon",
+    "domain": "ozoon.com",
+    "reason": "html_3_candidates_all_failed"
+  },
+  {
+    "name": "ParlayPlay",
+    "domain": "parlayplay.com",
+    "reason": "http_000"
+  },
+  {
+    "name": "HotStreak",
+    "domain": "hotstreak.com",
+    "reason": "http_000"
+  },
+  {
+    "name": "Parimatch (India)",
+    "domain": "parimatch.com",
+    "reason": "http_403"
+  },
+  {
+    "name": "Playdoit",
+    "domain": "playdoit.com",
+    "reason": "html_3_candidates_all_failed"
+  },
+  {
+    "name": "Play Alberta",
+    "domain": "playalberta.com",
+    "reason": "html_4_candidates_all_failed"
+  },
+  {
+    "name": "PointsBet (Ontario)",
+    "domain": "pointsbet.com",
+    "reason": "http_403"
+  },
+  {
+    "name": "PointsBet (Australia)",
+    "domain": "pointsbet.com",
+    "reason": "http_403"
+  },
+  {
+    "name": "Proline",
+    "domain": "proline.ca",
+    "reason": "http_000"
+  },
+  {
+    "name": "Props Builder",
+    "domain": "propsbuilder.com",
+    "reason": "http_000"
+  },
+  {
+    "name": "PS3838",
+    "domain": "ps3838.com",
+    "reason": "http_403"
+  },
+  {
+    "name": "Rizk",
+    "domain": "rizk.com",
+    "reason": "http_403"
+  },
+  {
+    "name": "RushBet",
+    "domain": "rushbet.com",
+    "reason": "http_000"
+  },
+  {
+    "name": "SpinBet",
+    "domain": "spinbet.com",
+    "reason": "http_403"
+  },
+  {
+    "name": "SugarHouse",
+    "domain": "sugarhouse.com",
+    "reason": "http_000"
+  },
+  {
+    "name": "Supabets",
+    "domain": "supabets.co.za",
+    "reason": "html_11_candidates_all_failed"
+  },
+  {
+    "name": "Superbet",
+    "domain": "superbet.com",
+    "reason": "http_451"
+  },
+  {
+    "name": "SurgeBet",
+    "domain": "surgebet.com",
+    "reason": "no_candidates_in_html"
+  },
+  {
+    "name": "SX Bet",
+    "domain": "sxbet.com",
+    "reason": "http_302"
+  },
+  {
+    "name": "TAB",
+    "domain": "tab.co.nz",
+    "reason": "http_403"
+  },
+  {
+    "name": "TAB (New Zealand)",
+    "domain": "tab.co.nz",
+    "reason": "http_403"
+  },
+  {
+    "name": "ThriveFantasy",
+    "domain": "thrivefantasy.com",
+    "reason": "html_1_candidates_all_failed"
+  },
+  {
+    "name": "GGBet",
+    "domain": "ggbet.com",
+    "reason": "http_000"
+  },
+  {
+    "name": "partypoker",
+    "domain": "partypoker.com",
+    "reason": "http_404"
+  },
+  {
+    "name": "Sportingbet",
+    "domain": "sportingbet.com",
+    "reason": "http_403"
+  },
+  {
+    "name": "Opinion Labs",
+    "domain": "opinionlabs.com",
+    "reason": "http_000"
+  },
+  {
+    "name": "Tipsport",
+    "domain": "tipsport.com",
+    "reason": "http_000"
+  }
+]
