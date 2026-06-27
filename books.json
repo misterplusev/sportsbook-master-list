@@ -1,0 +1,858 @@
+[
+  {
+    "name": "1XBet",
+    "url": "https://1xbet.com"
+  },
+  {
+    "name": "20bet",
+    "url": "https://20bet.com"
+  },
+  {
+    "name": "22bet",
+    "url": "https://22bet.com"
+  },
+  {
+    "name": "4Cx",
+    "url": "https://4cx.com"
+  },
+  {
+    "name": "888sport",
+    "url": "https://888sport.com"
+  },
+  {
+    "name": "ATG",
+    "url": "https://atg.se"
+  },
+  {
+    "name": "Bally Bet",
+    "url": "https://ballybet.com"
+  },
+  {
+    "name": "Batery",
+    "url": "https://batery.bet"
+  },
+  {
+    "name": "BC.GAME",
+    "url": "https://bc.game"
+  },
+  {
+    "name": "bet105",
+    "url": "https://bet105.io"
+  },
+  {
+    "name": "bet365",
+    "url": "https://bet365.com"
+  },
+  {
+    "name": "BET99",
+    "url": "https://bet99.ca"
+  },
+  {
+    "name": "BetAmapola",
+    "url": "https://betamapola.com"
+  },
+  {
+    "name": "Betano",
+    "url": "https://betano.com"
+  },
+  {
+    "name": "Betano (Argentina)",
+    "url": "https://betano.com"
+  },
+  {
+    "name": "Betano (Chile)",
+    "url": "https://betano.com"
+  },
+  {
+    "name": "BetAnything",
+    "url": "https://betanything.com"
+  },
+  {
+    "name": "BetCorrect",
+    "url": "https://betcorrect.com"
+  },
+  {
+    "name": "Betcris",
+    "url": "https://betcris.com"
+  },
+  {
+    "name": "BetDeluxe",
+    "url": "https://betdeluxe.com"
+  },
+  {
+    "name": "BetDEX",
+    "url": "https://betdex.com"
+  },
+  {
+    "name": "BetDSI",
+    "url": "https://betdsi.eu"
+  },
+  {
+    "name": "Betfair",
+    "url": "https://betfair.com"
+  },
+  {
+    "name": "Betfair Exchange",
+    "url": "https://betfair.com"
+  },
+  {
+    "name": "Betfair Exchange (Australia)",
+    "url": "https://betfair.com"
+  },
+  {
+    "name": "Betfair Exchange (Australia) (Lay)",
+    "url": "https://betfair.com"
+  },
+  {
+    "name": "Betfair Exchange (Lay)",
+    "url": "https://betfair.com"
+  },
+  {
+    "name": "BetGRW",
+    "url": "https://betgrw.com"
+  },
+  {
+    "name": "betJACK",
+    "url": "https://betjack.com"
+  },
+  {
+    "name": "BetMania",
+    "url": "https://betmania.com"
+  },
+  {
+    "name": "BetMGM",
+    "url": "https://betmgm.com"
+  },
+  {
+    "name": "BetMGM (UK)",
+    "url": "https://betmgm.co.uk"
+  },
+  {
+    "name": "Betnacional",
+    "url": "https://betnacional.com"
+  },
+  {
+    "name": "BetNation",
+    "url": "https://betnation.com"
+  },
+  {
+    "name": "BetNation (Australia)",
+    "url": "https://betnation.com.au"
+  },
+  {
+    "name": "BetNow",
+    "url": "https://betnow.eu"
+  },
+  {
+    "name": "BetOnline",
+    "url": "https://betonline.ag"
+  },
+  {
+    "name": "BetOpenly",
+    "url": "https://betopenly.com"
+  },
+  {
+    "name": "betPARX",
+    "url": "https://betparx.com"
+  },
+  {
+    "name": "Betplay",
+    "url": "https://betplay.com"
+  },
+  {
+    "name": "Betr",
+    "url": "https://betr.app"
+  },
+  {
+    "name": "Betr (Australia)",
+    "url": "https://betr.com.au"
+  },
+  {
+    "name": "BetRivers",
+    "url": "https://betrivers.com"
+  },
+  {
+    "name": "BetRivers (New York)",
+    "url": "https://betrivers.com"
+  },
+  {
+    "name": "Betr Picks",
+    "url": "https://betr.app"
+  },
+  {
+    "name": "Betr Picks (All)",
+    "url": "https://betr.app"
+  },
+  {
+    "name": "Betr Picks (BOOSTED)",
+    "url": "https://betr.app"
+  },
+  {
+    "name": "Betsafe",
+    "url": "https://betsafe.com"
+  },
+  {
+    "name": "Bets IO",
+    "url": "https://bets.io"
+  },
+  {
+    "name": "Betsson",
+    "url": "https://betsson.com"
+  },
+  {
+    "name": "Betsson (Chile)",
+    "url": "https://betsson.com"
+  },
+  {
+    "name": "BetUS",
+    "url": "https://betus.com"
+  },
+  {
+    "name": "BetVictor",
+    "url": "https://betvictor.com"
+  },
+  {
+    "name": "Betway",
+    "url": "https://betway.com"
+  },
+  {
+    "name": "Betway (Alaska)",
+    "url": "https://betway.com"
+  },
+  {
+    "name": "betwhale",
+    "url": "https://betwhale.com"
+  },
+  {
+    "name": "Bodog",
+    "url": "https://bodog.eu"
+  },
+  {
+    "name": "BookMaker",
+    "url": "https://bookmaker.eu"
+  },
+  {
+    "name": "Boomers",
+    "url": "https://boomers.bet"
+  },
+  {
+    "name": "Boom Fantasy (5 Pick Insured)",
+    "url": "https://boomfantasy.com"
+  },
+  {
+    "name": "Borgata",
+    "url": "https://borgata.com"
+  },
+  {
+    "name": "Bovada",
+    "url": "https://bovada.lv"
+  },
+  {
+    "name": "Boyle Sports",
+    "url": "https://boylesports.com"
+  },
+  {
+    "name": "Bracco",
+    "url": "https://bracco.bet"
+  },
+  {
+    "name": "bwin",
+    "url": "https://bwin.com"
+  },
+  {
+    "name": "Caesars",
+    "url": "https://caesars.com"
+  },
+  {
+    "name": "Campeonbet",
+    "url": "https://campeonbet.com"
+  },
+  {
+    "name": "CampoBet",
+    "url": "https://campobet.com"
+  },
+  {
+    "name": "Casumo",
+    "url": "https://casumo.com"
+  },
+  {
+    "name": "Circa Sports",
+    "url": "https://circasports.com"
+  },
+  {
+    "name": "Circa Vegas",
+    "url": "https://circavegas.com"
+  },
+  {
+    "name": "Codere",
+    "url": "https://codere.com"
+  },
+  {
+    "name": "Coolbet",
+    "url": "https://coolbet.com"
+  },
+  {
+    "name": "Coral",
+    "url": "https://coral.co.uk"
+  },
+  {
+    "name": "Courtside",
+    "url": "https://courtside.com"
+  },
+  {
+    "name": "Crab Sports",
+    "url": "https://crabsports.com"
+  },
+  {
+    "name": "crypto.com",
+    "url": "https://crypto.com"
+  },
+  {
+    "name": "Dabble (3 or 5 Pick)",
+    "url": "https://dabble.com"
+  },
+  {
+    "name": "Dabble (3 or 5 Pick Multipliers)",
+    "url": "https://dabble.com"
+  },
+  {
+    "name": "Dabble (Australia)",
+    "url": "https://dabble.com.au"
+  },
+  {
+    "name": "Dafabet",
+    "url": "https://dafabet.com"
+  },
+  {
+    "name": "Danske Spil",
+    "url": "https://dansk-spil.dk"
+  },
+  {
+    "name": "DAZN Bet",
+    "url": "https://daznbet.com"
+  },
+  {
+    "name": "Desert Diamond",
+    "url": "https://desertdiamondcasino.com"
+  },
+  {
+    "name": "Dogg House",
+    "url": "https://dogghouse.com"
+  },
+  {
+    "name": "DraftKings",
+    "url": "https://draftkings.com"
+  },
+  {
+    "name": "DraftKings (Pick 2)",
+    "url": "https://draftkings.com"
+  },
+  {
+    "name": "DraftKings (Pick 3)",
+    "url": "https://draftkings.com"
+  },
+  {
+    "name": "DraftKings (Pick 6)",
+    "url": "https://draftkings.com"
+  },
+  {
+    "name": "DraftKings (Pick 6 Multipliers)",
+    "url": "https://draftkings.com"
+  },
+  {
+    "name": "DraftKings Predictions",
+    "url": "https://draftkings.com"
+  },
+  {
+    "name": "Elite Bet",
+    "url": "https://elite-bet.com"
+  },
+  {
+    "name": "EPICK",
+    "url": "https://epick.com"
+  },
+  {
+    "name": "EPICK 50/50",
+    "url": "https://epick.com"
+  },
+  {
+    "name": "Eurobet",
+    "url": "https://eurobet.it"
+  },
+  {
+    "name": "Everygame",
+    "url": "https://everygame.com"
+  },
+  {
+    "name": "Fanatics",
+    "url": "https://fanatics.com"
+  },
+  {
+    "name": "Fanatics Markets",
+    "url": "https://fanatics.com"
+  },
+  {
+    "name": "FireKeepers",
+    "url": "https://firekeepers.com"
+  },
+  {
+    "name": "Fliff",
+    "url": "https://getfliff.com"
+  },
+  {
+    "name": "Fliff Superstars",
+    "url": "https://getfliff.com"
+  },
+  {
+    "name": "Fonbet",
+    "url": "https://fonbet.com"
+  },
+  {
+    "name": "Four Winds",
+    "url": "https://fourwinds.com"
+  },
+  {
+    "name": "Galera.bet",
+    "url": "https://galera.bet"
+  },
+  {
+    "name": "GGBet",
+    "url": "https://ggbet.com"
+  },
+  {
+    "name": "Goldbet",
+    "url": "https://goldbet.it"
+  },
+  {
+    "name": "Granawin",
+    "url": "https://granawin.com"
+  },
+  {
+    "name": "Heritage",
+    "url": "https://heritage.com"
+  },
+  {
+    "name": "HotStreak",
+    "url": "https://hotstreak.com"
+  },
+  {
+    "name": "iBet",
+    "url": "https://ibet.com"
+  },
+  {
+    "name": "Jackpot.bet",
+    "url": "https://jackpot.bet"
+  },
+  {
+    "name": "Jazz Sports",
+    "url": "https://jazzsports.com"
+  },
+  {
+    "name": "Jugabet (Argentina)",
+    "url": "https://jugabet.com"
+  },
+  {
+    "name": "Jugabet (Chile)",
+    "url": "https://jugabet.com"
+  },
+  {
+    "name": "JustBet",
+    "url": "https://justbet.com"
+  },
+  {
+    "name": "Kalshi",
+    "url": "https://kalshi.com"
+  },
+  {
+    "name": "Ladbrokes",
+    "url": "https://ladbrokes.com"
+  },
+  {
+    "name": "Ladbrokes (Australia)",
+    "url": "https://ladbrokes.com.au"
+  },
+  {
+    "name": "LeoVegas",
+    "url": "https://leovegas.com"
+  },
+  {
+    "name": "Limitless Exchange",
+    "url": "https://limitless.exchange"
+  },
+  {
+    "name": "Lottoland",
+    "url": "https://lottoland.com"
+  },
+  {
+    "name": "LowVig",
+    "url": "https://lowvig.ag"
+  },
+  {
+    "name": "Lucky Casino",
+    "url": "https://luckycasino.com"
+  },
+  {
+    "name": "Marathonbet",
+    "url": "https://marathonbet.com"
+  },
+  {
+    "name": "Melbet",
+    "url": "https://melbet.com"
+  },
+  {
+    "name": "Midnite",
+    "url": "https://midnite.com"
+  },
+  {
+    "name": "Mise-o-jeu",
+    "url": "https://miseojeu.com"
+  },
+  {
+    "name": "MyBookie",
+    "url": "https://mybookie.com"
+  },
+  {
+    "name": "Neds",
+    "url": "https://neds.com.au"
+  },
+  {
+    "name": "Ninja Casino",
+    "url": "https://ninjacasino.com"
+  },
+  {
+    "name": "NorthStar Bets",
+    "url": "https://northstarbets.com"
+  },
+  {
+    "name": "Novig",
+    "url": "https://novig.com"
+  },
+  {
+    "name": "Oddin",
+    "url": "https://oddin.com"
+  },
+  {
+    "name": "Onyx Odds",
+    "url": "https://onyxodds.com"
+  },
+  {
+    "name": "Opinion Labs",
+    "url": "https://opinionlabs.com"
+  },
+  {
+    "name": "OpticOdds AI",
+    "url": "https://opticodds.com"
+  },
+  {
+    "name": "OpticOdds AI DFS",
+    "url": "https://opticodds.com"
+  },
+  {
+    "name": "Overtime",
+    "url": "https://overtime.com"
+  },
+  {
+    "name": "OwnersBox",
+    "url": "https://ownersbox.com"
+  },
+  {
+    "name": "OwnersBox (6 Pick Insured)",
+    "url": "https://ownersbox.com"
+  },
+  {
+    "name": "Ozoon",
+    "url": "https://ozoon.com"
+  },
+  {
+    "name": "Parimatch (Brazil)",
+    "url": "https://parimatch.com"
+  },
+  {
+    "name": "Parimatch (India)",
+    "url": "https://parimatch.com"
+  },
+  {
+    "name": "Parlaye",
+    "url": "https://parlaye.com"
+  },
+  {
+    "name": "ParlayPlay",
+    "url": "https://parlayplay.com"
+  },
+  {
+    "name": "partypoker",
+    "url": "https://partypoker.com"
+  },
+  {
+    "name": "Picklebet",
+    "url": "https://picklebet.com"
+  },
+  {
+    "name": "Play Alberta",
+    "url": "https://playalberta.com"
+  },
+  {
+    "name": "Playdoit",
+    "url": "https://playdoit.com"
+  },
+  {
+    "name": "Play Eagle",
+    "url": "https://playeagle.com"
+  },
+  {
+    "name": "PlayNow",
+    "url": "https://playnow.com"
+  },
+  {
+    "name": "PointsBet (Australia)",
+    "url": "https://pointsbet.com"
+  },
+  {
+    "name": "PointsBet (Ontario)",
+    "url": "https://pointsbet.com"
+  },
+  {
+    "name": "Polymarket",
+    "url": "https://polymarket.com"
+  },
+  {
+    "name": "Polymarket (USA)",
+    "url": "https://polymarket.com"
+  },
+  {
+    "name": "Prime Sports",
+    "url": "https://primesports.com"
+  },
+  {
+    "name": "PrizePicks",
+    "url": "https://prizepicks.com"
+  },
+  {
+    "name": "PrizePicks (5 or 6 Pick Flex)",
+    "url": "https://prizepicks.com"
+  },
+  {
+    "name": "PrizePicks (Demons and Goblins)",
+    "url": "https://prizepicks.com"
+  },
+  {
+    "name": "Proline",
+    "url": "https://proline.ca"
+  },
+  {
+    "name": "Prophet X",
+    "url": "https://prophetx.com"
+  },
+  {
+    "name": "Props Builder",
+    "url": "https://propsbuilder.com"
+  },
+  {
+    "name": "PS3838",
+    "url": "https://ps3838.com"
+  },
+  {
+    "name": "Rebet",
+    "url": "https://rebet.com"
+  },
+  {
+    "name": "Rebet Props City",
+    "url": "https://rebet.com"
+  },
+  {
+    "name": "Rivalry",
+    "url": "https://rivalry.com"
+  },
+  {
+    "name": "Rizk",
+    "url": "https://rizk.com"
+  },
+  {
+    "name": "Robinhood",
+    "url": "https://robinhood.com"
+  },
+  {
+    "name": "RushBet",
+    "url": "https://rushbet.com"
+  },
+  {
+    "name": "SABA Sports",
+    "url": "https://sabasports.com"
+  },
+  {
+    "name": "SBOBET",
+    "url": "https://sbobet.com"
+  },
+  {
+    "name": "Sharp",
+    "url": "https://sharp.com"
+  },
+  {
+    "name": "Sleeper",
+    "url": "https://sleeper.com"
+  },
+  {
+    "name": "Smarkets",
+    "url": "https://smarkets.com"
+  },
+  {
+    "name": "SpinBet",
+    "url": "https://spinbet.com"
+  },
+  {
+    "name": "Sportingbet",
+    "url": "https://sportingbet.com"
+  },
+  {
+    "name": "Sportsbet",
+    "url": "https://sportsbet.com"
+  },
+  {
+    "name": "Sportsbetting.ag",
+    "url": "https://sportsbetting.ag"
+  },
+  {
+    "name": "Sports Interaction",
+    "url": "https://sportsinteraction.com"
+  },
+  {
+    "name": "Sporttrade",
+    "url": "https://sporttrade.com"
+  },
+  {
+    "name": "Sportzino",
+    "url": "https://sportzino.com"
+  },
+  {
+    "name": "Stake",
+    "url": "https://stake.com"
+  },
+  {
+    "name": "STN Sports",
+    "url": "https://stnsports.com"
+  },
+  {
+    "name": "SugarHouse",
+    "url": "https://sugarhouse.com"
+  },
+  {
+    "name": "Supabets",
+    "url": "https://supabets.co.za"
+  },
+  {
+    "name": "Superbet",
+    "url": "https://superbet.com"
+  },
+  {
+    "name": "SurgeBet",
+    "url": "https://surgebet.com"
+  },
+  {
+    "name": "Svenskaspel",
+    "url": "https://svenskaspel.se"
+  },
+  {
+    "name": "SX Bet",
+    "url": "https://sxbet.com"
+  },
+  {
+    "name": "TAB",
+    "url": "https://tab.co.nz"
+  },
+  {
+    "name": "TAB (New Zealand)",
+    "url": "https://tab.co.nz"
+  },
+  {
+    "name": "TABtouch",
+    "url": "https://tabtouch.com.au"
+  },
+  {
+    "name": "Team Mexico",
+    "url": "https://teammexico.com"
+  },
+  {
+    "name": "theScore",
+    "url": "https://thescore.com"
+  },
+  {
+    "name": "Thrillzz",
+    "url": "https://thrillzz.com"
+  },
+  {
+    "name": "ThriveFantasy",
+    "url": "https://thrivefantasy.com"
+  },
+  {
+    "name": "Thunderpick",
+    "url": "https://thunderpick.com"
+  },
+  {
+    "name": "Tipsport",
+    "url": "https://tipsport.com"
+  },
+  {
+    "name": "TonyBet",
+    "url": "https://tonybet.com"
+  },
+  {
+    "name": "TwinSpires",
+    "url": "https://twinspires.com"
+  },
+  {
+    "name": "Underdog Fantasy (2 Pick)",
+    "url": "https://underdogfantasy.com"
+  },
+  {
+    "name": "Underdog Fantasy (3 or 5 Pick)",
+    "url": "https://underdogfantasy.com"
+  },
+  {
+    "name": "Underdog Fantasy (Multipliers)",
+    "url": "https://underdogfantasy.com"
+  },
+  {
+    "name": "Underdog Predictions",
+    "url": "https://underdogfantasy.com"
+  },
+  {
+    "name": "Unibet",
+    "url": "https://unibet.com"
+  },
+  {
+    "name": "Unibet (Australia)",
+    "url": "https://unibet.com"
+  },
+  {
+    "name": "Unibet (Denmark)",
+    "url": "https://unibet.com"
+  },
+  {
+    "name": "Unibet (Sweden)",
+    "url": "https://unibet.com"
+  },
+  {
+    "name": "Unibet (United Kingdom)",
+    "url": "https://unibet.com"
+  },
+  {
+    "name": "Veikkaus",
+    "url": "https://veikkaus.fi"
+  },
+  {
+    "name": "Wanna Parlay",
+    "url": "https://wannaparlay.com"
+  },
+  {
+    "name": "William Hill",
+    "url": "https://williamhill.com"
+  },
+  {
+    "name": "Winpot",
+    "url": "https://winpot.com"
+  },
+  {
+    "name": "YouWager",
+    "url": "https://youwager.com"
+  }
+]

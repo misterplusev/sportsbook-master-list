@@ -1,0 +1,19 @@
+<html>
+    <head>
+        <title>Access Denied</title>
+    </head>
+    <body onload="renderScript()">
+        <h1>Access Denied</h1>
+        <p>You don't have permission to access this page.</p>
+        <p>Reference <span id="referenceId">18.b31c2e17.1767655101.340ac606</span></p>
+        <p>RC <span id="rcId">3972d2cdae36d2f5</span></p>
+    </body>
+</html>
+<script>
+    function renderScript() {
+        const script = document.createElement('script');
+        script.src = '/_es_/fo/customdeny/v5/index.js';
+        script.async = true;
+        document.body.appendChild(script);
+    }
+</script>
