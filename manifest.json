@@ -493,21 +493,21 @@
     "name": "Betsson",
     "domain": "betsson.com",
     "status": "verified",
-    "size": 10708,
-    "content_type": "image/svg+xml",
-    "sha256": "d2b993345afc87e1b5b325805de444162c4d16b2702842b8fd45d406817d0e39",
-    "source_url": "logos/betsson_com.svg",
-    "file": "betsson_com.svg"
+    "size": 3320,
+    "content_type": "image/png",
+    "sha256": "e1699974dd7f715064a9db302f0283189d51505bcb06b4166544b961893ab82f",
+    "source_url": "logos/betsson_com.png",
+    "file": "betsson_com.png"
   },
   "Betsson (Chile)": {
     "name": "Betsson (Chile)",
     "domain": "betsson.com",
     "status": "verified",
-    "size": 10708,
-    "content_type": "image/svg+xml",
-    "sha256": "d2b993345afc87e1b5b325805de444162c4d16b2702842b8fd45d406817d0e39",
-    "source_url": "logos/betsson_com.svg",
-    "file": "betsson_com.svg"
+    "size": 3320,
+    "content_type": "image/png",
+    "sha256": "e1699974dd7f715064a9db302f0283189d51505bcb06b4166544b961893ab82f",
+    "source_url": "logos/betsson_com.png",
+    "file": "betsson_com.png"
   },
   "BetUS": {
     "name": "BetUS",
@@ -803,11 +803,11 @@
     "name": "Dafabet",
     "domain": "dafabet.com",
     "status": "verified",
-    "size": 593,
+    "size": 1590,
     "content_type": "image/png",
-    "sha256": "180109f8f37c833e1f965c5662f54e73b3e1291117a3c7fa320dab4ae7727dcd",
-    "source_url": "logos/dafabet_com.bin",
-    "file": "dafabet_com.bin"
+    "sha256": "973a186790b8c8afac66e58da3b177bb0ec194c73299184191e52819088f30f2",
+    "source_url": "logos/dafabet_com.png",
+    "file": "dafabet_com.png"
   },
   "Danske Spil": {
     "name": "Danske Spil",
@@ -1153,11 +1153,11 @@
     "name": "Kalshi",
     "domain": "kalshi.com",
     "status": "verified",
-    "size": 296982,
-    "content_type": "image/png",
-    "sha256": "373d02f76926dd154f7c6b2947d2e1d216f8d4ac9d131e2af52f9a7a2c85dfe1",
-    "source_url": "logos/kalshi_com.bin",
-    "file": "kalshi_com.bin"
+    "size": 4096,
+    "content_type": "image/svg+xml",
+    "sha256": "be680365419b84db072ccdd485106a92a9dd8747b4f2e029e56dc830485c0f91",
+    "source_url": "logos/kalshi_com.svg",
+    "file": "kalshi_com.svg"
   },
   "Ladbrokes": {
     "name": "Ladbrokes",
