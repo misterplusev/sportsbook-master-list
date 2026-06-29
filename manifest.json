@@ -91,13 +91,13 @@
   },
   "bet105": {
     "name": "bet105",
-    "domain": "bet105.io",
-    "status": "missing",
-    "size": 0,
-    "content_type": "",
-    "sha256": "",
-    "source_url": "",
-    "file": ""
+    "domain": "bet105.ag",
+    "status": "verified",
+    "size": 7080,
+    "content_type": "image/png",
+    "sha256": "146d6527783ea7004d13edbc5049389d376d465926554b99f7f34f22a3cdef7a",
+    "source_url": "logos/bet105_io.png",
+    "file": "bet105_io.png"
   },
   "bet365": {
     "name": "bet365",
@@ -522,12 +522,12 @@
   "BetVictor": {
     "name": "BetVictor",
     "domain": "betvictor.com",
-    "status": "missing",
-    "size": 0,
-    "content_type": "",
-    "sha256": "",
-    "source_url": "",
-    "file": ""
+    "status": "verified",
+    "size": 9158,
+    "content_type": "image/jpeg",
+    "sha256": "1e45755f36e39152317336254ce48f4a0cfcfa3ee52e3fcfe7c82795e2633feb",
+    "source_url": "logos/betvictor_com.jpg",
+    "file": "betvictor_com.jpg"
   },
   "Betway": {
     "name": "Betway",
@@ -622,12 +622,12 @@
   "Boyle Sports": {
     "name": "Boyle Sports",
     "domain": "boylesports.com",
-    "status": "missing",
-    "size": 0,
-    "content_type": "",
-    "sha256": "",
-    "source_url": "",
-    "file": ""
+    "status": "verified",
+    "size": 22567,
+    "content_type": "image/png",
+    "sha256": "614ef417511916c9607659e07f28064f7e7be3cbab1288ae975e90ab0a4ecce3",
+    "source_url": "logos/boylesports_com.png",
+    "file": "boylesports_com.png"
   },
   "Bracco": {
     "name": "Bracco",
@@ -643,11 +643,11 @@
     "name": "bwin",
     "domain": "bwin.com",
     "status": "verified",
-    "size": 6066,
-    "content_type": "image/jpeg",
-    "sha256": "03aee596228ad791259a7d221c6638f4671890ea2533df4f03969852c1c7c2fe",
-    "source_url": "logos/bwin_com.jpg",
-    "file": "bwin_com.jpg"
+    "size": 3682,
+    "content_type": "image/svg+xml",
+    "sha256": "5012e56cfc58281eb196126bc1f6c95d594e253768f66f2c021e54af093a8fa4",
+    "source_url": "logos/bwin_com.svg",
+    "file": "bwin_com.svg"
   },
   "Caesars": {
     "name": "Caesars",
@@ -962,22 +962,22 @@
   "Fanatics": {
     "name": "Fanatics",
     "domain": "fanatics.com",
-    "status": "verified",
-    "size": 530,
-    "content_type": "image/svg+xml",
-    "sha256": "dda2c9b8fbb88c5ed73d918d1da117be06bc0c2fd41a3cb55155bf7c23901c7c",
-    "source_url": "logos/fanatics_com.svg",
-    "file": "fanatics_com.svg"
+    "status": "missing",
+    "size": 0,
+    "content_type": "",
+    "sha256": "",
+    "source_url": "",
+    "file": ""
   },
   "Fanatics Markets": {
     "name": "Fanatics Markets",
     "domain": "fanatics.com",
-    "status": "verified",
-    "size": 530,
-    "content_type": "image/svg+xml",
-    "sha256": "dda2c9b8fbb88c5ed73d918d1da117be06bc0c2fd41a3cb55155bf7c23901c7c",
-    "source_url": "logos/fanatics_com.svg",
-    "file": "fanatics_com.svg"
+    "status": "missing",
+    "size": 0,
+    "content_type": "",
+    "sha256": "",
+    "source_url": "",
+    "file": ""
   },
   "FireKeepers": {
     "name": "FireKeepers",
@@ -1012,12 +1012,12 @@
   "Fonbet": {
     "name": "Fonbet",
     "domain": "fonbet.com",
-    "status": "missing",
-    "size": 0,
-    "content_type": "",
-    "sha256": "",
-    "source_url": "",
-    "file": ""
+    "status": "verified",
+    "size": 7190,
+    "content_type": "image/svg+xml",
+    "sha256": "5f47c025c5efd93bf12d52af4c200de05a0e8077d82cbcedac1a2359a2b61222",
+    "source_url": "logos/fonbet_com.svg",
+    "file": "fonbet_com.svg"
   },
   "Four Winds": {
     "name": "Four Winds",
@@ -1162,12 +1162,12 @@
   "Ladbrokes": {
     "name": "Ladbrokes",
     "domain": "ladbrokes.com",
-    "status": "missing",
-    "size": 0,
-    "content_type": "",
-    "sha256": "",
-    "source_url": "",
-    "file": ""
+    "status": "verified",
+    "size": 2588,
+    "content_type": "image/gif",
+    "sha256": "313a25f42a80d2733c4ccc8f8fb91dd255e4880537dac69108e60d6433c12d3d",
+    "source_url": "logos/ladbrokes_com.gif",
+    "file": "ladbrokes_com.gif"
   },
   "Ladbrokes (Australia)": {
     "name": "Ladbrokes (Australia)",

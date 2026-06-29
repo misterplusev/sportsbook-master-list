@@ -1,0 +1,317 @@
+[
+  {
+    "name": "4Cx",
+    "host": "4cx.com",
+    "status": "failed"
+  },
+  {
+    "name": "bet105",
+    "host": "bet105.io",
+    "status": "failed"
+  },
+  {
+    "name": "BET99",
+    "host": "bet99.ca",
+    "status": "failed"
+  },
+  {
+    "name": "BetDeluxe",
+    "host": "betdeluxe.com",
+    "status": "failed"
+  },
+  {
+    "name": "BetGRW",
+    "host": "betgrw.com",
+    "status": "failed"
+  },
+  {
+    "name": "BetMania",
+    "host": "betmania.com",
+    "status": "failed"
+  },
+  {
+    "name": "BetNation",
+    "host": "betnation.com",
+    "status": "failed"
+  },
+  {
+    "name": "BetNation (Australia)",
+    "host": "betnation.com.au",
+    "status": "failed"
+  },
+  {
+    "name": "BetVictor",
+    "host": "betvictor.com",
+    "status": "failed"
+  },
+  {
+    "name": "betwhale",
+    "host": "betwhale.com",
+    "status": "failed"
+  },
+  {
+    "name": "Boomers",
+    "host": "boomers.bet",
+    "status": "failed"
+  },
+  {
+    "name": "Boyle Sports",
+    "host": "boylesports.com",
+    "status": "failed"
+  },
+  {
+    "name": "Bracco",
+    "host": "bracco.bet",
+    "status": "failed"
+  },
+  {
+    "name": "CampoBet",
+    "host": "campobet.com",
+    "status": "failed"
+  },
+  {
+    "name": "Casumo",
+    "host": "casumo.com",
+    "status": "failed"
+  },
+  {
+    "name": "Codere",
+    "host": "codere.com",
+    "status": "failed"
+  },
+  {
+    "name": "Coolbet",
+    "host": "coolbet.com",
+    "status": "failed"
+  },
+  {
+    "name": "Coral",
+    "host": "coral.co.uk",
+    "status": "failed"
+  },
+  {
+    "name": "Courtside",
+    "host": "courtside.com",
+    "status": "failed"
+  },
+  {
+    "name": "Danske Spil",
+    "host": "dansk-spil.dk",
+    "status": "failed"
+  },
+  {
+    "name": "Desert Diamond",
+    "host": "desertdiamondcasino.com",
+    "status": "failed"
+  },
+  {
+    "name": "Dogg House",
+    "host": "dogghouse.com",
+    "status": "failed"
+  },
+  {
+    "name": "Fonbet",
+    "host": "fonbet.com",
+    "status": "failed"
+  },
+  {
+    "name": "Four Winds",
+    "host": "fourwinds.com",
+    "status": "failed"
+  },
+  {
+    "name": "Galera.bet",
+    "host": "galera.bet",
+    "status": "failed"
+  },
+  {
+    "name": "GGBet",
+    "host": "ggbet.com",
+    "status": "failed"
+  },
+  {
+    "name": "Goldbet",
+    "host": "goldbet.it",
+    "status": "failed"
+  },
+  {
+    "name": "Heritage",
+    "host": "heritage.com",
+    "status": "failed"
+  },
+  {
+    "name": "HotStreak",
+    "host": "hotstreak.com",
+    "status": "failed"
+  },
+  {
+    "name": "Jazz Sports",
+    "host": "jazzsports.com",
+    "status": "failed"
+  },
+  {
+    "name": "Jugabet (Argentina)",
+    "host": "jugabet.com",
+    "status": "failed"
+  },
+  {
+    "name": "Jugabet (Chile)",
+    "host": "jugabet.com",
+    "status": "failed"
+  },
+  {
+    "name": "JustBet",
+    "host": "justbet.com",
+    "status": "failed"
+  },
+  {
+    "name": "Ladbrokes",
+    "host": "ladbrokes.com",
+    "status": "failed"
+  },
+  {
+    "name": "Ladbrokes (Australia)",
+    "host": "ladbrokes.com.au",
+    "status": "failed"
+  },
+  {
+    "name": "Lucky Casino",
+    "host": "luckycasino.com",
+    "status": "failed"
+  },
+  {
+    "name": "Melbet",
+    "host": "melbet.com",
+    "status": "failed"
+  },
+  {
+    "name": "Mise-o-jeu",
+    "host": "miseojeu.com",
+    "status": "failed"
+  },
+  {
+    "name": "Neds",
+    "host": "neds.com.au",
+    "status": "failed"
+  },
+  {
+    "name": "Ninja Casino",
+    "host": "ninjacasino.com",
+    "status": "failed"
+  },
+  {
+    "name": "Oddin",
+    "host": "oddin.com",
+    "status": "failed"
+  },
+  {
+    "name": "Opinion Labs",
+    "host": "opinionlabs.com",
+    "status": "failed"
+  },
+  {
+    "name": "Overtime",
+    "host": "overtime.com",
+    "status": "failed"
+  },
+  {
+    "name": "Parimatch (Brazil)",
+    "host": "parimatch.com",
+    "status": "failed"
+  },
+  {
+    "name": "Parimatch (India)",
+    "host": "parimatch.com",
+    "status": "failed"
+  },
+  {
+    "name": "ParlayPlay",
+    "host": "parlayplay.com",
+    "status": "failed"
+  },
+  {
+    "name": "Play Alberta",
+    "host": "playalberta.com",
+    "status": "failed"
+  },
+  {
+    "name": "Playdoit",
+    "host": "playdoit.com",
+    "status": "failed"
+  },
+  {
+    "name": "PointsBet (Australia)",
+    "host": "pointsbet.com",
+    "status": "failed"
+  },
+  {
+    "name": "PointsBet (Ontario)",
+    "host": "pointsbet.com",
+    "status": "failed"
+  },
+  {
+    "name": "Proline",
+    "host": "proline.ca",
+    "status": "failed"
+  },
+  {
+    "name": "Props Builder",
+    "host": "propsbuilder.com",
+    "status": "failed"
+  },
+  {
+    "name": "PS3838",
+    "host": "ps3838.com",
+    "status": "failed"
+  },
+  {
+    "name": "Rizk",
+    "host": "rizk.com",
+    "status": "failed"
+  },
+  {
+    "name": "RushBet",
+    "host": "rushbet.com",
+    "status": "failed"
+  },
+  {
+    "name": "Sportingbet",
+    "host": "sportingbet.com",
+    "status": "failed"
+  },
+  {
+    "name": "SugarHouse",
+    "host": "sugarhouse.com",
+    "status": "failed"
+  },
+  {
+    "name": "Superbet",
+    "host": "superbet.com",
+    "status": "failed"
+  },
+  {
+    "name": "SurgeBet",
+    "host": "surgebet.com",
+    "status": "failed"
+  },
+  {
+    "name": "TAB",
+    "host": "tab.co.nz",
+    "status": "failed"
+  },
+  {
+    "name": "TAB (New Zealand)",
+    "host": "tab.co.nz",
+    "status": "failed"
+  },
+  {
+    "name": "ThriveFantasy",
+    "host": "thrivefantasy.com",
+    "status": "failed"
+  },
+  {
+    "name": "Tipsport",
+    "host": "tipsport.com",
+    "status": "failed"
+  }
+]
