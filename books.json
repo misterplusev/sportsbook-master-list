@@ -854,5 +854,77 @@
   {
     "name": "YouWager",
     "url": "https://youwager.com"
+  },
+  {
+    "name": "FanDuel",
+    "url": "https://www.fanduel.com"
+  },
+  {
+    "name": "Pinnacle",
+    "url": "https://www.pinnacle.com"
+  },
+  {
+    "name": "Hard Rock Bet",
+    "url": "https://www.hardrock.bet"
+  },
+  {
+    "name": "WynnBET",
+    "url": "https://www.wynnbet.com"
+  },
+  {
+    "name": "SuperBook",
+    "url": "https://www.superbook.com"
+  },
+  {
+    "name": "Betfred",
+    "url": "https://www.betfred.com"
+  },
+  {
+    "name": "Betly",
+    "url": "https://www.betly.com"
+  },
+  {
+    "name": "SBK",
+    "url": "https://www.sbk.com"
+  },
+  {
+    "name": "Resorts World",
+    "url": "https://www.resortsworld.com"
+  },
+  {
+    "name": "Action 24/7",
+    "url": "https://www.action247.com"
+  },
+  {
+    "name": "Q Sportsbook",
+    "url": "https://www.qsportsbook.com"
+  },
+  {
+    "name": "BetMonarch",
+    "url": "https://www.betmonarch.com"
+  },
+  {
+    "name": "DRF Sportsbook",
+    "url": "https://www.drf.com"
+  },
+  {
+    "name": "BetWildwood",
+    "url": "https://www.betwildwood.com"
+  },
+  {
+    "name": "Eagle Sports",
+    "url": "https://www.eaglesports.com"
+  },
+  {
+    "name": "MVGBet",
+    "url": "https://www.mvgbet.com"
+  },
+  {
+    "name": "Prime Sportsbook",
+    "url": "https://www.primesportsbook.com"
+  },
+  {
+    "name": "Snoqualmie",
+    "url": "https://www.snoqualmieceasons.com"
   }
 ]

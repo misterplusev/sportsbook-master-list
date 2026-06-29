@@ -1553,11 +1553,11 @@
     "name": "Prime Sports",
     "domain": "primesports.com",
     "status": "verified",
-    "size": 518683,
-    "content_type": "image/png",
-    "sha256": "216a5db186abae1b7dfb0c36745fb2a4cca6689a196586c8d0f1a5de169f1f7d",
-    "source_url": "logos/primesports_com.bin",
-    "file": "primesports_com.bin"
+    "size": 21674,
+    "content_type": "image/svg+xml",
+    "sha256": "bc45c77f46423a6f7f5979c2e09d4c1984d235ca0a7c6ee48e55561ab2540bea",
+    "source_url": "logos/primesports_com.svg",
+    "file": "primesports_com.svg"
   },
   "PrizePicks": {
     "name": "PrizePicks",
@@ -2138,5 +2138,185 @@
     "sha256": "49932777486b6e8163dcf6cbd40e71078799de2f708d1208dac051e2ae4c06e2",
     "source_url": "logos/youwager_com.bin",
     "file": "youwager_com.bin"
+  },
+  "FanDuel": {
+    "name": "FanDuel",
+    "domain": "fanduel.com",
+    "status": "verified",
+    "size": 15406,
+    "content_type": "image/x-icon",
+    "sha256": "240f200f3370013d08b3061cd88da981b05d3bc5d78e1184aa26a7e5ad03de3d",
+    "source_url": "logos/fanduel.ico",
+    "file": "fanduel.ico"
+  },
+  "Pinnacle": {
+    "name": "Pinnacle",
+    "domain": "pinnacle.com",
+    "status": "verified",
+    "size": 5032,
+    "content_type": "image/png",
+    "sha256": "d75ba1aa11e6a620c37e4ccf25826a38b58e79b5f19ad6550887c1f17fc5c687",
+    "source_url": "logos/pinnacle_com.png",
+    "file": "pinnacle_com.png"
+  },
+  "Hard Rock Bet": {
+    "name": "Hard Rock Bet",
+    "domain": "hardrock.bet",
+    "status": "verified",
+    "size": 6541,
+    "content_type": "image/svg+xml",
+    "sha256": "1ad36bb013ad1c7e1cf0036fbc5de119e09dc6cd3573a60e529393d6783ef713",
+    "source_url": "logos/hardrock.svg",
+    "file": "hardrock.svg"
+  },
+  "WynnBET": {
+    "name": "WynnBET",
+    "domain": "wynnbet.com",
+    "status": "missing",
+    "size": 0,
+    "content_type": "",
+    "sha256": "",
+    "source_url": "",
+    "file": ""
+  },
+  "SuperBook": {
+    "name": "SuperBook",
+    "domain": "superbook.com",
+    "status": "missing",
+    "size": 0,
+    "content_type": "",
+    "sha256": "",
+    "source_url": "",
+    "file": ""
+  },
+  "Betfred": {
+    "name": "Betfred",
+    "domain": "betfred.com",
+    "status": "missing",
+    "size": 0,
+    "content_type": "",
+    "sha256": "",
+    "source_url": "",
+    "file": ""
+  },
+  "Betly": {
+    "name": "Betly",
+    "domain": "betly.com",
+    "status": "missing",
+    "size": 0,
+    "content_type": "",
+    "sha256": "",
+    "source_url": "",
+    "file": ""
+  },
+  "SBK": {
+    "name": "SBK",
+    "domain": "sbk.com",
+    "status": "missing",
+    "size": 0,
+    "content_type": "",
+    "sha256": "",
+    "source_url": "",
+    "file": ""
+  },
+  "Resorts World": {
+    "name": "Resorts World",
+    "domain": "resortsworld.com",
+    "status": "missing",
+    "size": 0,
+    "content_type": "",
+    "sha256": "",
+    "source_url": "",
+    "file": ""
+  },
+  "Action 24/7": {
+    "name": "Action 24/7",
+    "domain": "action247.com",
+    "status": "missing",
+    "size": 0,
+    "content_type": "",
+    "sha256": "",
+    "source_url": "",
+    "file": ""
+  },
+  "Q Sportsbook": {
+    "name": "Q Sportsbook",
+    "domain": "qsportsbook.com",
+    "status": "missing",
+    "size": 0,
+    "content_type": "",
+    "sha256": "",
+    "source_url": "",
+    "file": ""
+  },
+  "BetMonarch": {
+    "name": "BetMonarch",
+    "domain": "betmonarch.com",
+    "status": "missing",
+    "size": 0,
+    "content_type": "",
+    "sha256": "",
+    "source_url": "",
+    "file": ""
+  },
+  "DRF Sportsbook": {
+    "name": "DRF Sportsbook",
+    "domain": "drf.com",
+    "status": "missing",
+    "size": 0,
+    "content_type": "",
+    "sha256": "",
+    "source_url": "",
+    "file": ""
+  },
+  "BetWildwood": {
+    "name": "BetWildwood",
+    "domain": "betwildwood.com",
+    "status": "missing",
+    "size": 0,
+    "content_type": "",
+    "sha256": "",
+    "source_url": "",
+    "file": ""
+  },
+  "Eagle Sports": {
+    "name": "Eagle Sports",
+    "domain": "eaglesports.com",
+    "status": "missing",
+    "size": 0,
+    "content_type": "",
+    "sha256": "",
+    "source_url": "",
+    "file": ""
+  },
+  "MVGBet": {
+    "name": "MVGBet",
+    "domain": "mvgbet.com",
+    "status": "missing",
+    "size": 0,
+    "content_type": "",
+    "sha256": "",
+    "source_url": "",
+    "file": ""
+  },
+  "Prime Sportsbook": {
+    "name": "Prime Sportsbook",
+    "domain": "primesportsbook.com",
+    "status": "missing",
+    "size": 0,
+    "content_type": "",
+    "sha256": "",
+    "source_url": "",
+    "file": ""
+  },
+  "Snoqualmie": {
+    "name": "Snoqualmie",
+    "domain": "snoqualmieceasons.com",
+    "status": "missing",
+    "size": 0,
+    "content_type": "",
+    "sha256": "",
+    "source_url": "",
+    "file": ""
   }
 }
