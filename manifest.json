@@ -162,12 +162,12 @@
   "BetAnything": {
     "name": "BetAnything",
     "domain": "betanything.com",
-    "status": "verified",
-    "size": 5318,
-    "content_type": "image/svg+xml",
-    "sha256": "f7362ea1183cd708b27f77dd41f256c3d6faba639c20be3fdc21d760913d2d56",
-    "source_url": "logos/betanything_com.svg",
-    "file": "betanything_com.svg"
+    "status": "missing",
+    "size": 0,
+    "content_type": "",
+    "sha256": "",
+    "source_url": "",
+    "file": ""
   },
   "BetCorrect": {
     "name": "BetCorrect",
@@ -403,11 +403,11 @@
     "name": "Betr",
     "domain": "betr.app",
     "status": "verified",
-    "size": 125537,
-    "content_type": "image/jpeg",
-    "sha256": "33c64c875245eef33ead0d31667be9225d3690f94466138589f73f55c5631f2f",
-    "source_url": "logos/betr_app.bin",
-    "file": "betr_app.bin"
+    "size": 4087,
+    "content_type": "image/png",
+    "sha256": "235f4cd1e293dafdec75c9b847f0305cea7bc2575b23194059f5cb20c24bec04",
+    "source_url": "logos/betr_app.png",
+    "file": "betr_app.png"
   },
   "Betr (Australia)": {
     "name": "Betr (Australia)",
@@ -443,31 +443,31 @@
     "name": "Betr Picks",
     "domain": "betr.app",
     "status": "verified",
-    "size": 125537,
-    "content_type": "image/jpeg",
-    "sha256": "33c64c875245eef33ead0d31667be9225d3690f94466138589f73f55c5631f2f",
-    "source_url": "logos/betr_app.bin",
-    "file": "betr_app.bin"
+    "size": 4087,
+    "content_type": "image/png",
+    "sha256": "235f4cd1e293dafdec75c9b847f0305cea7bc2575b23194059f5cb20c24bec04",
+    "source_url": "logos/betr_app.png",
+    "file": "betr_app.png"
   },
   "Betr Picks (All)": {
     "name": "Betr Picks (All)",
     "domain": "betr.app",
     "status": "verified",
-    "size": 125537,
-    "content_type": "image/jpeg",
-    "sha256": "33c64c875245eef33ead0d31667be9225d3690f94466138589f73f55c5631f2f",
-    "source_url": "logos/betr_app.bin",
-    "file": "betr_app.bin"
+    "size": 4087,
+    "content_type": "image/png",
+    "sha256": "235f4cd1e293dafdec75c9b847f0305cea7bc2575b23194059f5cb20c24bec04",
+    "source_url": "logos/betr_app.png",
+    "file": "betr_app.png"
   },
   "Betr Picks (BOOSTED)": {
     "name": "Betr Picks (BOOSTED)",
     "domain": "betr.app",
     "status": "verified",
-    "size": 125537,
-    "content_type": "image/jpeg",
-    "sha256": "33c64c875245eef33ead0d31667be9225d3690f94466138589f73f55c5631f2f",
-    "source_url": "logos/betr_app.bin",
-    "file": "betr_app.bin"
+    "size": 4087,
+    "content_type": "image/png",
+    "sha256": "235f4cd1e293dafdec75c9b847f0305cea7bc2575b23194059f5cb20c24bec04",
+    "source_url": "logos/betr_app.png",
+    "file": "betr_app.png"
   },
   "Betsafe": {
     "name": "Betsafe",
@@ -513,11 +513,11 @@
     "name": "BetUS",
     "domain": "betus.com",
     "status": "verified",
-    "size": 605647,
-    "content_type": "image/jpeg",
-    "sha256": "ee7cba33c6b6fecc63b90a8d09a304f5986027de46f0c222edff2c3083692087",
-    "source_url": "logos/betus_com.jpg",
-    "file": "betus_com.jpg"
+    "size": 32518,
+    "content_type": "image/png",
+    "sha256": "347d4c2ddc6149fa04a166f086ff9d6d833495fde9511112552d3be0ed2cad8b",
+    "source_url": "logos/betus_com.png",
+    "file": "betus_com.png"
   },
   "BetVictor": {
     "name": "BetVictor",
@@ -1601,13 +1601,13 @@
   },
   "Prophet X": {
     "name": "Prophet X",
-    "domain": "prophetx.com",
+    "domain": "prophetx.co",
     "status": "verified",
-    "size": 217275,
-    "content_type": "image/jpeg",
-    "sha256": "2aa5bfbfd5c9601a2b0f5b7665a9dad35363b04ffa629e38cbc541d2c25e569b",
-    "source_url": "logos/prophetx_com.bin",
-    "file": "prophetx_com.bin"
+    "size": 15406,
+    "content_type": "image/x-icon",
+    "sha256": "f79975ac22bb28e8569eb25e7ea5e916323b785965e77c226cc4d9308b7e158a",
+    "source_url": "logos/prophetx_co.ico",
+    "file": "prophetx_co.ico"
   },
   "Props Builder": {
     "name": "Props Builder",
@@ -1633,9 +1633,9 @@
     "name": "Rebet",
     "domain": "rebet.com",
     "status": "verified",
-    "size": 11705,
+    "size": 540,
     "content_type": "image/png",
-    "sha256": "3acf66dcb1f9ff6326a78e21749d4d16998cd61df34cc6baa56c03ffc28a9c37",
+    "sha256": "5fdc0c23324ca223a3dc70dd9f5ccd1eb965a09c0187cf7ef83b78aa26135961",
     "source_url": "logos/rebet_com.png",
     "file": "rebet_com.png"
   },
@@ -1643,9 +1643,9 @@
     "name": "Rebet Props City",
     "domain": "rebet.com",
     "status": "verified",
-    "size": 11705,
+    "size": 540,
     "content_type": "image/png",
-    "sha256": "3acf66dcb1f9ff6326a78e21749d4d16998cd61df34cc6baa56c03ffc28a9c37",
+    "sha256": "5fdc0c23324ca223a3dc70dd9f5ccd1eb965a09c0187cf7ef83b78aa26135961",
     "source_url": "logos/rebet_com.png",
     "file": "rebet_com.png"
   },
