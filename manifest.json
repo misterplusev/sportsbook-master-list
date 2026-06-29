@@ -13,21 +13,21 @@
     "name": "20bet",
     "domain": "20bet.com",
     "status": "verified",
-    "size": 7639,
+    "size": 33391,
     "content_type": "image/png",
-    "sha256": "f827a2d9b81de9f6f67174f599918cdf165a2a1a20d183c057d97a55d1df82cc",
-    "source_url": "logos/20bet_com.png",
-    "file": "20bet_com.png"
+    "sha256": "344344edf7c1db2b4a09ea40a0282a812319b7ed7d54853816b8c56400a1eb43",
+    "source_url": "logos/20bet_com.bin",
+    "file": "20bet_com.bin"
   },
   "22bet": {
     "name": "22bet",
     "domain": "22bet.com",
-    "status": "missing",
-    "size": 0,
-    "content_type": "",
-    "sha256": "",
-    "source_url": "",
-    "file": ""
+    "status": "verified",
+    "size": 12481,
+    "content_type": "image/png",
+    "sha256": "8eaed391be1cbf1386462aa26ffcc861654609a841c49e75d894474b4037c469",
+    "source_url": "logos/22bet_com.png",
+    "file": "22bet_com.png"
   },
   "4Cx": {
     "name": "4Cx",
@@ -46,8 +46,8 @@
     "size": 447,
     "content_type": "image/png",
     "sha256": "d2d96a98ba0bffa32e2b0480856159a113a00f559b16f172e0c7a6688c9ed8fc",
-    "source_url": "logos/888sport_com.png",
-    "file": "888sport_com.png"
+    "source_url": "logos/888sport_com.bin",
+    "file": "888sport_com.bin"
   },
   "ATG": {
     "name": "ATG",
@@ -72,12 +72,12 @@
   "Batery": {
     "name": "Batery",
     "domain": "batery.bet",
-    "status": "missing",
-    "size": 0,
-    "content_type": "",
-    "sha256": "",
-    "source_url": "",
-    "file": ""
+    "status": "verified",
+    "size": 1150,
+    "content_type": "image/x-icon",
+    "sha256": "08837823772ca4b42fd60b50fb9ed4f184e6af7e3b0a51bc315dba03c08a2b7f",
+    "source_url": "logos/batery_bet.ico",
+    "file": "batery_bet.ico"
   },
   "BC.GAME": {
     "name": "BC.GAME",
@@ -86,8 +86,8 @@
     "size": 120528,
     "content_type": "image/jpeg",
     "sha256": "518fc6cbc37e24790ae16e0b1fe4fef66761bf33a95c06eea2bc3798a187b787",
-    "source_url": "logos/bc_game.jpg",
-    "file": "bc_game.jpg"
+    "source_url": "logos/bc_game.bin",
+    "file": "bc_game.bin"
   },
   "bet105": {
     "name": "bet105",
@@ -123,41 +123,41 @@
     "name": "BetAmapola",
     "domain": "betamapola.com",
     "status": "verified",
-    "size": 12603,
-    "content_type": "image/png",
-    "sha256": "f22b2f59fd25fef48d0250f3e955ff892feb48062adc40684f6180119fe0c26d",
-    "source_url": "logos/betamapola_com.png",
-    "file": "betamapola_com.png"
+    "size": 5588,
+    "content_type": "image/svg+xml",
+    "sha256": "bb502d714dfabe22495b1356f04ad3628d6ca6b2b7ea5bad2d72f3a111fbc1ad",
+    "source_url": "logos/betamapola_com.bin",
+    "file": "betamapola_com.bin"
   },
   "Betano": {
     "name": "Betano",
     "domain": "betano.com",
     "status": "verified",
-    "size": 1082,
-    "content_type": "image/webp",
-    "sha256": "8a49e0cd990cddf92f1d17ee8f69283c2eadd6099d0a4001a72756384b8ba3e4",
-    "source_url": "logos/betano_com.webp",
-    "file": "betano_com.webp"
+    "size": 21695,
+    "content_type": "image/png",
+    "sha256": "0e4356e2cadc3fa9c537333947140b7a8470e67918f46efe10f5b5af0ca5da99",
+    "source_url": "logos/betano_com.bin",
+    "file": "betano_com.bin"
   },
   "Betano (Argentina)": {
     "name": "Betano (Argentina)",
     "domain": "betano.com",
     "status": "verified",
-    "size": 1082,
-    "content_type": "image/webp",
-    "sha256": "8a49e0cd990cddf92f1d17ee8f69283c2eadd6099d0a4001a72756384b8ba3e4",
-    "source_url": "logos/betano_com.webp",
-    "file": "betano_com.webp"
+    "size": 21695,
+    "content_type": "image/png",
+    "sha256": "0e4356e2cadc3fa9c537333947140b7a8470e67918f46efe10f5b5af0ca5da99",
+    "source_url": "logos/betano_com.bin",
+    "file": "betano_com.bin"
   },
   "Betano (Chile)": {
     "name": "Betano (Chile)",
     "domain": "betano.com",
     "status": "verified",
-    "size": 1082,
-    "content_type": "image/webp",
-    "sha256": "8a49e0cd990cddf92f1d17ee8f69283c2eadd6099d0a4001a72756384b8ba3e4",
-    "source_url": "logos/betano_com.webp",
-    "file": "betano_com.webp"
+    "size": 21695,
+    "content_type": "image/png",
+    "sha256": "0e4356e2cadc3fa9c537333947140b7a8470e67918f46efe10f5b5af0ca5da99",
+    "source_url": "logos/betano_com.bin",
+    "file": "betano_com.bin"
   },
   "BetAnything": {
     "name": "BetAnything",
@@ -173,21 +173,21 @@
     "name": "BetCorrect",
     "domain": "betcorrect.com",
     "status": "verified",
-    "size": 38078,
-    "content_type": "image/x-icon",
-    "sha256": "a7dec7afcaf1731f969ddbed775cf5ca9fb439efb1408d091e882068ec6916b2",
-    "source_url": "logos/betcorrect_com.ico",
-    "file": "betcorrect_com.ico"
+    "size": 13064,
+    "content_type": "image/png",
+    "sha256": "fce25d4159fb80285cda39bbe0df1847b792668d13beea473944ad76867e16a7",
+    "source_url": "logos/betcorrect_com.bin",
+    "file": "betcorrect_com.bin"
   },
   "Betcris": {
     "name": "Betcris",
     "domain": "betcris.com",
-    "status": "missing",
-    "size": 0,
-    "content_type": "",
-    "sha256": "",
-    "source_url": "",
-    "file": ""
+    "status": "verified",
+    "size": 14672,
+    "content_type": "image/png",
+    "sha256": "43b313da4df12d2c105ecc08899b39b0b1fe35e7c9854eb0829660298367cbe9",
+    "source_url": "logos/betcris_com.png",
+    "file": "betcris_com.png"
   },
   "BetDeluxe": {
     "name": "BetDeluxe",
@@ -203,11 +203,11 @@
     "name": "BetDEX",
     "domain": "betdex.com",
     "status": "verified",
-    "size": 15406,
-    "content_type": "image/x-icon",
-    "sha256": "8c80f2465726ad0435a07a6abd7591e832d02e9fd5a5bbd774cad94ef767493a",
-    "source_url": "logos/betdex_com.ico",
-    "file": "betdex_com.ico"
+    "size": 16446,
+    "content_type": "image/png",
+    "sha256": "22350a4317357fd38cd073cce1090a4248e827f8cdcf7c40d39593ed74ef456d",
+    "source_url": "logos/betdex_com.bin",
+    "file": "betdex_com.bin"
   },
   "BetDSI": {
     "name": "BetDSI",
@@ -216,8 +216,8 @@
     "size": 66632,
     "content_type": "image/webp",
     "sha256": "d50209430c486f7b3bfb062385529009a40ac9cb774017b32e8bccb015721bf0",
-    "source_url": "logos/betdsi_eu.webp",
-    "file": "betdsi_eu.webp"
+    "source_url": "logos/betdsi_eu.bin",
+    "file": "betdsi_eu.bin"
   },
   "Betfair": {
     "name": "Betfair",
@@ -313,11 +313,11 @@
     "name": "BetMGM (UK)",
     "domain": "betmgm.co.uk",
     "status": "verified",
-    "size": 7406,
-    "content_type": "image/x-icon",
-    "sha256": "199e6fee8f8a8cf4a6fae401da052ba1d70bff422849cc3e7629ae0d94fd3b31",
-    "source_url": "logos/betmgm_co_uk.ico",
-    "file": "betmgm_co_uk.ico"
+    "size": 4330,
+    "content_type": "image/png",
+    "sha256": "05f23a66d96c794bf83d5b70b626a7b16710c8ad1b2f03752dbb89758bdb1c0b",
+    "source_url": "logos/betmgm_co_uk.bin",
+    "file": "betmgm_co_uk.bin"
   },
   "Betnacional": {
     "name": "Betnacional",
@@ -326,8 +326,8 @@
     "size": 665729,
     "content_type": "image/png",
     "sha256": "780acf7c5941ccf67eda583bec0ff2091c198df601cc14e1cd952a6998ea887b",
-    "source_url": "logos/betnacional_com.png",
-    "file": "betnacional_com.png"
+    "source_url": "logos/betnacional_com.bin",
+    "file": "betnacional_com.bin"
   },
   "BetNation": {
     "name": "BetNation",
@@ -353,51 +353,51 @@
     "name": "BetNow",
     "domain": "betnow.eu",
     "status": "verified",
-    "size": 318,
-    "content_type": "image/x-icon",
-    "sha256": "26725b5a4b0e6e582531f711dc744e51caec6cdfa5480b23e4b82d4faa9afc43",
-    "source_url": "logos/betnow_eu.ico",
-    "file": "betnow_eu.ico"
+    "size": 100070,
+    "content_type": "image/webp",
+    "sha256": "f0bfee2e1a13c6679a46387892efff4018a6e3d553965a76d9452d7858aa33f3",
+    "source_url": "logos/betnow_eu.bin",
+    "file": "betnow_eu.bin"
   },
   "BetOnline": {
     "name": "BetOnline",
     "domain": "betonline.ag",
     "status": "verified",
-    "size": 20041,
+    "size": 6970,
     "content_type": "image/png",
-    "sha256": "f1980df6ba1bf3fd47b0bad7628d9564e7235fe7874157243e1400e8970addfa",
-    "source_url": "logos/betonline_ag.png",
-    "file": "betonline_ag.png"
+    "sha256": "6e575b589dfcd7e10a8e2e637af4977c20a6227da728b132130d766bc1b09bd3",
+    "source_url": "logos/betonline_ag.bin",
+    "file": "betonline_ag.bin"
   },
   "BetOpenly": {
     "name": "BetOpenly",
     "domain": "betopenly.com",
     "status": "verified",
-    "size": 15086,
-    "content_type": "image/x-icon",
-    "sha256": "8032b9f05e4227485b6d104a44a17d9ab2557e476c56d2ca71119fd20338098c",
-    "source_url": "logos/betopenly_com.ico",
-    "file": "betopenly_com.ico"
+    "size": 3432,
+    "content_type": "image/png",
+    "sha256": "8b9832c4c12d136e81718ba12dd24ec8792a87386c5b17fb2bf4a43698ef9bf4",
+    "source_url": "logos/betopenly_com.bin",
+    "file": "betopenly_com.bin"
   },
   "betPARX": {
     "name": "betPARX",
     "domain": "betparx.com",
     "status": "verified",
-    "size": 4286,
-    "content_type": "image/x-icon",
-    "sha256": "6ea3effe639b867153f2e7dbe9df0374b7e96cff06eb024687b0a7b6ed86baa5",
-    "source_url": "logos/betparx_com.ico",
-    "file": "betparx_com.ico"
+    "size": 65260,
+    "content_type": "image/png",
+    "sha256": "e15fabc583829a4f6bf95b50a9c4a69dd8d0a28ba8e7e86ecb1fac9fdac341d2",
+    "source_url": "logos/betparx_com.bin",
+    "file": "betparx_com.bin"
   },
   "Betplay": {
     "name": "Betplay",
     "domain": "betplay.com",
-    "status": "missing",
-    "size": 0,
-    "content_type": "",
-    "sha256": "",
-    "source_url": "",
-    "file": ""
+    "status": "verified",
+    "size": 15086,
+    "content_type": "image/x-icon",
+    "sha256": "95c427fa3143b1896faf42a6406686ce7602cb39052081bb32d12b51c9e047e4",
+    "source_url": "logos/betplay_com.ico",
+    "file": "betplay_com.ico"
   },
   "Betr": {
     "name": "Betr",
@@ -406,8 +406,8 @@
     "size": 125537,
     "content_type": "image/jpeg",
     "sha256": "33c64c875245eef33ead0d31667be9225d3690f94466138589f73f55c5631f2f",
-    "source_url": "logos/betr_app.jpg",
-    "file": "betr_app.jpg"
+    "source_url": "logos/betr_app.bin",
+    "file": "betr_app.bin"
   },
   "Betr (Australia)": {
     "name": "Betr (Australia)",
@@ -446,8 +446,8 @@
     "size": 125537,
     "content_type": "image/jpeg",
     "sha256": "33c64c875245eef33ead0d31667be9225d3690f94466138589f73f55c5631f2f",
-    "source_url": "logos/betr_app.jpg",
-    "file": "betr_app.jpg"
+    "source_url": "logos/betr_app.bin",
+    "file": "betr_app.bin"
   },
   "Betr Picks (All)": {
     "name": "Betr Picks (All)",
@@ -456,8 +456,8 @@
     "size": 125537,
     "content_type": "image/jpeg",
     "sha256": "33c64c875245eef33ead0d31667be9225d3690f94466138589f73f55c5631f2f",
-    "source_url": "logos/betr_app.jpg",
-    "file": "betr_app.jpg"
+    "source_url": "logos/betr_app.bin",
+    "file": "betr_app.bin"
   },
   "Betr Picks (BOOSTED)": {
     "name": "Betr Picks (BOOSTED)",
@@ -466,8 +466,8 @@
     "size": 125537,
     "content_type": "image/jpeg",
     "sha256": "33c64c875245eef33ead0d31667be9225d3690f94466138589f73f55c5631f2f",
-    "source_url": "logos/betr_app.jpg",
-    "file": "betr_app.jpg"
+    "source_url": "logos/betr_app.bin",
+    "file": "betr_app.bin"
   },
   "Betsafe": {
     "name": "Betsafe",
@@ -536,8 +536,8 @@
     "size": 4934,
     "content_type": "image/webp",
     "sha256": "00bc21a6092459f3d7d0edd5d423bbe43d905a2ae6b4d024ee8bee6633d9298a",
-    "source_url": "logos/betway_com.webp",
-    "file": "betway_com.webp"
+    "source_url": "logos/betway_com.bin",
+    "file": "betway_com.bin"
   },
   "Betway (Alaska)": {
     "name": "Betway (Alaska)",
@@ -546,8 +546,8 @@
     "size": 4934,
     "content_type": "image/webp",
     "sha256": "00bc21a6092459f3d7d0edd5d423bbe43d905a2ae6b4d024ee8bee6633d9298a",
-    "source_url": "logos/betway_com.webp",
-    "file": "betway_com.webp"
+    "source_url": "logos/betway_com.bin",
+    "file": "betway_com.bin"
   },
   "betwhale": {
     "name": "betwhale",
@@ -563,21 +563,21 @@
     "name": "Bodog",
     "domain": "bodog.eu",
     "status": "verified",
-    "size": 1150,
-    "content_type": "image/x-icon",
-    "sha256": "081c59ffcc1f103badce8297e2d5cffd302aac2658e7f187d4ae3ef91bca8df2",
-    "source_url": "logos/bodog_eu.ico",
-    "file": "bodog_eu.ico"
+    "size": 96620,
+    "content_type": "image/jpeg",
+    "sha256": "54b494c7a4f57acafff49e2ab345032a29821fc20565d14e4c40a37aabcd8ad9",
+    "source_url": "logos/bodog_eu.bin",
+    "file": "bodog_eu.bin"
   },
   "BookMaker": {
     "name": "BookMaker",
     "domain": "bookmaker.eu",
     "status": "verified",
-    "size": 1406,
-    "content_type": "image/x-icon",
-    "sha256": "7ccbfced344c56ab6e40d5737e65210c0835aa357b1dc427667fd27b414c33d0",
-    "source_url": "logos/bookmaker_eu.ico",
-    "file": "bookmaker_eu.ico"
+    "size": 11345,
+    "content_type": "image/png",
+    "sha256": "30657ecbc21cfb45a01642c7e72a5aea6916fee6ed6f3b143dc9706e8c7e40e2",
+    "source_url": "logos/bookmaker_eu.bin",
+    "file": "bookmaker_eu.bin"
   },
   "Boomers": {
     "name": "Boomers",
@@ -596,28 +596,28 @@
     "size": 642,
     "content_type": "image/png",
     "sha256": "91eeaaf4da0168bb7b70619df3a27e9702f35ae13f9465f4d2c8f19e2f4467fb",
-    "source_url": "logos/boomfantasy_com.png",
-    "file": "boomfantasy_com.png"
+    "source_url": "logos/boomfantasy_com.bin",
+    "file": "boomfantasy_com.bin"
   },
   "Borgata": {
     "name": "Borgata",
     "domain": "borgata.com",
-    "status": "missing",
-    "size": 0,
-    "content_type": "",
-    "sha256": "",
-    "source_url": "",
-    "file": ""
+    "status": "verified",
+    "size": 1150,
+    "content_type": "image/x-icon",
+    "sha256": "22ab27ff03e7132172c579190ee272492e7ef935d76af8b2a31bba325a08bfac",
+    "source_url": "logos/borgata_com.ico",
+    "file": "borgata_com.ico"
   },
   "Bovada": {
     "name": "Bovada",
     "domain": "bovada.lv",
     "status": "verified",
-    "size": 1373,
+    "size": 1083,
     "content_type": "image/png",
-    "sha256": "0768d64c85704039edc56c1b4d06320ad71aa832cac53eefa6e7330cf0a4094a",
-    "source_url": "logos/bovada_lv.png",
-    "file": "bovada_lv.png"
+    "sha256": "f370ce6637eb59c11927b42f6a46f7d8f5caf3cf3bffb75146ec92536c1376ff",
+    "source_url": "logos/bovada_lv.bin",
+    "file": "bovada_lv.bin"
   },
   "Boyle Sports": {
     "name": "Boyle Sports",
@@ -642,12 +642,12 @@
   "bwin": {
     "name": "bwin",
     "domain": "bwin.com",
-    "status": "missing",
-    "size": 0,
-    "content_type": "",
-    "sha256": "",
-    "source_url": "",
-    "file": ""
+    "status": "verified",
+    "size": 6066,
+    "content_type": "image/jpeg",
+    "sha256": "03aee596228ad791259a7d221c6638f4671890ea2533df4f03969852c1c7c2fe",
+    "source_url": "logos/bwin_com.jpg",
+    "file": "bwin_com.jpg"
   },
   "Caesars": {
     "name": "Caesars",
@@ -696,8 +696,8 @@
     "size": 660600,
     "content_type": "image/png",
     "sha256": "3a1edc8a44dc4800d46a2c1d9c41ca7494ebe5726108042e3ca870bdc9408a8b",
-    "source_url": "logos/circasports_com.png",
-    "file": "circasports_com.png"
+    "source_url": "logos/circasports_com.bin",
+    "file": "circasports_com.bin"
   },
   "Circa Vegas": {
     "name": "Circa Vegas",
@@ -706,8 +706,8 @@
     "size": 597383,
     "content_type": "image/png",
     "sha256": "2a08246659ea303a6a345610b8e5332a6f2082db35971404614ec3f67c5cf89b",
-    "source_url": "logos/circavegas_com.png",
-    "file": "circavegas_com.png"
+    "source_url": "logos/circavegas_com.bin",
+    "file": "circavegas_com.bin"
   },
   "Codere": {
     "name": "Codere",
@@ -752,22 +752,22 @@
   "Crab Sports": {
     "name": "Crab Sports",
     "domain": "crabsports.com",
-    "status": "missing",
-    "size": 0,
-    "content_type": "",
-    "sha256": "",
-    "source_url": "",
-    "file": ""
+    "status": "verified",
+    "size": 3746,
+    "content_type": "image/png",
+    "sha256": "783446d5fb7369744051f6d5710edd0e4bb48ec04eb31769df7ebb3f88573728",
+    "source_url": "logos/crabsports_com.png",
+    "file": "crabsports_com.png"
   },
   "crypto.com": {
     "name": "crypto.com",
     "domain": "crypto.com",
     "status": "verified",
-    "size": 102825,
-    "content_type": "image/x-icon",
-    "sha256": "d88ab80a018afdd384bda19e2dd8823628c2f84eee26f33b51c9938c0d086614",
-    "source_url": "logos/crypto_com.ico",
-    "file": "crypto_com.ico"
+    "size": 729902,
+    "content_type": "image/png",
+    "sha256": "dc1f1cef69c8950ce85bdafff258d02fb8ece0fc4535c89f28bd82c466a57dc4",
+    "source_url": "logos/crypto_com.bin",
+    "file": "crypto_com.bin"
   },
   "Dabble (3 or 5 Pick)": {
     "name": "Dabble (3 or 5 Pick)",
@@ -803,11 +803,11 @@
     "name": "Dafabet",
     "domain": "dafabet.com",
     "status": "verified",
-    "size": 1150,
-    "content_type": "image/x-icon",
-    "sha256": "b8fbacf4998ff7253c5fab185a6058959851c8f02d64f257ec5be076b41aa3a2",
-    "source_url": "logos/dafabet_com.ico",
-    "file": "dafabet_com.ico"
+    "size": 593,
+    "content_type": "image/png",
+    "sha256": "180109f8f37c833e1f965c5662f54e73b3e1291117a3c7fa320dab4ae7727dcd",
+    "source_url": "logos/dafabet_com.bin",
+    "file": "dafabet_com.bin"
   },
   "Danske Spil": {
     "name": "Danske Spil",
@@ -826,8 +826,8 @@
     "size": 19844,
     "content_type": "image/jpeg",
     "sha256": "900fca19a8b813e9111c71631352d28d77244a9ff804627d913374780b83e9be",
-    "source_url": "logos/daznbet_com.jpg",
-    "file": "daznbet_com.jpg"
+    "source_url": "logos/daznbet_com.bin",
+    "file": "daznbet_com.bin"
   },
   "Desert Diamond": {
     "name": "Desert Diamond",
@@ -853,91 +853,91 @@
     "name": "DraftKings",
     "domain": "draftkings.com",
     "status": "verified",
-    "size": 7691,
+    "size": 3901,
     "content_type": "image/png",
-    "sha256": "a5c14b94c3f252225e1ef31ebcfeff34cc6e71fb36243ff45c81641bc59d4d35",
-    "source_url": "logos/draftkings_com.png",
-    "file": "draftkings_com.png"
+    "sha256": "21906693ca3e33412e44e09001a4f8881880ffddc0bc22d1e273c66ac648361f",
+    "source_url": "logos/draftkings_com.bin",
+    "file": "draftkings_com.bin"
   },
   "DraftKings (Pick 2)": {
     "name": "DraftKings (Pick 2)",
     "domain": "draftkings.com",
     "status": "verified",
-    "size": 7691,
+    "size": 3901,
     "content_type": "image/png",
-    "sha256": "a5c14b94c3f252225e1ef31ebcfeff34cc6e71fb36243ff45c81641bc59d4d35",
-    "source_url": "logos/draftkings_com.png",
-    "file": "draftkings_com.png"
+    "sha256": "21906693ca3e33412e44e09001a4f8881880ffddc0bc22d1e273c66ac648361f",
+    "source_url": "logos/draftkings_com.bin",
+    "file": "draftkings_com.bin"
   },
   "DraftKings (Pick 3)": {
     "name": "DraftKings (Pick 3)",
     "domain": "draftkings.com",
     "status": "verified",
-    "size": 7691,
+    "size": 3901,
     "content_type": "image/png",
-    "sha256": "a5c14b94c3f252225e1ef31ebcfeff34cc6e71fb36243ff45c81641bc59d4d35",
-    "source_url": "logos/draftkings_com.png",
-    "file": "draftkings_com.png"
+    "sha256": "21906693ca3e33412e44e09001a4f8881880ffddc0bc22d1e273c66ac648361f",
+    "source_url": "logos/draftkings_com.bin",
+    "file": "draftkings_com.bin"
   },
   "DraftKings (Pick 6)": {
     "name": "DraftKings (Pick 6)",
     "domain": "draftkings.com",
     "status": "verified",
-    "size": 7691,
+    "size": 3901,
     "content_type": "image/png",
-    "sha256": "a5c14b94c3f252225e1ef31ebcfeff34cc6e71fb36243ff45c81641bc59d4d35",
-    "source_url": "logos/draftkings_com.png",
-    "file": "draftkings_com.png"
+    "sha256": "21906693ca3e33412e44e09001a4f8881880ffddc0bc22d1e273c66ac648361f",
+    "source_url": "logos/draftkings_com.bin",
+    "file": "draftkings_com.bin"
   },
   "DraftKings (Pick 6 Multipliers)": {
     "name": "DraftKings (Pick 6 Multipliers)",
     "domain": "draftkings.com",
     "status": "verified",
-    "size": 7691,
+    "size": 3901,
     "content_type": "image/png",
-    "sha256": "a5c14b94c3f252225e1ef31ebcfeff34cc6e71fb36243ff45c81641bc59d4d35",
-    "source_url": "logos/draftkings_com.png",
-    "file": "draftkings_com.png"
+    "sha256": "21906693ca3e33412e44e09001a4f8881880ffddc0bc22d1e273c66ac648361f",
+    "source_url": "logos/draftkings_com.bin",
+    "file": "draftkings_com.bin"
   },
   "DraftKings Predictions": {
     "name": "DraftKings Predictions",
     "domain": "draftkings.com",
     "status": "verified",
-    "size": 7691,
+    "size": 3901,
     "content_type": "image/png",
-    "sha256": "a5c14b94c3f252225e1ef31ebcfeff34cc6e71fb36243ff45c81641bc59d4d35",
-    "source_url": "logos/draftkings_com.png",
-    "file": "draftkings_com.png"
+    "sha256": "21906693ca3e33412e44e09001a4f8881880ffddc0bc22d1e273c66ac648361f",
+    "source_url": "logos/draftkings_com.bin",
+    "file": "draftkings_com.bin"
   },
   "Elite Bet": {
     "name": "Elite Bet",
     "domain": "elite-bet.com",
-    "status": "missing",
-    "size": 0,
-    "content_type": "",
-    "sha256": "",
-    "source_url": "",
-    "file": ""
+    "status": "verified",
+    "size": 9983,
+    "content_type": "image/png",
+    "sha256": "ce91a5722dd4fbacc858174054a30eaaab9487b8108ba4bec12f46436207794a",
+    "source_url": "logos/elite_bet_com.bin",
+    "file": "elite_bet_com.bin"
   },
   "EPICK": {
     "name": "EPICK",
     "domain": "epick.com",
-    "status": "missing",
-    "size": 0,
-    "content_type": "",
-    "sha256": "",
-    "source_url": "",
-    "file": ""
+    "status": "verified",
+    "size": 15086,
+    "content_type": "image/x-icon",
+    "sha256": "95c427fa3143b1896faf42a6406686ce7602cb39052081bb32d12b51c9e047e4",
+    "source_url": "logos/epick_com.ico",
+    "file": "epick_com.ico"
   },
   "EPICK 50/50": {
     "name": "EPICK 50/50",
     "domain": "epick.com",
-    "status": "missing",
-    "size": 0,
-    "content_type": "",
-    "sha256": "",
-    "source_url": "",
-    "file": ""
+    "status": "verified",
+    "size": 15086,
+    "content_type": "image/x-icon",
+    "sha256": "95c427fa3143b1896faf42a6406686ce7602cb39052081bb32d12b51c9e047e4",
+    "source_url": "logos/epick_com.ico",
+    "file": "epick_com.ico"
   },
   "Eurobet": {
     "name": "Eurobet",
@@ -953,11 +953,11 @@
     "name": "Everygame",
     "domain": "everygame.com",
     "status": "verified",
-    "size": 4286,
-    "content_type": "image/x-icon",
-    "sha256": "ad06b5356ee32099d80b01da541b6e8ff374715d89ba7cb39b5aba4caeabce77",
-    "source_url": "logos/everygame_com.ico",
-    "file": "everygame_com.ico"
+    "size": 25630,
+    "content_type": "image/png",
+    "sha256": "dac98eaca40c3903d64f8f1b5d70941653b92c44f5c29dc03100d705ebaa7d8c",
+    "source_url": "logos/everygame_com.bin",
+    "file": "everygame_com.bin"
   },
   "Fanatics": {
     "name": "Fanatics",
@@ -986,28 +986,28 @@
     "size": 393568,
     "content_type": "image/png",
     "sha256": "10f22cc107c3bba064cc67d0d856d2682a2e1196267f5e2b5c69d032892f2470",
-    "source_url": "logos/firekeepers_com.png",
-    "file": "firekeepers_com.png"
+    "source_url": "logos/firekeepers_com.bin",
+    "file": "firekeepers_com.bin"
   },
   "Fliff": {
     "name": "Fliff",
     "domain": "getfliff.com",
     "status": "verified",
-    "size": 902,
+    "size": 38436,
     "content_type": "image/webp",
-    "sha256": "59347e34d6fc59dc53c30fc2e06e22b6786d8bb6891102a8c3e1327afd028803",
-    "source_url": "logos/getfliff_com.webp",
-    "file": "getfliff_com.webp"
+    "sha256": "cb393f855c85379f2b9b923ca7201cf216b93c7a4cd2dd6c43bca45020ecf117",
+    "source_url": "logos/getfliff_com.bin",
+    "file": "getfliff_com.bin"
   },
   "Fliff Superstars": {
     "name": "Fliff Superstars",
     "domain": "getfliff.com",
     "status": "verified",
-    "size": 902,
+    "size": 38436,
     "content_type": "image/webp",
-    "sha256": "59347e34d6fc59dc53c30fc2e06e22b6786d8bb6891102a8c3e1327afd028803",
-    "source_url": "logos/getfliff_com.webp",
-    "file": "getfliff_com.webp"
+    "sha256": "cb393f855c85379f2b9b923ca7201cf216b93c7a4cd2dd6c43bca45020ecf117",
+    "source_url": "logos/getfliff_com.bin",
+    "file": "getfliff_com.bin"
   },
   "Fonbet": {
     "name": "Fonbet",
@@ -1066,8 +1066,8 @@
     "size": 2906,
     "content_type": "image/png",
     "sha256": "61a1c44c3a62c9028ab65253b73d02bb137cdae2339e29657dc3378cd50b4707",
-    "source_url": "logos/granawin_com.png",
-    "file": "granawin_com.png"
+    "source_url": "logos/granawin_com.bin",
+    "file": "granawin_com.bin"
   },
   "Heritage": {
     "name": "Heritage",
@@ -1103,11 +1103,11 @@
     "name": "Jackpot.bet",
     "domain": "jackpot.bet",
     "status": "verified",
-    "size": 15086,
-    "content_type": "image/x-icon",
-    "sha256": "466fafabc2a62f566564f3447306f713ba547a333eabd655c528a7d5df1ffa6f",
-    "source_url": "logos/jackpot_bet.ico",
-    "file": "jackpot_bet.ico"
+    "size": 20138,
+    "content_type": "image/png",
+    "sha256": "b5432475c5564de06934b1181bc78503513e215b202caede4a428d9bcb2f1562",
+    "source_url": "logos/jackpot_bet.bin",
+    "file": "jackpot_bet.bin"
   },
   "Jazz Sports": {
     "name": "Jazz Sports",
@@ -1153,11 +1153,11 @@
     "name": "Kalshi",
     "domain": "kalshi.com",
     "status": "verified",
-    "size": 15406,
-    "content_type": "image/x-icon",
-    "sha256": "5c57938813fc52b9e45a75b8d7403c1b64bb22d537b08bc3355726f3aa56c23e",
-    "source_url": "logos/kalshi_com.png",
-    "file": "kalshi_com.png"
+    "size": 296982,
+    "content_type": "image/png",
+    "sha256": "373d02f76926dd154f7c6b2947d2e1d216f8d4ac9d131e2af52f9a7a2c85dfe1",
+    "source_url": "logos/kalshi_com.bin",
+    "file": "kalshi_com.bin"
   },
   "Ladbrokes": {
     "name": "Ladbrokes",
@@ -1186,18 +1186,18 @@
     "size": 1403,
     "content_type": "image/png",
     "sha256": "0aa747e58d177900f2db92da312b50dbf777e7e60b97f95a3ace86d2f04c6772",
-    "source_url": "logos/leovegas_com.png",
-    "file": "leovegas_com.png"
+    "source_url": "logos/leovegas_com.bin",
+    "file": "leovegas_com.bin"
   },
   "Limitless Exchange": {
     "name": "Limitless Exchange",
     "domain": "limitless.exchange",
     "status": "verified",
-    "size": 2877,
-    "content_type": "image/x-icon",
-    "sha256": "1a8aa823fb363521535ee0e1b9fd66dc3dd9073d6c91161b42214e526c6bbae6",
-    "source_url": "logos/limitless_exchange.ico",
-    "file": "limitless_exchange.ico"
+    "size": 2539,
+    "content_type": "image/png",
+    "sha256": "d430aba60c9b4018af9c65b75744be484737155f0c34bf9e7efdb32a5d594511",
+    "source_url": "logos/limitless_exchange.bin",
+    "file": "limitless_exchange.bin"
   },
   "Lottoland": {
     "name": "Lottoland",
@@ -1206,8 +1206,8 @@
     "size": 45857,
     "content_type": "image/png",
     "sha256": "c5f2e19ba4bad9344e6f30bffdfe032cdef94649dc5e9883efa19e2688f37bc0",
-    "source_url": "logos/lottoland_com.png",
-    "file": "lottoland_com.png"
+    "source_url": "logos/lottoland_com.bin",
+    "file": "lottoland_com.bin"
   },
   "LowVig": {
     "name": "LowVig",
@@ -1233,11 +1233,11 @@
     "name": "Marathonbet",
     "domain": "marathonbet.com",
     "status": "verified",
-    "size": 4380,
-    "content_type": "image/png",
-    "sha256": "591da8fc84c1b73b2c8883fff7183eb963551384e0785c7123397fe77af8bbf1",
-    "source_url": "logos/marathonbet_com.png",
-    "file": "marathonbet_com.png"
+    "size": 426,
+    "content_type": "image/svg+xml",
+    "sha256": "f91ce636df4a8bd57476bc6d54a7f66c0bc7057189a17046b6aba6cd68b94b14",
+    "source_url": "logos/marathonbet_com.bin",
+    "file": "marathonbet_com.bin"
   },
   "Melbet": {
     "name": "Melbet",
@@ -1253,11 +1253,11 @@
     "name": "Midnite",
     "domain": "midnite.com",
     "status": "verified",
-    "size": 9854,
-    "content_type": "image/x-icon",
-    "sha256": "4d67cb1f1d96c8f8019f68194633e259063ac3ba345266bba0126b4993276f2d",
-    "source_url": "logos/midnite_com.ico",
-    "file": "midnite_com.ico"
+    "size": 1469,
+    "content_type": "image/png",
+    "sha256": "33760690a62de4252a700c2fc1ac9337a414a305bb3e14ce8ee45bb26127579c",
+    "source_url": "logos/midnite_com.bin",
+    "file": "midnite_com.bin"
   },
   "Mise-o-jeu": {
     "name": "Mise-o-jeu",
@@ -1273,11 +1273,11 @@
     "name": "MyBookie",
     "domain": "mybookie.com",
     "status": "verified",
-    "size": 1590,
+    "size": 8910,
     "content_type": "image/png",
-    "sha256": "efd69a5a1adf4204adf0a17939a6819524f0c967de037dfa77bbd1b95fad270a",
-    "source_url": "logos/mybookie_com.png",
-    "file": "mybookie_com.png"
+    "sha256": "c4991f12715a0366f39a813b7491c773f8b63d87b11758c2c7d534918cd05518",
+    "source_url": "logos/mybookie_com.bin",
+    "file": "mybookie_com.bin"
   },
   "Neds": {
     "name": "Neds",
@@ -1302,12 +1302,12 @@
   "NorthStar Bets": {
     "name": "NorthStar Bets",
     "domain": "northstarbets.com",
-    "status": "missing",
-    "size": 0,
-    "content_type": "",
-    "sha256": "",
-    "source_url": "",
-    "file": ""
+    "status": "verified",
+    "size": 23156,
+    "content_type": "image/png",
+    "sha256": "79c5a62bfe4a78ed9866c882749472f31d30a1d9f9f54f4e674a98eaeee98ba8",
+    "source_url": "logos/northstarbets_com.png",
+    "file": "northstarbets_com.png"
   },
   "Novig": {
     "name": "Novig",
@@ -1336,8 +1336,8 @@
     "size": 10899,
     "content_type": "image/png",
     "sha256": "483d389fe8766b1703597a7817945ccc8da62002cc64cf7d5bdd5b1188e8a7a2",
-    "source_url": "logos/onyxodds_com.png",
-    "file": "onyxodds_com.png"
+    "source_url": "logos/onyxodds_com.bin",
+    "file": "onyxodds_com.bin"
   },
   "Opinion Labs": {
     "name": "Opinion Labs",
@@ -1356,8 +1356,8 @@
     "size": 295163,
     "content_type": "image/png",
     "sha256": "2a480131498132cce7b4481f3d7cb3914e2f45f820f67bdddc7088dce17e2364",
-    "source_url": "logos/opticodds_com.png",
-    "file": "opticodds_com.png"
+    "source_url": "logos/opticodds_com.bin",
+    "file": "opticodds_com.bin"
   },
   "OpticOdds AI DFS": {
     "name": "OpticOdds AI DFS",
@@ -1366,8 +1366,8 @@
     "size": 295163,
     "content_type": "image/png",
     "sha256": "2a480131498132cce7b4481f3d7cb3914e2f45f820f67bdddc7088dce17e2364",
-    "source_url": "logos/opticodds_com.png",
-    "file": "opticodds_com.png"
+    "source_url": "logos/opticodds_com.bin",
+    "file": "opticodds_com.bin"
   },
   "Overtime": {
     "name": "Overtime",
@@ -1386,8 +1386,8 @@
     "size": 4493,
     "content_type": "image/png",
     "sha256": "c948ebf59811f68b04ffa7bd92707c48a6ee699f26343688c712541f15a15fa6",
-    "source_url": "logos/ownersbox_com.png",
-    "file": "ownersbox_com.png"
+    "source_url": "logos/ownersbox_com.bin",
+    "file": "ownersbox_com.bin"
   },
   "OwnersBox (6 Pick Insured)": {
     "name": "OwnersBox (6 Pick Insured)",
@@ -1396,18 +1396,18 @@
     "size": 4493,
     "content_type": "image/png",
     "sha256": "c948ebf59811f68b04ffa7bd92707c48a6ee699f26343688c712541f15a15fa6",
-    "source_url": "logos/ownersbox_com.png",
-    "file": "ownersbox_com.png"
+    "source_url": "logos/ownersbox_com.bin",
+    "file": "ownersbox_com.bin"
   },
   "Ozoon": {
     "name": "Ozoon",
     "domain": "ozoon.com",
-    "status": "missing",
-    "size": 0,
-    "content_type": "",
-    "sha256": "",
-    "source_url": "",
-    "file": ""
+    "status": "verified",
+    "size": 2980,
+    "content_type": "image/png",
+    "sha256": "3c5996a01dc7c67ad4894d6ab2fd1d44e82a7a9ad8b10eb1edadeb2c5ed41516",
+    "source_url": "logos/ozoon_com.png",
+    "file": "ozoon_com.png"
   },
   "Parimatch (Brazil)": {
     "name": "Parimatch (Brazil)",
@@ -1433,11 +1433,11 @@
     "name": "Parlaye",
     "domain": "parlaye.com",
     "status": "verified",
-    "size": 15663,
-    "content_type": "image/x-icon",
-    "sha256": "e86e798c60b3990aab954ff329790d7c83fbcae44c4398cb581eb5594933348c",
-    "source_url": "logos/parlaye_com.ico",
-    "file": "parlaye_com.ico"
+    "size": 1592,
+    "content_type": "image/png",
+    "sha256": "0a2c0d59976bbeab5778a445a95d4fedc036e55ff30acfdd9c55b52f06a844f0",
+    "source_url": "logos/parlaye_com.bin",
+    "file": "parlaye_com.bin"
   },
   "ParlayPlay": {
     "name": "ParlayPlay",
@@ -1452,22 +1452,22 @@
   "partypoker": {
     "name": "partypoker",
     "domain": "partypoker.com",
-    "status": "missing",
-    "size": 0,
-    "content_type": "",
-    "sha256": "",
-    "source_url": "",
-    "file": ""
+    "status": "verified",
+    "size": 1169,
+    "content_type": "image/png",
+    "sha256": "eed3e5c60c108781942643b72af8b770dd086e53172f0febe7e3340b9b08d210",
+    "source_url": "logos/partypoker_com.png",
+    "file": "partypoker_com.png"
   },
   "Picklebet": {
     "name": "Picklebet",
     "domain": "picklebet.com",
     "status": "verified",
-    "size": 15406,
-    "content_type": "image/x-icon",
-    "sha256": "34a947e825f8d8f078d6fca46a8d10b09e841f247392013bdc1092aa70e6a942",
-    "source_url": "logos/picklebet_com.ico",
-    "file": "picklebet_com.ico"
+    "size": 4194,
+    "content_type": "image/png",
+    "sha256": "f7b060c9bbe8bf54b1e3c51adfe9dc48d000483bbac8d3b991a5e4751731c7c2",
+    "source_url": "logos/picklebet_com.bin",
+    "file": "picklebet_com.bin"
   },
   "Play Alberta": {
     "name": "Play Alberta",
@@ -1496,18 +1496,18 @@
     "size": 17104,
     "content_type": "image/png",
     "sha256": "8e7caea92a8242d40248d18b3ee73877b0ff98631c306f1f01a31e1f191b5a08",
-    "source_url": "logos/playeagle_com.png",
-    "file": "playeagle_com.png"
+    "source_url": "logos/playeagle_com.bin",
+    "file": "playeagle_com.bin"
   },
   "PlayNow": {
     "name": "PlayNow",
     "domain": "playnow.com",
     "status": "verified",
-    "size": 3774,
-    "content_type": "image/x-icon",
-    "sha256": "f1a879b3e7f51906e40c00e7f33c72ca9d95d9e6e6a4bc61060fd3aba21bdc50",
-    "source_url": "logos/playnow_com.ico",
-    "file": "playnow_com.ico"
+    "size": 42120,
+    "content_type": "image/png",
+    "sha256": "df9e3dfcbe4577530fbfc10304a7241fce88f5e87dfec9c77c0ab69777ddbf30",
+    "source_url": "logos/playnow_com.bin",
+    "file": "playnow_com.bin"
   },
   "PointsBet (Australia)": {
     "name": "PointsBet (Australia)",
@@ -1533,21 +1533,21 @@
     "name": "Polymarket",
     "domain": "polymarket.com",
     "status": "verified",
-    "size": 925,
+    "size": 1248,
     "content_type": "image/png",
-    "sha256": "5e762537f2857bd7947740412315f6599fcf8907ed76fa182804d2f61c01afcd",
-    "source_url": "logos/polymarket_com.png",
-    "file": "polymarket_com.png"
+    "sha256": "6b27226c34c1be6b7f06ba020d7677415c1f24adf7b91d34ca091802cf09b7a5",
+    "source_url": "logos/polymarket_com.bin",
+    "file": "polymarket_com.bin"
   },
   "Polymarket (USA)": {
     "name": "Polymarket (USA)",
     "domain": "polymarket.com",
     "status": "verified",
-    "size": 925,
+    "size": 1248,
     "content_type": "image/png",
-    "sha256": "5e762537f2857bd7947740412315f6599fcf8907ed76fa182804d2f61c01afcd",
-    "source_url": "logos/polymarket_com.png",
-    "file": "polymarket_com.png"
+    "sha256": "6b27226c34c1be6b7f06ba020d7677415c1f24adf7b91d34ca091802cf09b7a5",
+    "source_url": "logos/polymarket_com.bin",
+    "file": "polymarket_com.bin"
   },
   "Prime Sports": {
     "name": "Prime Sports",
@@ -1556,8 +1556,8 @@
     "size": 518683,
     "content_type": "image/png",
     "sha256": "216a5db186abae1b7dfb0c36745fb2a4cca6689a196586c8d0f1a5de169f1f7d",
-    "source_url": "logos/primesports_com.png",
-    "file": "primesports_com.png"
+    "source_url": "logos/primesports_com.bin",
+    "file": "primesports_com.bin"
   },
   "PrizePicks": {
     "name": "PrizePicks",
@@ -1603,11 +1603,11 @@
     "name": "Prophet X",
     "domain": "prophetx.com",
     "status": "verified",
-    "size": 15406,
-    "content_type": "image/x-icon",
-    "sha256": "f79975ac22bb28e8569eb25e7ea5e916323b785965e77c226cc4d9308b7e158a",
-    "source_url": "logos/prophetx_com.ico",
-    "file": "prophetx_com.ico"
+    "size": 217275,
+    "content_type": "image/jpeg",
+    "sha256": "2aa5bfbfd5c9601a2b0f5b7665a9dad35363b04ffa629e38cbc541d2c25e569b",
+    "source_url": "logos/prophetx_com.bin",
+    "file": "prophetx_com.bin"
   },
   "Props Builder": {
     "name": "Props Builder",
@@ -1656,8 +1656,8 @@
     "size": 3572,
     "content_type": "image/png",
     "sha256": "4be85966a0720a0b08a9dac6a8c165a57f700f90c883c034590d48d641886752",
-    "source_url": "logos/rivalry_com.png",
-    "file": "rivalry_com.png"
+    "source_url": "logos/rivalry_com.bin",
+    "file": "rivalry_com.bin"
   },
   "Rizk": {
     "name": "Rizk",
@@ -1673,11 +1673,11 @@
     "name": "Robinhood",
     "domain": "robinhood.com",
     "status": "verified",
-    "size": 15086,
-    "content_type": "image/x-icon",
-    "sha256": "1e451d6593df2e6e2b743c3fbf6e1c13b8b816821dc4c553e4af7fce9e4bc9a7",
-    "source_url": "logos/robinhood_com.ico",
-    "file": "robinhood_com.ico"
+    "size": 106347,
+    "content_type": "image/jpeg",
+    "sha256": "0e0e3118c656b349dfefdb8428e83dde6b0854019460b857c9702e2ae03a9e68",
+    "source_url": "logos/robinhood_com.bin",
+    "file": "robinhood_com.bin"
   },
   "RushBet": {
     "name": "RushBet",
@@ -1696,58 +1696,58 @@
     "size": 21560,
     "content_type": "image/jpeg",
     "sha256": "cfbbd819340bd01dc46f7b686ccb9b4055a611fc00a326f4121de36c342e8b1e",
-    "source_url": "logos/sabasports_com.jpg",
-    "file": "sabasports_com.jpg"
+    "source_url": "logos/sabasports_com.bin",
+    "file": "sabasports_com.bin"
   },
   "SBOBET": {
     "name": "SBOBET",
     "domain": "sbobet.com",
     "status": "verified",
-    "size": 4286,
-    "content_type": "image/x-icon",
-    "sha256": "e884bd7c706033511e11dd9dcfb1ba838815fd28ae1ce46ad977a8446be5b288",
-    "source_url": "logos/sbobet_com.ico",
-    "file": "sbobet_com.ico"
+    "size": 3005,
+    "content_type": "image/png",
+    "sha256": "de8e2f1f804c93a804ab7839389746994021315de340cee35634145c23c7b6bd",
+    "source_url": "logos/sbobet_com.bin",
+    "file": "sbobet_com.bin"
   },
   "Sharp": {
     "name": "Sharp",
     "domain": "sharp.com",
     "status": "verified",
-    "size": 4286,
-    "content_type": "image/x-icon",
-    "sha256": "b141010492e2920549f290fa6daba917793658b29f1d23da109ceee059fbccc7",
-    "source_url": "logos/sharp_com.ico",
-    "file": "sharp_com.ico"
+    "size": 823,
+    "content_type": "image/svg+xml",
+    "sha256": "cb83e4875547b45fdb8233cd96f8b26df1cee62ddef1c907fb9adcc8e643dfcb",
+    "source_url": "logos/sharp_com.bin",
+    "file": "sharp_com.bin"
   },
   "Sleeper": {
     "name": "Sleeper",
     "domain": "sleeper.com",
     "status": "verified",
-    "size": 15406,
-    "content_type": "image/x-icon",
-    "sha256": "0e02570bb7ba7f6e447851b77403d767f8fb5eb6b305656aadf8c7807cfc20d7",
-    "source_url": "logos/sleeper_com.ico",
-    "file": "sleeper_com.ico"
+    "size": 48690,
+    "content_type": "image/webp",
+    "sha256": "46e1ffbbd1bd6da94f5578a0720282167f14efaea6d3155edf0c5522853f4936",
+    "source_url": "logos/sleeper_com.bin",
+    "file": "sleeper_com.bin"
   },
   "Smarkets": {
     "name": "Smarkets",
     "domain": "smarkets.com",
     "status": "verified",
-    "size": 15086,
-    "content_type": "image/x-icon",
-    "sha256": "56f6b080d38321971e091cf2d68567c322c32f1033c55f357655a34d4e66c5ac",
-    "source_url": "logos/smarkets_com.ico",
-    "file": "smarkets_com.ico"
+    "size": 583,
+    "content_type": "image/png",
+    "sha256": "7585b6c2ecf91c598fa93ab26f7de3b6eb9d9d4d486240b832892e3e14f69361",
+    "source_url": "logos/smarkets_com.bin",
+    "file": "smarkets_com.bin"
   },
   "SpinBet": {
     "name": "SpinBet",
     "domain": "spinbet.com",
-    "status": "missing",
-    "size": 0,
-    "content_type": "",
-    "sha256": "",
-    "source_url": "",
-    "file": ""
+    "status": "verified",
+    "size": 693,
+    "content_type": "image/png",
+    "sha256": "4c86d51fbcb7ce82e869adfa57d05ae6c480d6b7ac70f63f32ba2c555a9d8ff1",
+    "source_url": "logos/spinbet_com.png",
+    "file": "spinbet_com.png"
   },
   "Sportingbet": {
     "name": "Sportingbet",
@@ -1763,21 +1763,21 @@
     "name": "Sportsbet",
     "domain": "sportsbet.com",
     "status": "verified",
-    "size": 2238,
-    "content_type": "image/x-icon",
-    "sha256": "03444b6de503acd5b537f2003343e70aca8f7026933b9aa8c1a89ce15e99dd1c",
-    "source_url": "logos/sportsbet_com.ico",
-    "file": "sportsbet_com.ico"
+    "size": 28571,
+    "content_type": "image/png",
+    "sha256": "8f4be1325eb04c13669490370c4f09d4101d9df7a5e5d3a5cc5437988630c2e3",
+    "source_url": "logos/sportsbet_com.bin",
+    "file": "sportsbet_com.bin"
   },
   "Sportsbetting.ag": {
     "name": "Sportsbetting.ag",
     "domain": "sportsbetting.ag",
     "status": "verified",
-    "size": 15086,
-    "content_type": "image/x-icon",
-    "sha256": "bc0730bb1612133fdb65bbf8c3ac684fcc12dedfcd2a59ed2e2dd870852d0a8a",
-    "source_url": "logos/sportsbetting_ag.ico",
-    "file": "sportsbetting_ag.ico"
+    "size": 2281,
+    "content_type": "image/png",
+    "sha256": "8e2058114b4afe1cb0c6051c44990702149507a7d1829763b094284d3c555e0f",
+    "source_url": "logos/sportsbetting_ag.bin",
+    "file": "sportsbetting_ag.bin"
   },
   "Sports Interaction": {
     "name": "Sports Interaction",
@@ -1803,11 +1803,11 @@
     "name": "Sportzino",
     "domain": "sportzino.com",
     "status": "verified",
-    "size": 15406,
-    "content_type": "image/x-icon",
-    "sha256": "6814f2795d49a3e29b6b299f07fc2d50bf5aabab4097513a42dc80a1e16986a4",
-    "source_url": "logos/sportzino_com.ico",
-    "file": "sportzino_com.ico"
+    "size": 138256,
+    "content_type": "image/webp",
+    "sha256": "8ac0e92d187633af681cadbf8887a4bc4d1ea436bc713944e18376622f469224",
+    "source_url": "logos/sportzino_com.bin",
+    "file": "sportzino_com.bin"
   },
   "Stake": {
     "name": "Stake",
@@ -1842,12 +1842,12 @@
   "Supabets": {
     "name": "Supabets",
     "domain": "supabets.co.za",
-    "status": "missing",
-    "size": 0,
-    "content_type": "",
-    "sha256": "",
-    "source_url": "",
-    "file": ""
+    "status": "verified",
+    "size": 20510,
+    "content_type": "image/svg+xml",
+    "sha256": "9ff229b3e4de43ea6a90bdf8e041335b3482a42325cb64bf56f35955a8b1ccb9",
+    "source_url": "logos/supabets_co_za.svg",
+    "file": "supabets_co_za.svg"
   },
   "Superbet": {
     "name": "Superbet",
@@ -1873,21 +1873,21 @@
     "name": "Svenskaspel",
     "domain": "svenskaspel.se",
     "status": "verified",
-    "size": 15086,
-    "content_type": "image/x-icon",
-    "sha256": "120608e9d880b8a36a59913127a7855e88ea5408dc2208e189ec836622898c3e",
-    "source_url": "logos/svenskaspel_se.ico",
-    "file": "svenskaspel_se.ico"
+    "size": 2698,
+    "content_type": "image/png",
+    "sha256": "59c7d0bf7249d91952e1c736674911f0031eec0f63a8fcd337dc961658c99efd",
+    "source_url": "logos/svenskaspel_se.bin",
+    "file": "svenskaspel_se.bin"
   },
   "SX Bet": {
     "name": "SX Bet",
     "domain": "sxbet.com",
-    "status": "missing",
-    "size": 0,
-    "content_type": "",
-    "sha256": "",
-    "source_url": "",
-    "file": ""
+    "status": "verified",
+    "size": 1150,
+    "content_type": "image/x-icon",
+    "sha256": "22ab27ff03e7132172c579190ee272492e7ef935d76af8b2a31bba325a08bfac",
+    "source_url": "logos/sxbet_com.ico",
+    "file": "sxbet_com.ico"
   },
   "TAB": {
     "name": "TAB",
@@ -1913,31 +1913,31 @@
     "name": "TABtouch",
     "domain": "tabtouch.com.au",
     "status": "verified",
-    "size": 1150,
-    "content_type": "image/x-icon",
-    "sha256": "68fe12f9bfd7cabc5323b28ffc00199a02c677555c16e5b425838973bbff7cdc",
-    "source_url": "logos/tabtouch_com_au.ico",
-    "file": "tabtouch_com_au.ico"
+    "size": 1303,
+    "content_type": "image/png",
+    "sha256": "7b26399132b03e40917b52f381e5bbea1f04fb6eb9f0e5ff53a3da5b705b532d",
+    "source_url": "logos/tabtouch_com_au.bin",
+    "file": "tabtouch_com_au.bin"
   },
   "Team Mexico": {
     "name": "Team Mexico",
     "domain": "teammexico.com",
     "status": "verified",
-    "size": 15086,
-    "content_type": "image/x-icon",
-    "sha256": "3021f7e81882fc82d5649e079c581b31aa601240c73b9dda4fddeb739b0ec42a",
-    "source_url": "logos/teammexico_com.ico",
-    "file": "teammexico_com.ico"
+    "size": 1074,
+    "content_type": "image/png",
+    "sha256": "2c8ba92f58869172f0c7e6a0f051f6253c3b72641214715138fdc73a65d3b170",
+    "source_url": "logos/teammexico_com.bin",
+    "file": "teammexico_com.bin"
   },
   "theScore": {
     "name": "theScore",
     "domain": "thescore.com",
     "status": "verified",
-    "size": 183376,
-    "content_type": "image/x-icon",
-    "sha256": "7011fc8b3288b8496298e6a1b56928354432b49ddd11a7af17194b62cdc5fde6",
-    "source_url": "logos/thescore_com.ico",
-    "file": "thescore_com.ico"
+    "size": 1421,
+    "content_type": "image/svg+xml",
+    "sha256": "bcbbabb5528c5ea614328d61c4c44bad19063c27f4881fc94664d9094c1d03e2",
+    "source_url": "logos/thescore_com.bin",
+    "file": "thescore_com.bin"
   },
   "Thrillzz": {
     "name": "Thrillzz",
@@ -1946,8 +1946,8 @@
     "size": 3949,
     "content_type": "image/jpeg",
     "sha256": "f006264f581b0237fadd10723c06773433e636a108237ad0ebd8bbc4efc22908",
-    "source_url": "logos/thrillzz_com.jpg",
-    "file": "thrillzz_com.jpg"
+    "source_url": "logos/thrillzz_com.bin",
+    "file": "thrillzz_com.bin"
   },
   "ThriveFantasy": {
     "name": "ThriveFantasy",
@@ -1993,11 +1993,11 @@
     "name": "TwinSpires",
     "domain": "twinspires.com",
     "status": "verified",
-    "size": 1406,
-    "content_type": "image/x-icon",
-    "sha256": "34c801ff77ebf9af0a8b0018909f92a94dcf95146090eaee6ca663c18d084228",
-    "source_url": "logos/twinspires_com.ico",
-    "file": "twinspires_com.ico"
+    "size": 2549,
+    "content_type": "image/png",
+    "sha256": "969da90827881118d9149e010fc7f19b503d56e058adae1e4e557b06113ca981",
+    "source_url": "logos/twinspires_com.bin",
+    "file": "twinspires_com.bin"
   },
   "Underdog Fantasy (2 Pick)": {
     "name": "Underdog Fantasy (2 Pick)",
@@ -2096,8 +2096,8 @@
     "size": 17485,
     "content_type": "image/png",
     "sha256": "75c2154fe677f6ba5efd1948e9eea398499d43ab19a6e0bb19bb90af68aca40e",
-    "source_url": "logos/veikkaus_fi.png",
-    "file": "veikkaus_fi.png"
+    "source_url": "logos/veikkaus_fi.bin",
+    "file": "veikkaus_fi.bin"
   },
   "Wanna Parlay": {
     "name": "Wanna Parlay",
@@ -2106,28 +2106,28 @@
     "size": 554,
     "content_type": "image/webp",
     "sha256": "d050a2dfe5a94855e45c3b3d30da73a01d46ab8fcebfd9fe5cfaa68d84a26aa7",
-    "source_url": "logos/wannaparlay_com.webp",
-    "file": "wannaparlay_com.webp"
+    "source_url": "logos/wannaparlay_com.bin",
+    "file": "wannaparlay_com.bin"
   },
   "William Hill": {
     "name": "William Hill",
     "domain": "williamhill.com",
     "status": "verified",
-    "size": 1150,
-    "content_type": "image/x-icon",
-    "sha256": "d1f93e052a522fa19aadeb957d1c44b1f7ffa7b886154aededfe3983a743a1e2",
-    "source_url": "logos/williamhill_com.ico",
-    "file": "williamhill_com.ico"
+    "size": 375,
+    "content_type": "image/png",
+    "sha256": "c524aed57188cb7f5741fad2526321223b7aa11710a7a426432a0e8b88874aef",
+    "source_url": "logos/williamhill_com.bin",
+    "file": "williamhill_com.bin"
   },
   "Winpot": {
     "name": "Winpot",
     "domain": "winpot.com",
     "status": "verified",
-    "size": 2932,
-    "content_type": "image/webp",
-    "sha256": "a17fd55c50d6aa1f2657312498fe31d0e84be6df50defcc24e7acf95288b23d0",
-    "source_url": "logos/winpot_com.webp",
-    "file": "winpot_com.webp"
+    "size": 2753,
+    "content_type": "image/png",
+    "sha256": "ebcb088ff66067512543a7380ef001d7a5b38f837eb8979024d65df70039b550",
+    "source_url": "logos/winpot_com.bin",
+    "file": "winpot_com.bin"
   },
   "YouWager": {
     "name": "YouWager",
@@ -2136,7 +2136,7 @@
     "size": 925,
     "content_type": "image/png",
     "sha256": "49932777486b6e8163dcf6cbd40e71078799de2f708d1208dac051e2ae4c06e2",
-    "source_url": "logos/youwager_com.png",
-    "file": "youwager_com.png"
+    "source_url": "logos/youwager_com.bin",
+    "file": "youwager_com.bin"
   }
 }

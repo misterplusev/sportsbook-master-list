@@ -1,0 +1,237 @@
+<!DOCTYPE html>
+<html lang=en-GB translate=no>
+<head><script src="/de-Macd-thats-And-his-against-that-me-Euen-boot-" async></script>
+<meta charset=utf-8 />
+<meta name=viewport content="width=device-width, initial-scale=1.0, shrink-to-fit=no, maximum-scale=1.0, user-scalable=no, viewport-fit=cover"/>
+<link rel=preconnect href="https://gamestack-v2.imgix.net/" crossorigin />
+<script>
+            window.addEventListener('error', function(e) {
+                if (e.target.tagName === 'SCRIPT' && e.target.src.includes(window.location.hostname) && e.target.src.includes('static/js')) {
+                    console.error('JS script failed to load:', e.target.src);
+                    setTimeout(() => window.location+='?indexbuster='+Date.now(), 1000);
+                }
+            }, true);
+
+            function loadSvg(theme) {
+                const ajax = new XMLHttpRequest();
+                ajax.open("GET", `/assets/svg/${theme}/symbol/icons.svg?b=12368-29-June`, true);
+                ajax.send();
+                ajax.onload = function() {
+                    if(ajax.responseText.startsWith("<svg")) {
+                        const div = document.createElement("div");
+                        div.innerHTML = ajax.responseText;
+                        document.body.insertBefore(div, document.body.childNodes[0]);
+                    }
+                }
+            }
+
+            window.__ENVIRONMENT__ = {
+  "QUALIFIED_NAME": "coolbet",
+  "CASINO_GAMES_PICS": "/c/imgix/",
+  "CLIENT_NAME": "coolbet",
+  "THEME": "coolbet",
+  "CMS_IMAGES": "https://coolbet-cms.imgix.net/",
+  "IMAGES_HOST": "/c/assets/",
+  "IMAGE_BASE_URL": "/c/assets/coolbet/",
+  "DOMAIN_NAMES_BY_LICENCE": {
+    "CANADA_ONTARIO": "coolbet.ca",
+    "ESTONIA": "coolbet.com",
+    "MALTA": "coolbet.com",
+    "SWEDEN": "coolbet.com"
+  },
+  "FACEBOOK_APP_ID": "1550945171886241",
+  "FACEBOOK_CLIENT_ID": "1550945171886241",
+  "GOOGLE_MAPS_KEY": "AIzaSyDEL86SkX6ghIpA-oHlSIGK078VL9VRUl4",
+  "AVAILABLE_MARKETS": [
+    "CA",
+    "CL",
+    "EE",
+    "FI",
+    "IS",
+    "NO",
+    "SE"
+  ],
+  "AVAILABLE_LICENSES": [
+    "MT",
+    "EE",
+    "SE"
+  ],
+  "FEATURE_ENABLED_PAYOUT_ROUND_UP": "false",
+  "GEOCOMPLY": {
+    "DESKTOP_INSTALLER_BASE_URL": "https://ums.geocomply.com/installer/url",
+    "DESKTOP_INSTALLER_KEY": "g0R3DgpwIM",
+    "ENVIRONMENT": "production",
+    "MOBILE_LIBRARY_URL": "https://cdn.geocomply.com/oobee/v2.18/oobee.js",
+    "MOBILE_OOBEE_SERVICE_URL": "https://ca1-es.geocomply.com/oobee.php",
+    "MOBILE_OOBEE_URL": "https://ca1-oobee.geocomply.com"
+  },
+  "POKER_PLAYTECH": {
+    "ANDROID_APP": {
+      "ESTONIA": "https://games-coolbetee.onegameslink.com/poker/mobile/26.1.01018/android/CoolbetEe_new-MIT_COOLBET_EE_QTM-rls-26_1_01018_com.pokerapp.coolbet.ee.apk",
+      "MALTA": "https://games-coolbet.onegameslink.com/poker/mobile/26.1.01018/android/Coolbet_new-MIT_COOLBET_QTM-rls-26_1_01018_com.pokerapp.coolbet.apk",
+      "SWEDEN": "https://games-coolbetse.onegameslink.com/poker/mobile/26.1.01018/android/CoolbetSe_new-MIT_COOLBET_SE_QTM-rls-26_1_01018_com.pokerapp.coolbet.se.apk"
+    },
+    "INTEGRATION_LIB": {
+      "ESTONIA": "https://login-mt.onegameslink.com/jswrapper/coolbet.ee/integration.min.js",
+      "MALTA": "https://login-mt.onegameslink.com/jswrapper/coolbet/integration.min.js",
+      "SWEDEN": "https://login-mt.onegameslink.com/jswrapper/coolbet.se/integration.min.js"
+    },
+    "WINDOWS_DOWNLOAD_CLIENT": {
+      "ESTONIA": "https://cachedownload-coolbetee.onegameslink.com/installer/poker/SetupPoker.exe",
+      "MALTA": "https://cachedownload-coolbet.onegameslink.com/installer/poker/SetupPoker.exe",
+      "SWEDEN": "https://cachedownload-coolbetse.onegameslink.com/installer/poker/SetupPoker.exe"
+    },
+    "MAC_DOWNLOAD_CLIENT": {
+      "MALTA": "https://cachedownload-coolbet.onegameslink.com/download/poker/mac/26.1.1.22/Coolbet-MIT_COOLBET_QTDL-rls-26_1_1_22-com.pokermac.coolbet_CoolbetPoker.pkg"
+    }
+  },
+  "BETRADAR_CLIENT_ID": "d18a4448c4fafb14d4dbd1546d6abd68",
+  "ENVIRONMENT": "prod",
+  "GOOGLE_CLIENT_ID": "712727173785-81fd84hjqhfp99cnt07qai9d50he81c7.apps.googleusercontent.com",
+  "LOQATE_API_KEY": "YU13-RP63-HC89-JP14",
+  "ROOT_URL": "https://www.coolbet.com",
+  "SENTRY_DSN": "https://cfecfd2aa69b4e5b824447f8b12f44ee@o1024335.ingest.sentry.io/4504327933132800",
+  "TERMINAL_INITIALIZATION_URL": "https://coolbet.staycool.ee/retail/terminals/new",
+  "BETBUILDER_WIDGET_KEY": "1cd58195-b649-4b3b-aad0-0bbce353d424",
+  "BETBUILDER_WIDGET_URL": "https://public-prod-gen2.sportcastlive.com",
+  "IS_CORE_BETBUILDER_INTEGRATION": "false",
+  "APPLE_CLIENT_ID": "com.coolbet.www",
+  "FACEBOOK_ADS_KEY": {
+    "coolbet.ca": "q4liddbfs509y15te3xil0ugzft11o"
+  },
+  "ADACT_API_KEY": "wGV8Vuc9mSiqKVsB55uKJomL7VyaSsLM",
+  "GOOGLE_GTM_ID": "GTM-MBM6MZ",
+  "GOOGLE_GTM": {
+    "www.coolbetchile.com": "GTM-NQGFWKBK",
+    "www.coolbet.com": "GTM-MBM6MZ"
+  },
+  "FACEBOOK_PIXEL": {
+    "www.coolbetchile.com": "1565384931508706",
+    "www.coolbet.com": "307150426568710"
+  },
+  "EDGE_TIER": {
+    "URL": "https://cdn.edgetier.com/coolbet.js",
+    "LOGGED_IN_CHAT_ID": "1",
+    "LOGGED_OUT_CHAT_ID": "2"
+  },
+  "PRO_IP_API_KEY": "k0uh9tTbciCrNkF"
+};
+        </script>
+<link rel=preconnect href="https://fonts.googleapis.com">
+<link rel=preconnect href="https://fonts.gstatic.com" crossorigin>
+<link rel=preload href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700;900&display=swap" as=style onload="this.onload=null;this.rel='stylesheet'"/>
+<title>Coolbet</title>
+<meta name=theme-color content="#2c2c36">
+<link rel=manifest href="/manifest.json">
+<link rel=icon href="/assets/images/favicon/coolbet.png"/>
+<link rel=apple-touch-icon href="/assets/icon/coolbet-apple-touch-icon.png"/>
+<script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "WebSite",
+        "name": "Coolbet",
+        "url": "https://www.coolbet.pe/",
+        "alternateName": ["Coolbet.pe"]
+    }
+</script>
+<script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "WebSite",
+        "name": "Coolbet",
+        "url": "https://www.coolbet.com/",
+        "alternateName": ["Coolbet.com"]
+    }
+</script>
+<script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "WebSite",
+        "name": "Coolbet",
+        "url": "https://www.coolbetchile.com/",
+        "alternateName": ["Coolbetchile.com"]
+    }
+</script>
+<style>
+    body {
+        min-height: calc(100vh);
+        background: rgba(32, 32, 39, 1);
+        background: linear-gradient(
+                to bottom,
+                rgba(32, 32, 39, 1) 0%,
+                rgba(32, 32, 39, 1) 19%,
+                rgba(62, 62, 74, 1) 50%,
+                rgba(32, 32, 39, 1) 80%,
+                rgba(32, 32, 39, 1) 100%
+        );
+    }
+
+    @media (max-width: 767px) {
+        body {
+            -webkit-user-select: none;
+            -webkit-tap-highlight-color: transparent;
+            -webkit-touch-callout: none
+        }
+    }
+
+    img {
+        max-width: 100%
+    }
+
+    #preloader {
+        position: fixed;
+        top: 0;
+        right: 0;
+        bottom: 0;
+        left: 0;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        color: white;
+        font-family: sans-serif;
+        text-align: center;
+        font-size: 0.625rem;
+    }
+</style>
+<style>html{line-height:1.15;-webkit-text-size-adjust:100%;}body{margin:0;}main{display:block;}h1{font-size:2em;margin:0.67em0;}hr{box-sizing:content-box;height:0;overflow:visible;}pre{font-family:monospace,monospace;font-size:1em;}a{background-color:transparent;}abbr[title]{border-bottom:none;text-decoration:underline;text-decoration:underlinedotted;}b,strong{font-weight:bolder;}code,kbd,samp{font-family:monospace,monospace;font-size:1em;}small{font-size:80%;}sub,sup{font-size:75%;line-height:0;position:relative;vertical-align:baseline;}sub{bottom:-0.25em;}sup{top:-0.5em;}img{border-style:none;}button,input,optgroup,select,textarea{font-family:inherit;font-size:100%;line-height:1.15;margin:0;}button,input{overflow:visible;}button,select{text-transform:none;}button,[type="button"],[type="reset"],[type="submit"]{-webkit-appearance:button;}button::-moz-focus-inner,[type="button"]::-moz-focus-inner,[type="reset"]::-moz-focus-inner,[type="submit"]::-moz-focus-inner{border-style:none;padding:0;}button:-moz-focusring,[type="button"]:-moz-focusring,[type="reset"]:-moz-focusring,[type="submit"]:-moz-focusring{outline:1pxdottedButtonText;}fieldset{padding:0.35em0.75em0.625em;}legend{box-sizing:border-box;color:inherit;display:table;max-width:100%;padding:0;white-space:normal;}progress{vertical-align:baseline;}textarea{overflow:auto;}[type="checkbox"],[type="radio"]{box-sizing:border-box;padding:0;}[type="number"]::-webkit-inner-spin-button,[type="number"]::-webkit-outer-spin-button{height:auto;}[type="search"]{-webkit-appearance:textfield;outline-offset:-2px;}[type="search"]::-webkit-search-decoration{-webkit-appearance:none;}::-webkit-file-upload-button{-webkit-appearance:button;font:inherit;}details{display:block;}summary{display:list-item;}template{display:none;}[hidden]{display:none;}</style><script defer>try{let e="u">typeof window?window:"u">typeof global?global:"u">typeof globalThis?globalThis:"u">typeof self?self:{},a=(new e.Error).stack;a&&(e._sentryDebugIds=e._sentryDebugIds||{},e._sentryDebugIds[a]="f56061d6-af33-4a5e-82ed-a2d6f57ab783",e._sentryDebugIdIdentifier="sentry-dbid-f56061d6-af33-4a5e-82ed-a2d6f57ab783")}catch(e){}("u">typeof window?window:"u">typeof global?global:"u">typeof globalThis?globalThis:"u">typeof self?self:{}).SENTRY_RELEASE={id:"12368_MRG_CSERV-2051-fix-account-reopening-form-on_PR10926"},(()=>{"use strict";var e,a,t,o,r,n,i,d,c={},f={};function g(e){var a=f[e];if(void 0!==a)return a.exports;var t=f[e]={id:e,loaded:!1,exports:{}};return c[e].call(t.exports,t,t.exports,g),t.loaded=!0,t.exports}if(g.m=c,g.n=e=>{var a=e&&e.__esModule?()=>e.default:()=>e;return g.d(a,{a:a}),a},a=Object.getPrototypeOf?e=>Object.getPrototypeOf(e):e=>e.__proto__,g.t=function(t,o){if(1&o&&(t=this(t)),8&o||"object"==typeof t&&t&&(4&o&&t.__esModule||16&o&&"function"==typeof t.then))return t;var r=Object.create(null);g.r(r);var n={};e=e||[null,a({}),a([]),a(a)];for(var i=2&o&&t;("object"==typeof i||"function"==typeof i)&&!~e.indexOf(i);i=a(i))Object.getOwnPropertyNames(i).forEach(e=>{n[e]=()=>t[e]});return n.default=()=>t,g.d(r,n),r},g.d=(e,a)=>{for(var t in a)g.o(a,t)&&!g.o(e,t)&&Object.defineProperty(e,t,{enumerable:!0,get:a[t]})},g.f={},g.e=e=>Promise.all(Object.keys(g.f).reduce((a,t)=>(g.f[t](e,a),a),[])),g.u=e=>"static/js/async/"+(({1033:"InboxPage",1039:"DepositPage",113:"PayoutPage",1293:"SportBetslipRedesigned",1579:"PayAndPlayLoginPage",1585:"RegistrationBtobPage",1628:"AccountVerificationKycModal",1719:"PaymentQuickDeposit",1911:"LiveLobbyPage",2022:"AccountPage",2498:"CasinoGamePage",2598:"BetHistoryPage",2599:"SportStreamPage",2675:"AuthProfileValidatorList",2687:"SportCampaignWinnersPage",2827:"LeagueDetailPage",2842:"TaxStatementsPage",3016:"SportExternalPage",3102:"SportLeaderboardPage",3142:"SportContestsPage",3257:"SportSettings",35:"ModalityViewAccount",3694:"SportNewRecommendationsRedesignPage",372:"EmptyPage",3721:"BlogPreviewPage",3758:"SportBetHistoryPage",3851:"PreLaunchPage",4163:"ResetPasswordPage",4216:"SportParlayCardsPage",4448:"CasinoPage",4487:"SportPage",4634:"TransactionsPage",4942:"ReferAFriendPage",5083:"BlogPage",5093:"VirtualSportsPage",5353:"RegistrationBtobCamsPage",559:"ReferPage",5768:"SportList",587:"PayoutReturnPage",5890:"SupportPage",5966:"ModalityViewSearch",598:"HorseRacingPage",6041:"PromotionsPage",6165:"StopSessionPage",6477:"DepositReturnPage",6518:"Sidebar",6594:"RegistrationPage",6618:"LeaguePage",7080:"LoginPage",7096:"RegistrationBtobCamsContinuePage",7169:"WelcomePage",7436:"SportHighestTurnoverPage",754:"SmartIdPlusLoginRedirectPage",772:"AboutPage",7984:"PokerPage",8079:"ModalityViewLanguages",8134:"SportCampaignRedesignPage",8168:"ResponsibleGamingPage",8235:"AuthLoginModalContent",8365:"SportProductLauncher",8519:"GamblingStatisticsPage",8746:"SportParlayCardsDetailPage",8999:"PaymentPayoutSecure",9289:"RegistrationBtobErrorPage",946:"HowToPwaPage",9651:"CrmMessagePreviewPage",9900:"LoginRedirectPage"})[e]||e)+"."+({1033:"b8101ac6",1039:"923c737d",113:"9d764956",1293:"d7b2336a",142:"f6230a2e",1456:"f5e58b6e",1579:"761b6a79",1585:"a67dd08b",1628:"ac563953",1691:"fca895b0",1719:"0e111c65",1835:"2f2dc167",1883:"a9b64b18",1911:"84824160",1931:"aa5a4f0f",2022:"11753e21",2032:"e84dc13b",2037:"69b8df89",2165:"57fb63c1",2405:"ef0b632d",2498:"b2dff2e1",2598:"185e9c79",2599:"0740e39b",2664:"757271ec",2665:"d3d55ac7",2675:"2e31a38d",2687:"a161b7d6",2817:"ceb8b1cb",2827:"ebf88e9b",2842:"535bf606",3016:"1e849f84",303:"f63c3dcf",3102:"2f367352",3142:"208b44bb",3176:"69de3a91",3257:"6df88ee6",3339:"e5c2d304",3454:"9cec457c",3497:"a19dce06",35:"397ec8a4",3505:"68c758e1",3629:"dbcbaf1e",3694:"279ffabb",372:"5c1feedb",3721:"3b3fe6fa",3754:"74b9cafe",3758:"92ba2b7c",3775:"68e6def8",3851:"5c163fb2",4163:"028f20e4",4216:"a8d8d6b8",4400:"7c4f0578",443:"47b7be10",4430:"73dc8e0d",4448:"1d221925",4475:"207e1807",4487:"cd5a0eaa",4634:"9f4ed2cc",4713:"f96ce5b4",4942:"b0a4482a",5011:"5dae9157",5065:"c1827d82",5083:"e62f0bc0",5093:"aafce2f1",5230:"1e5ff235",5353:"a2f4ced4",5483:"7aca0e90",5531:"14d210b8",559:"64cd9035",5648:"ed73dd33",5765:"644da67f",5768:"9bae16e8",5805:"20ef5546",587:"5b99c8f7",5886:"71809ba3",5890:"c2756d7e",5966:"6569218f",598:"fb435c64",6015:"961548ce",6029:"af2b2184",6041:"02b7c228",6165:"bd0c3613",6302:"daa5af1a",6380:"5fcfa06b",6429:"65827e68",6477:"809596ee",6518:"d076d968",6594:"154aca08",6618:"2fc3d020",6684:"c2c4fb1a",6735:"a19c97e8",6877:"cbae4529",694:"ad18c669",7080:"852f3da7",7096:"44f761f5",7169:"086584f7",7436:"75ccd661",754:"ab3cedc2",7543:"da3586de",7591:"894754a8",7676:"281446ce",772:"f0f4ca03",7780:"94fdacd9",7881:"25ff5b60",7899:"5dae6d16",7907:"440018c6",7940:"c295f627",798:"759337a2",7984:"cf5ee8fe",8079:"9e2f519d",8134:"87ca4bad",8168:"c6c5c8bc",8235:"59749708",8292:"3b248af9",8365:"85e6d21b",8519:"078fa2ef",8657:"86faff40",8746:"f71535fe",8813:"4de5cf5b",8824:"b0e66be7",8895:"8f0a91f4",8904:"756fb90f",8921:"17381c6e",8965:"3be47b42",8999:"937a5ccd",913:"51849cf7",9184:"64f25764",9286:"10e41ff7",9289:"d0453983",9411:"0df8b11e",946:"59ffb3f4",9651:"12e67ea8",9712:"942a6a57",975:"8853a1c3",9900:"9c0132f6",9905:"14202f2a"})[e]+".js",g.miniCssF=e=>"static/css/async/"+(({1033:"InboxPage",1039:"DepositPage",113:"PayoutPage",1293:"SportBetslipRedesigned",1585:"RegistrationBtobPage",1628:"AccountVerificationKycModal",1719:"PaymentQuickDeposit",1911:"LiveLobbyPage",2022:"AccountPage",2498:"CasinoGamePage",2598:"BetHistoryPage",2675:"AuthProfileValidatorList",2827:"LeagueDetailPage",2842:"TaxStatementsPage",3142:"SportContestsPage",3257:"SportSettings",35:"ModalityViewAccount",3721:"BlogPreviewPage",3758:"SportBetHistoryPage",4163:"ResetPasswordPage",4216:"SportParlayCardsPage",4448:"CasinoPage",4487:"SportPage",4634:"TransactionsPage",4942:"ReferAFriendPage",5083:"BlogPage",5093:"VirtualSportsPage",5353:"RegistrationBtobCamsPage",559:"ReferPage",5768:"SportList",5890:"SupportPage",5966:"ModalityViewSearch",598:"HorseRacingPage",6041:"PromotionsPage",6518:"Sidebar",6594:"RegistrationPage",6618:"LeaguePage",7080:"LoginPage",7096:"RegistrationBtobCamsContinuePage",7169:"WelcomePage",772:"AboutPage",7984:"PokerPage",8079:"ModalityViewLanguages",8168:"ResponsibleGamingPage",8235:"AuthLoginModalContent",8365:"SportProductLauncher",8519:"GamblingStatisticsPage",8746:"SportParlayCardsDetailPage",9289:"RegistrationBtobErrorPage",946:"HowToPwaPage"})[e]||e)+"."+({1033:"44e3255b",1039:"c77ba57c",113:"48835762",1293:"04413a53",1585:"62f35f80",1628:"44ecb708",1691:"03b87ad3",1719:"66797044",1883:"50ed3e43",1911:"2feb6e9f",2022:"fcedad80",2405:"c629f022",2498:"0202ba0e",2598:"406deae2",2675:"445d55e5",2817:"44de5295",2827:"50dfe8e3",2842:"a1f4c15a",3142:"7b039f92",3257:"52b9bf6f",3497:"d9b8292b",35:"e64a5f21",3505:"1c139d0d",3721:"9f763b18",3758:"515187f7",3775:"278cdab0",4163:"0086476c",4216:"1f3b4a71",443:"2ef5a179",4448:"3598e774",4487:"a746413f",4634:"67b1e0bf",4942:"404fb02a",5011:"e9e57d5f",5083:"c19ef6a7",5093:"f3a434e0",5230:"3c01157f",5353:"46935188",559:"47448826",5648:"71267b8d",5768:"6a5f290f",5805:"1d908199",5886:"088456b2",5890:"adfee0a3",5966:"d4bcd244",598:"8983e68c",6015:"17b7a224",6041:"7e83abdb",6380:"d3a10169",6429:"af361584",6518:"f23fc181",6594:"008ed29f",6618:"db14c584",6735:"f9d60d0d",7080:"935775e5",7096:"0e097354",7169:"e9baa183",7591:"1a4d992d",7676:"b7ca8cbb",772:"de066704",7984:"975f82dd",8079:"d6dbace1",8168:"e7cc29f8",8235:"969eac53",8365:"4b4c64aa",8519:"3c97663e",8746:"6b7edd0b",9289:"0e097354",946:"9410fb07"})[e]+".css",g.g=(()=>{if("object"==typeof globalThis)return globalThis;try{return this||Function("return this")()}catch(e){if("object"==typeof window)return window}})(),g.o=(e,a)=>Object.prototype.hasOwnProperty.call(e,a),t={},o="coolbet-frontend:",g.l=function(e,a,r,n){if(t[e])return void t[e].push(a);if(void 0!==r)for(var i,d,c=document.getElementsByTagName("script"),f=0;f<c.length;f++){var s=c[f];if(s.getAttribute("src")==e||s.getAttribute("data-rspack")==o+r){i=s;break}}i||(d=!0,(i=document.createElement("script")).timeout=120,g.nc&&i.setAttribute("nonce",g.nc),i.setAttribute("data-rspack",o+r),i.src=e),t[e]=[a];var b=function(a,o){i.onerror=i.onload=null,clearTimeout(l);var r=t[e];if(delete t[e],i.parentNode&&i.parentNode.removeChild(i),r&&r.forEach(function(e){return e(o)}),a)return a(o)},l=setTimeout(b.bind(null,void 0,{type:"timeout",target:i}),12e4);i.onerror=b.bind(null,i.onerror),i.onload=b.bind(null,i.onload),d&&document.head.appendChild(i)},g.r=e=>{"u">typeof Symbol&&Symbol.toStringTag&&Object.defineProperty(e,Symbol.toStringTag,{value:"Module"}),Object.defineProperty(e,"__esModule",{value:!0})},g.nmd=e=>(e.paths=[],e.children||(e.children=[]),e),g.nc=void 0,r=[],g.O=(e,a,t,o)=>{if(a){o=o||0;for(var n=r.length;n>0&&r[n-1][2]>o;n--)r[n]=r[n-1];r[n]=[a,t,o];return}for(var i=1/0,n=0;n<r.length;n++){for(var[a,t,o]=r[n],d=!0,c=0;c<a.length;c++)(!1&o||i>=o)&&Object.keys(g.O).every(e=>g.O[e](a[c]))?a.splice(c--,1):(d=!1,o<i&&(i=o));if(d){r.splice(n--,1);var f=t();void 0!==f&&(e=f)}}return e},g.p="/","u">typeof document){var s=function(e,a,t,o,r){var n=document.createElement("link");return n.rel="stylesheet",n.type="text/css",g.nc&&(n.nonce=g.nc),n.href=a,n.onerror=n.onload=function(t){if(n.onerror=n.onload=null,"load"===t.type)o();else{var i=t&&("load"===t.type?"missing":t.type),d=t&&t.target&&t.target.href||a,c=Error("Loading CSS chunk "+e+" failed.\\n("+d+")");c.code="CSS_CHUNK_LOAD_FAILED",c.type=i,c.request=d,n.parentNode&&n.parentNode.removeChild(n),r(c)}},t?t.parentNode.insertBefore(n,t.nextSibling):document.head.appendChild(n),n},b=function(e,a){for(var t=document.getElementsByTagName("link"),o=0;o<t.length;o++){var r=t[o],n=r.getAttribute("data-href")||r.getAttribute("href");if(n&&(n=n.split("?")[0]),"stylesheet"===r.rel&&(n===e||n===a))return r}for(var i=document.getElementsByTagName("style"),o=0;o<i.length;o++){var r=i[o],n=r.getAttribute("data-href");if(n===e||n===a)return r}},l={644:0};g.f.miniCss=function(e,a){if(l[e])a.push(l[e]);else 0!==l[e]&&({1033:1,1039:1,113:1,1293:1,1585:1,1628:1,1691:1,1719:1,1883:1,1911:1,2022:1,2405:1,2498:1,2598:1,2675:1,2817:1,2827:1,2842:1,3142:1,3257:1,3497:1,35:1,3505:1,3721:1,3758:1,3775:1,4163:1,4216:1,443:1,4448:1,4487:1,4634:1,4942:1,5011:1,5083:1,5093:1,5230:1,5353:1,559:1,5648:1,5768:1,5805:1,5886:1,5890:1,5966:1,598:1,6015:1,6041:1,6380:1,6429:1,6518:1,6594:1,6618:1,6735:1,7080:1,7096:1,7169:1,7591:1,7676:1,772:1,7984:1,8079:1,8168:1,8235:1,8365:1,8519:1,8746:1,9289:1,946:1})[e]&&a.push(l[e]=new Promise(function(a,t){var o=g.miniCssF(e),r=g.p+o;if(b(o,r))return a();s(e,r,null,a,t)}).then(function(){l[e]=0},function(a){throw delete l[e],a}))}}n={644:0},g.f.j=function(e,a){var t=g.o(n,e)?n[e]:void 0;if(0!==t)if(t)a.push(t[2]);else if(644!=e){var o=new Promise((a,o)=>t=n[e]=[a,o]);a.push(t[2]=o);var r=g.p+g.u(e),i=Error();g.l(r,function(a){if(g.o(n,e)&&(0!==(t=n[e])&&(n[e]=void 0),t)){var o=a&&("load"===a.type?"missing":a.type),r=a&&a.target&&a.target.src;i.message="Loading chunk "+e+" failed.\n("+o+": "+r+")",i.name="ChunkLoadError",i.type=o,i.request=r,t[1](i)}},"chunk-"+e,e)}else n[e]=0},g.O.j=e=>0===n[e],i=(e,a)=>{var t,o,[r,i,d]=a,c=0;if(r.some(e=>0!==n[e])){for(t in i)g.o(i,t)&&(g.m[t]=i[t]);if(d)var f=d(g)}for(e&&e(a);c<r.length;c++)o=r[c],g.o(n,o)&&n[o]&&n[o][0](),n[o]=0;return g.O(f)},(d=self.webpackChunkcoolbet_frontend=self.webpackChunkcoolbet_frontend||[]).forEach(i.bind(null,0)),d.push=i.bind(null,d.push.bind(d))})();</script><script defer src="/static/js/lib-polyfill.d4e9c9d1.js"></script><script defer src="/static/js/lib-react.77ab3a58.js"></script><script defer src="/static/js/lib-router.e92e5450.js"></script><script defer src="/static/js/1429.10b5824d.js"></script><script defer src="/static/js/index.9258d186.js"></script><link href="/static/css/1429.9093d17a.css" rel=stylesheet><link href="/static/css/index.12ba4e2e.css" rel=stylesheet></head>
+<body>
+<script>
+    loadSvg('coolbet');
+</script>
+<div id=preloader>
+<div>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1380 270" style="height: 35px">
+<path d="M590.21 222.13h-59.45c-36.15 0-65.56-29.41-65.56-65.56V59.11h36v97.46c0 16.3 13.26 29.56 29.56 29.56h59.45v36Zm-369.69 0h-11.89c-36.15 0-65.56-29.41-65.56-65.56v-31.9c0-36.15 29.41-65.56 65.56-65.56h11.89c36.15 0 65.56 29.41 65.56 65.56v31.9c0 36.15-29.41 65.56-65.56 65.56ZM208.63 95.11c-16.3 0-29.56 13.26-29.56 29.56v31.9c0 16.3 13.26 29.56 29.56 29.56h11.89c16.3 0 29.56-13.26 29.56-29.56v-31.9c0-16.3-13.26-29.56-29.56-29.56h-11.89Z" fill="#17beff"/>
+<path d="M733.26 100.89c0-23.43-21.77-41.78-49.55-41.78h-75.44v163.02h75.44c27.78 0 49.55-18.35 49.55-41.78V164.4c0-8.9-3.15-17.07-8.57-23.78 5.42-6.71 8.57-14.88 8.57-23.78v-15.95Zm-88.99-5.78h39.44c9.03 0 13.55 4.68 13.55 5.78v15.95c0 1.1-4.52 5.78-13.55 5.78h-39.44V95.11Zm52.99 85.24c0 1.1-4.52 5.78-13.55 5.78h-39.44v-27.51h39.44c9.03 0 13.55 4.68 13.55 5.78v15.95Z" fill="#ff8f04"/>
+<path d="M381.58 222.13h-11.89c-36.15 0-65.56-29.41-65.56-65.56v-31.9c0-36.15 29.41-65.56 65.56-65.56h11.89c36.15 0 65.56 29.41 65.56 65.56v31.9c0 36.15-29.41 65.56-65.56 65.56ZM369.69 95.11c-16.3 0-29.56 13.26-29.56 29.56v31.9c0 16.3 13.26 29.56 29.56 29.56h11.89c16.3 0 29.56-13.26 29.56-29.56v-31.9c0-16.3-13.26-29.56-29.56-29.56h-11.89Z" fill="#17beff"/>
+<path d="M816.87 95.11h59.45v-36h-59.45c-10.27 0-20.4 2.42-29.56 7.07-21.34 10.83-36 32.97-36 58.49v31.9c0 25.52 14.66 47.66 36 58.49a65.05 65.05 0 0 0 29.56 7.07h59.45v-36h-59.45c-15.61 0-28.43-12.16-29.48-27.51h52.92v-36h-52.92c1.06-15.34 13.87-27.51 29.48-27.51Z" fill="#ff8f04"/>
+<path d="M1019.4 59.11H894.38v36h15.02c16.27.04 29.49 13.28 29.49 29.56v97.46h36v-97.46c0-10.63-2.56-20.67-7.07-29.56h51.58v-36Z" fill="#e11d00"/>
+<path d="M125.01 222.13H65.56C29.41 222.13 0 192.72 0 156.57v-31.9c0-36.15 29.41-65.56 65.56-65.56h59.45v36H65.56c-16.3 0-29.56 13.26-29.56 29.56v31.89c0 16.3 13.26 29.56 29.56 29.56h59.45v36Z" fill="#70c62a"/>
+<path d="M1345.6 128.36c-3.87-1.46-7.5-3.64-10.91-6.54-7.49-6.49-16.92-9.14-25.23-10.81-14.22-3.13-27.72-3.3-40.94-10.38-6.96-3.89-14.7-8.84-22.24-9.88-3.9-.53-8.31-.17-13.21 1.06 1.85-6.28-24.31 9.69-18.37 6.95-21.43 8.77-41.34 6.94-54.09 18.47-14.65 11.44-27.02 27.9-27.02 27.9 4.08-3.85 9.15-6.48 15.22-7.92 6.74-1.56 14.87-.56 20.15-5.17 5.23-3.63 8.18-7.8 13.03-11.33.02-.02.04-.03.06-.03 6.99-4.42 13.44-4.69 17.45 2.17 1.6 7.73.9 17.17-2.12 28.31-.02.12-.04.23-.08.34-2.7 9.89-5.78 17.34-7.76 27.88-.68 5.52.26 9.95.82 15.6.45 5.61-2.15 10.83.29 16.18 3.07 5.22 9.26 9.9 14.56 10.59 6.14.1 32.75 2.02 24.2-2.91-2.19-4.35-5.04-4.35-8.87-2.7-4.84.8-9.68.36-13.64-3.23-1.65-7.62-.1-16.73-.71-24.23-.78-9 2.58-18.79 10.09-29.36 4.79-6.75 19.54-19.42 14.99-26.53-4.17-6.89-9.45-14.82-6.88-22.83 2.74-4.51 7.39-7.82 11.92-10.03 8-3.85 14.38-3.04 19.14 2.41 6.46 6.31 13.67 8.11 22.06 11.68 9.59 5.13 20.82 7.88 30.56 8.84 8.13.97 14.41 2.28 22.05 4.24 6.78 3.08 13.49 5.88 20.29 2.54-1.52-.27-3.56-.85-4.8-1.29Z" fill="#17beff"/>
+<path d="M1082 123.49c-2.52 7.55-1.84 14.08-4.47 21.76-1.25 3.57-3.48 7.49-6.67 11.76-3.56 4.76-6.94 7.95-10.14 9.56a62.248 62.248 0 0 0-7.7 4.79c-6.68 5-8.48 8.54-9.58 10.96-1.01 1.94-1.78 4.28-3.9 5.65-1.15.74-1.85 2.17-2.12 4.29.6 4.79 2.66 9.35 4.82 13.34 3.71 6.79 7.66 11.17 11.86 13.13 2.11.56 5.09 1.29 6.88 0 1.04-.57 1.73-.66 2.79-.8-7.73-15.53-5.98-26.95 6.3-35.53 19.31-12.02 34.11-24.31 44.4-36.88 6.96-8.49 12.08-17.56 15.36-27.19 5.87-17.46 11.66-26.71 33.28-29.26 17.88-.54 33.14 2.41 48.51-5.06 8.42-4.18 17.09-6.03 26-5.53 6.51.34 12.15 1.74 16.92 4.21 6.68 2.64 33.88 12.52 36.75 9.44 3.54-3.46 7.15 1.39 9.08 4.41.88 1.08 6.38 2.7 16.5 4.87l14.91 2.97c1.79-1.84 4.19-1.42 5.66-.13.65.57 1.21 1.25 1.64 2.01 2.18.23 3.6.05 5.8-.16l-.19-2.81c-1.72-3.39-6.37-5.74-9.53-7.12-7.78-3.73-16.03-6.91-23.54-9.53-.8-.28-1.58-.73-2.36-1.32-1.31-.65-4.02-1.41-8.13-2.28-6.46-1.38-12.88-2.93-19.25-4.66-6.88-1.89-11.55-3.42-13.98-4.6-5.14-2.4-10.07-4.15-15.28-5.46-4.94-1.22-8.25-1.84-9.91-1.86-1.89 0-5.8.63-11.73 1.88-1.29.28-5.89-.02-13.8-.93-7.18-.8-11.53-1.37-13.03-1.72-7.85-1.83-14.78-3.88-22.66-5.22-10.08-1.73-19.67-1.93-28.78-.61-12.4 2.29-23.92 7.21-34.16 13.11-14.21 8.26-22.9 16.82-26.08 25.68-2.28 9.09-7.72 16.39-10.48 24.84Z" fill="#e11d00"/>
+<path d="M1290 138.76c-1.19-4-3.05-8.97 1.33-10.45-16.31.8-38.81-17.63-43.1-14.38-.57 2.37.26 3.15 6.63 9.76 3.51 4.43 12.29 5.18 14.99 7.86-11.9 1.49-9.05.6-15.86 7.57 1.38 2.9 3.37 5.8 5.16 7.92 4.93 5.79 11.13 9.98 18.62 12.58 11.15 9.14 14.95 23.85 22.4 36.09 2.95 4.94 5.95 8.92 8.81 10.74 6.43 2.19 14.73-2.26 20.05 1.94-1.38 4.77-18.49.21-21.94 4.9 1.93 2.73 4.8 4.74 7.43 5.21 8.43-.25 16.37-.1 22.83-1.94 1.17-1.51 2.93-1.95 3.58-3.62.54-2.33-2.05-3.05-2.05-3.05-1.93-4.59-3.98-5.84-10.3-5.8-10.08-1.07-12.08-6.78-15.81-15.04-3.65-3.06-8.1-9.62-13.35-19.7-2.6-5.37-4.89-9.5-6.96-14.91 1.24-5.79-.84-11.36-2.46-15.7Z" fill="#70c62a"/>
+<path d="M1150.7 150.68c-.31 4.68-1.98 10.2-5.56 12.74-2.36 1.59-3.01 7.18-1.93 16.76.71 6.41 1.47 13.22 3.1 19.65 1.73 4.8 3.68 6.04 9.4 8.15 3.86 2.32 4.55 7.53 2.15 9.85 6.56.08 11.3-.15 17.93-1.19 3.71-2.83-2.07-7.93-3.81-9.82l-9.27-1.06-5.96-5.43c-.62-4.75-.93-9.85 0-14.43 1.98-6.47 1.38-15.44 4.64-21.58 2.42-3.53 2.76-6.27 3.39-10.38-4.98-.4-10.13-2.07-14.06-3.25Z" fill="#bf6b03"/>
+<path d="M1133.6 145.15c3.53 1.19 7.07 2.35 10.62 3.5 5.31 1.61 10.33 3.38 15.81 4.61 7.87 1.45 16.81.73 23.49 0 5.13-.57 8.95-1.19 13.87-2.07 3.02-11.14 3.73-20.57 2.12-28.31-.98-3.56-3.13-4.08-5.19-4.95-4.97-1.05-8.62-.3-12.31 2.81-6.57 5.02-13.52 13.13-20.76 14.64-4.23.6-8.08.81-12.42 1.85-6.08 1.43-11.15 4.07-15.23 7.92Z" fill="#118fbf"/>
+<path d="M1277.8 159.63c-7.49-2.59-13.69-6.79-18.62-12.58-2.26-2.65-3.62-4.95-5.16-7.92-2.85 2.92-5.83 5.29-8.82 7.39.16 1.64.61 3.06 1.35 4.26 4.03 4.68 9.01 8.41 12.66 12.81 3.97 9.07 9.38 17.02 16.23 23.83 4.94 4.79 10.12 8.79 14.93 12.58 3.64 3.18 10.74 7.6 9.53 11.65.41 3.56 5.56 5.94 9.72 7.07 1.61-.05 3.25-.12 4.93-.19v-.03c-4.07-1.31-9.6-5.59-3.84-6.51 5.86-.99 10.48-.37 16.58-1.64 2.19-.46 2.78-1.11 1.77-1.96-2.24-1.85-5.82-2.57-10.75-2.14-2.9.1-6.88 1.18-9.4-.4-2.86-1.82-5.76-5.2-8.71-10.14-1.73-2.88-4.22-7.74-7.47-14.59-3.89-6.66-7.26-18.66-14.93-21.5Z" fill="#549520"/>
+<path d="M1296.3 120.87c-2.81-.71-9.09-2.65-18.85-6.83-7.74-3.69-15-4.92-22.06-11.68-4.77-5.45-11.15-6.26-19.14-2.41-9.2 4.61-15.45 9.28-12.74 20.42 1.95 7.05 10.81 11.78 7.7 18.8-4.3 7.53-9.61 12.74-14.99 20.18-7.5 10.57-10.86 20.36-10.09 29.36.4 7.28-2.67 18.99.71 24.23 3.49 3.53 9.45 4.38 13.64 3.23 5.12-2.08 6.9-.4 8.87 2.7.7 1.18.73 2.09.08 2.73 4.38-.35 6.95-.86 7.73-1.51.93-2.45-2-6.53-3.68-8.08-5.56-.06-18.9 1.65-18.16-5.46.65-3.37 1.39-5.44 2.46-8.84.21-3.62.73-7.6 1.56-11.94 1.69-8.67 4.12-14.8 7.28-18.4 3.3-3.86 5.67-7.21 8.71-11.36 5.33-7.16 12.99-9.82 18.94-15.87 7.98-9.13 5.44-6.54 16.06-8.64-4.55-3.44-11.42-3.68-15.48-7.79-6.37-6.62-8.23-9.98-5.56-10.09 16.01 6.61 28.88 16.25 44.41 14.56 4.62 1.16 12.07 1.34 22.35.53l14.01-1.59c-11.28-4.96-23.77-3.92-33.76-6.25Z" fill="#118fbf"/>
+<path d="M1126.8 168.68c-1.02 2.42-1.32 7.62-.9 15.6.42 8.42.41 13.46-.03 15.12-.91 4.84-.95 8.82 0 13.37l9 4.24c7.87.82 15.52.82 22.96.82 1.62-1.46 2.31-2.81 2.06-4.02-1.24-3.96-3.19-6.46-7.57-7.6-3.07-1.77-4.95-4.02-5.64-6.78-1.61-6.33-2.77-12.76-3.5-19.25-1.08-9.59-.43-15.17 1.93-16.76 4.57-3.35 5.16-8.03 5.56-12.74-5.73-1.77-11.44-3.62-17.13-5.53-4.18 4.56-8.42 9.29-12.79 13.24 1.7 3.15 6.04 6.56 6.04 10.3Z" fill="#ff8f04"/>
+<path d="M1344.9 106.09c-2.84.26-3.8.37-5.8.16-1.2.95-2.93.86-4.13.58-1.71-.42-2.34-1.22-3.18-2.46l-14.91-2.97c-10.11-2.17-15.61-3.8-16.5-4.87-1.26-3.09-8.01-9.13-9.09-4.41-2.34 2.39-25.42-5.51-36.75-9.44-14.66-7.59-30.7-5.32-42.92 1.32-15.42 7.27-34.03 4.48-48.51 5.06-21.57.02-29.29 13.28-33.28 29.26-3.28 9.64-8.4 18.7-15.36 27.2-10.29 12.57-25.09 24.86-44.4 36.88-3.12 1.99-6.21 4.51-8.1 7.36-6.66 8.77-6 16.38 1.8 28.17 2.69.11 5.45-.39 5.69-3.31l-3.05-4.9c.37-.56 1.4-5.91.8-7.68-.96-2.44 10.4-13.19 15.89-17.95 11.4-9.87 20.11-15.95 26.14-18.24 10.14-4.56 17.16-12.65 24.31-20.71 0 0 12.38-16.46 27.02-27.9 16.29-12.73 30.75-8.23 54.09-18.48 10.79-4.51 21.18-9.31 31.58-8.01 17.5 3.76 18.79 12.28 43.43 16.79 15.96 3.19 32.15 3.97 44.98 14.27 3.41 2.9 7.04 5.07 10.91 6.54 1.75.59 3.2 1 4.79 1.3 2.16-1.13 3.49-2.2 4.61-4.32 2.66-.45 3.11-2.04 4.05-4.24-4.71-5-9.41-10.01-14.11-15.01Z" fill="#a91600"/>
+<path d="M1332.6 105.4c.69.74 1.49 1.22 2.41 1.43 1.16.28 2.2.27 3.12-.05l1.01-.53c-.43-.76-.99-1.44-1.64-2.01-2.38-1.82-3.61-1.67-5.66.13l.77 1.03Z" fill="#fff"/>
+</svg>
+<div>STAY COOL</div>
+</div>
+</div>
+<noscript>
+<section class=noscript>
+<header class=noscript-header>
+<h1 class=noscript-title>JavaScript required<sup class=noscript-asterisk>*</sup></h1>
+</header>
+<h2>Please enable JavaScript technologies.</h2>
+</section>
+</noscript>
+<div id=root>.</div>
+<div id=root-action-sheet></div>
+<script type="text/javascript" src="/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=4&cb=1514091940" async></script></body>
+<link rel=preload href="/s/features/v1/flags/FRONT_OFFICE" as=fetch type="application/json" crossorigin=anonymous fetchpriority=low />
+<link rel=preload href="/s/ip/details" as=fetch type="application/json" crossorigin=anonymous fetchpriority=low />
+</html>

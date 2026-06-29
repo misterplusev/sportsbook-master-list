@@ -1,0 +1,660 @@
+[
+  {
+    "status": "saved",
+    "method": "link-icon",
+    "source": "https://20bet.com/assets/favicon.ico",
+    "size": 9320,
+    "name": "20bet",
+    "domain": "20bet.com"
+  },
+  {
+    "status": "failed",
+    "name": "22bet",
+    "domain": "22bet.com"
+  },
+  {
+    "status": "failed",
+    "name": "4Cx",
+    "domain": "4cx.com"
+  },
+  {
+    "status": "saved",
+    "method": "link-icon",
+    "source": "https://888sport.com/content/dam/holdings888/888sport/common/favicons/888sport-favicon-512x512-1637913605186_tcm1755-538613.png",
+    "size": 11525,
+    "name": "888sport",
+    "domain": "888sport.com"
+  },
+  {
+    "status": "failed",
+    "name": "bet105",
+    "domain": "bet105.io"
+  },
+  {
+    "status": "failed",
+    "name": "BET99",
+    "domain": "bet99.ca"
+  },
+  {
+    "status": "failed",
+    "name": "Betcris",
+    "domain": "betcris.com"
+  },
+  {
+    "status": "failed",
+    "name": "BetDeluxe",
+    "domain": "betdeluxe.com"
+  },
+  {
+    "status": "failed",
+    "name": "Betfair",
+    "domain": "betfair.com"
+  },
+  {
+    "status": "failed",
+    "name": "Betfair Exchange",
+    "domain": "betfair.com"
+  },
+  {
+    "status": "failed",
+    "name": "Betfair Exchange (Australia)",
+    "domain": "betfair.com"
+  },
+  {
+    "status": "failed",
+    "name": "Betfair Exchange (Australia) (Lay)",
+    "domain": "betfair.com"
+  },
+  {
+    "status": "failed",
+    "name": "Betfair Exchange (Lay)",
+    "domain": "betfair.com"
+  },
+  {
+    "status": "failed",
+    "name": "BetGRW",
+    "domain": "betgrw.com"
+  },
+  {
+    "status": "failed",
+    "name": "BetMania",
+    "domain": "betmania.com"
+  },
+  {
+    "status": "saved",
+    "method": "og:image",
+    "source": "https://assets.bet6.com.br/sistemans/skins/betnacional/logo/logo_preview.png",
+    "size": 665729,
+    "name": "Betnacional",
+    "domain": "betnacional.com"
+  },
+  {
+    "status": "failed",
+    "name": "BetNation",
+    "domain": "betnation.com"
+  },
+  {
+    "status": "failed",
+    "name": "BetNation (Australia)",
+    "domain": "betnation.com.au"
+  },
+  {
+    "status": "saved",
+    "method": "json-ld-url",
+    "source": "https://client-assets.rushstreetcontent.com/cms/bonuses/cc0821bd061c26371b01d537b7e58a3ca4edfa16.webp",
+    "size": 16086,
+    "name": "BetRivers",
+    "domain": "betrivers.com"
+  },
+  {
+    "status": "saved",
+    "method": "json-ld-url",
+    "source": "https://client-assets.rushstreetcontent.com/cms/bonuses/cc0821bd061c26371b01d537b7e58a3ca4edfa16.webp",
+    "size": 16086,
+    "name": "BetRivers (New York)",
+    "domain": "betrivers.com"
+  },
+  {
+    "status": "failed",
+    "name": "BetVictor",
+    "domain": "betvictor.com"
+  },
+  {
+    "status": "failed",
+    "name": "betwhale",
+    "domain": "betwhale.com"
+  },
+  {
+    "status": "failed",
+    "name": "Boomers",
+    "domain": "boomers.bet"
+  },
+  {
+    "status": "saved",
+    "method": "link-icon",
+    "source": "https://cdn.prod.website-files.com/6487726e26324eb9118311fb/64d565c51ce7e197f62f42c7_boom-favicon.png",
+    "size": 642,
+    "name": "Boom Fantasy (5 Pick Insured)",
+    "domain": "boomfantasy.com"
+  },
+  {
+    "status": "saved",
+    "method": "link-icon",
+    "source": "https://bovada.lv/content/favicons/favicon.ico",
+    "size": 1150,
+    "name": "Bovada",
+    "domain": "bovada.lv"
+  },
+  {
+    "status": "failed",
+    "name": "Boyle Sports",
+    "domain": "boylesports.com"
+  },
+  {
+    "status": "failed",
+    "name": "Bracco",
+    "domain": "bracco.bet"
+  },
+  {
+    "status": "saved",
+    "method": "json-ld-url",
+    "source": "https://scmedia.itsfogo.com/$-$/e7f5a10b14af46aa8758533a8f149c16.jpg",
+    "size": 6066,
+    "name": "bwin",
+    "domain": "bwin.com"
+  },
+  {
+    "status": "saved",
+    "method": "link-icon",
+    "source": "https://caesars.com/content/dam/favicons/caesars/caesars_gold/favicon.ico",
+    "size": 15406,
+    "name": "Caesars",
+    "domain": "caesars.com"
+  },
+  {
+    "status": "failed",
+    "name": "CampoBet",
+    "domain": "campobet.com"
+  },
+  {
+    "status": "failed",
+    "name": "Casumo",
+    "domain": "casumo.com"
+  },
+  {
+    "status": "saved",
+    "method": "og:image",
+    "source": "https://www.circasports.com/wp-content/uploads/2020/06/circa-sports-sports-betting-the-way-it-should-be-1024x512-2.png",
+    "size": 660600,
+    "name": "Circa Sports",
+    "domain": "circasports.com"
+  },
+  {
+    "status": "saved",
+    "method": "og:image",
+    "source": "https://www.circalasvegas.com/wp-content/uploads/2020/10/circa-logo@2x.png",
+    "size": 597383,
+    "name": "Circa Vegas",
+    "domain": "circavegas.com"
+  },
+  {
+    "status": "failed",
+    "name": "Codere",
+    "domain": "codere.com"
+  },
+  {
+    "status": "failed",
+    "name": "Coolbet",
+    "domain": "coolbet.com"
+  },
+  {
+    "status": "failed",
+    "name": "Coral",
+    "domain": "coral.co.uk"
+  },
+  {
+    "status": "failed",
+    "name": "Courtside",
+    "domain": "courtside.com"
+  },
+  {
+    "status": "saved",
+    "method": "link-icon",
+    "source": "https://www.crabsports.com/assets/apple-touch-icon.png",
+    "size": 3746,
+    "name": "Crab Sports",
+    "domain": "crabsports.com"
+  },
+  {
+    "status": "failed",
+    "name": "Danske Spil",
+    "domain": "dansk-spil.dk"
+  },
+  {
+    "status": "failed",
+    "name": "Desert Diamond",
+    "domain": "desertdiamondcasino.com"
+  },
+  {
+    "status": "failed",
+    "name": "Dogg House",
+    "domain": "dogghouse.com"
+  },
+  {
+    "status": "failed",
+    "name": "Elite Bet",
+    "domain": "elite-bet.com"
+  },
+  {
+    "status": "saved",
+    "method": "og:image",
+    "source": "https://static.wixstatic.com/media/2419bb_590681a8c34e4e49be3a52e6d41fb0d7%7Emv2.png/v1/fit/w_2500,h_1330,al_c/2419bb_590681a8c34e4e49be3a52e6d41fb0d7%7Emv2.png",
+    "size": 393568,
+    "name": "FireKeepers",
+    "domain": "firekeepers.com"
+  },
+  {
+    "status": "failed",
+    "name": "Fonbet",
+    "domain": "fonbet.com"
+  },
+  {
+    "status": "failed",
+    "name": "Four Winds",
+    "domain": "fourwinds.com"
+  },
+  {
+    "status": "failed",
+    "name": "Galera.bet",
+    "domain": "galera.bet"
+  },
+  {
+    "status": "failed",
+    "name": "GGBet",
+    "domain": "ggbet.com"
+  },
+  {
+    "status": "failed",
+    "name": "Goldbet",
+    "domain": "goldbet.it"
+  },
+  {
+    "status": "saved",
+    "method": "link-icon",
+    "source": "https://granawin.com/assets/favicon.ico",
+    "size": 107122,
+    "name": "Granawin",
+    "domain": "granawin.com"
+  },
+  {
+    "status": "failed",
+    "name": "Heritage",
+    "domain": "heritage.com"
+  },
+  {
+    "status": "failed",
+    "name": "HotStreak",
+    "domain": "hotstreak.com"
+  },
+  {
+    "status": "failed",
+    "name": "Jazz Sports",
+    "domain": "jazzsports.com"
+  },
+  {
+    "status": "failed",
+    "name": "Jugabet (Argentina)",
+    "domain": "jugabet.com"
+  },
+  {
+    "status": "failed",
+    "name": "Jugabet (Chile)",
+    "domain": "jugabet.com"
+  },
+  {
+    "status": "failed",
+    "name": "JustBet",
+    "domain": "justbet.com"
+  },
+  {
+    "status": "failed",
+    "name": "Ladbrokes",
+    "domain": "ladbrokes.com"
+  },
+  {
+    "status": "failed",
+    "name": "Ladbrokes (Australia)",
+    "domain": "ladbrokes.com.au"
+  },
+  {
+    "status": "saved",
+    "method": "link-icon",
+    "source": "https://cdn.leovegas.com/frontend/7.4.23/public/static/img/favicon.png",
+    "size": 259255,
+    "name": "LeoVegas",
+    "domain": "leovegas.com"
+  },
+  {
+    "status": "saved",
+    "method": "og:image",
+    "source": "https://lottoland.com/en/skins/lottoland/images/logo/lottoland-logo-1200x630-d5a4ef15fdd79a21.png",
+    "size": 45857,
+    "name": "Lottoland",
+    "domain": "lottoland.com"
+  },
+  {
+    "status": "failed",
+    "name": "Lucky Casino",
+    "domain": "luckycasino.com"
+  },
+  {
+    "status": "failed",
+    "name": "Melbet",
+    "domain": "melbet.com"
+  },
+  {
+    "status": "failed",
+    "name": "Mise-o-jeu",
+    "domain": "miseojeu.com"
+  },
+  {
+    "status": "failed",
+    "name": "Neds",
+    "domain": "neds.com.au"
+  },
+  {
+    "status": "failed",
+    "name": "Ninja Casino",
+    "domain": "ninjacasino.com"
+  },
+  {
+    "status": "failed",
+    "name": "NorthStar Bets",
+    "domain": "northstarbets.com"
+  },
+  {
+    "status": "failed",
+    "name": "Oddin",
+    "domain": "oddin.com"
+  },
+  {
+    "status": "saved",
+    "method": "og:image",
+    "source": "https://cdn.prod.website-files.com/69ff17734f8534eae93a17e7/69ff5728f2eb03b306747d38_open-graph-onyx-asset.png",
+    "size": 10899,
+    "name": "Onyx Odds",
+    "domain": "onyxodds.com"
+  },
+  {
+    "status": "failed",
+    "name": "Opinion Labs",
+    "domain": "opinionlabs.com"
+  },
+  {
+    "status": "saved",
+    "method": "og:image",
+    "source": "https://cdn.prod.website-files.com/674718f0e42948817c7d592b/67b92010d0520098917db862_OpticOdds%20Opengraph.png",
+    "size": 295163,
+    "name": "OpticOdds AI",
+    "domain": "opticodds.com"
+  },
+  {
+    "status": "saved",
+    "method": "og:image",
+    "source": "https://cdn.prod.website-files.com/674718f0e42948817c7d592b/67b92010d0520098917db862_OpticOdds%20Opengraph.png",
+    "size": 295163,
+    "name": "OpticOdds AI DFS",
+    "domain": "opticodds.com"
+  },
+  {
+    "status": "failed",
+    "name": "Overtime",
+    "domain": "overtime.com"
+  },
+  {
+    "status": "saved",
+    "method": "og:image",
+    "source": "https://static.wixstatic.com/media/ee6c9c_3a253bfa3a034f508acb83493886b849~mv2.png/v1/fill/w_2481,h_833,al_c/ee6c9c_3a253bfa3a034f508acb83493886b849~mv2.png",
+    "size": 440750,
+    "name": "OwnersBox",
+    "domain": "ownersbox.com"
+  },
+  {
+    "status": "saved",
+    "method": "og:image",
+    "source": "https://static.wixstatic.com/media/ee6c9c_3a253bfa3a034f508acb83493886b849~mv2.png/v1/fill/w_2481,h_833,al_c/ee6c9c_3a253bfa3a034f508acb83493886b849~mv2.png",
+    "size": 440750,
+    "name": "OwnersBox (6 Pick Insured)",
+    "domain": "ownersbox.com"
+  },
+  {
+    "status": "saved",
+    "method": "link-icon",
+    "source": "https://www.ozoon.com/wp-content/uploads/sites/53/2026/01/64x64_Social-icon_1.png",
+    "size": 2980,
+    "name": "Ozoon",
+    "domain": "ozoon.com"
+  },
+  {
+    "status": "failed",
+    "name": "Parimatch (Brazil)",
+    "domain": "parimatch.com"
+  },
+  {
+    "status": "failed",
+    "name": "Parimatch (India)",
+    "domain": "parimatch.com"
+  },
+  {
+    "status": "failed",
+    "name": "ParlayPlay",
+    "domain": "parlayplay.com"
+  },
+  {
+    "status": "saved",
+    "method": "json-ld-url",
+    "source": "https://scmedia.partypoker.com/$-$/abc40f4b840c4b78ba39c93d124daa0d.png",
+    "size": 1169,
+    "name": "partypoker",
+    "domain": "partypoker.com"
+  },
+  {
+    "status": "failed",
+    "name": "Play Alberta",
+    "domain": "playalberta.com"
+  },
+  {
+    "status": "failed",
+    "name": "Playdoit",
+    "domain": "playdoit.com"
+  },
+  {
+    "status": "saved",
+    "method": "link-icon",
+    "source": "https://playeagle.com/soaringEagle/default/images/favicons/apple-touch-icon.png?v=2",
+    "size": 17104,
+    "name": "Play Eagle",
+    "domain": "playeagle.com"
+  },
+  {
+    "status": "failed",
+    "name": "PointsBet (Australia)",
+    "domain": "pointsbet.com"
+  },
+  {
+    "status": "failed",
+    "name": "PointsBet (Ontario)",
+    "domain": "pointsbet.com"
+  },
+  {
+    "status": "saved",
+    "method": "og:image",
+    "source": "https://polymarket.com/images/homepage-twitter-card.png",
+    "size": 272895,
+    "name": "Polymarket",
+    "domain": "polymarket.com"
+  },
+  {
+    "status": "saved",
+    "method": "og:image",
+    "source": "https://polymarket.com/images/homepage-twitter-card.png",
+    "size": 272895,
+    "name": "Polymarket (USA)",
+    "domain": "polymarket.com"
+  },
+  {
+    "status": "saved",
+    "method": "og:image",
+    "source": "https://www.primesportsbook.com/og/standard/home.png",
+    "size": 518683,
+    "name": "Prime Sports",
+    "domain": "primesports.com"
+  },
+  {
+    "status": "failed",
+    "name": "Proline",
+    "domain": "proline.ca"
+  },
+  {
+    "status": "failed",
+    "name": "Props Builder",
+    "domain": "propsbuilder.com"
+  },
+  {
+    "status": "failed",
+    "name": "PS3838",
+    "domain": "ps3838.com"
+  },
+  {
+    "status": "failed",
+    "name": "Rebet",
+    "domain": "rebet.com"
+  },
+  {
+    "status": "failed",
+    "name": "Rebet Props City",
+    "domain": "rebet.com"
+  },
+  {
+    "status": "saved",
+    "method": "link-icon",
+    "source": "https://rivalry.com/favicon-96x96.png",
+    "size": 1774,
+    "name": "Rivalry",
+    "domain": "rivalry.com"
+  },
+  {
+    "status": "failed",
+    "name": "Rizk",
+    "domain": "rizk.com"
+  },
+  {
+    "status": "failed",
+    "name": "RushBet",
+    "domain": "rushbet.com"
+  },
+  {
+    "status": "saved",
+    "method": "link-icon",
+    "source": "https://cdn-cms.spinbet.com/Logo/logo-favicon.png",
+    "size": 693,
+    "name": "SpinBet",
+    "domain": "spinbet.com"
+  },
+  {
+    "status": "failed",
+    "name": "Sportingbet",
+    "domain": "sportingbet.com"
+  },
+  {
+    "status": "failed",
+    "name": "SugarHouse",
+    "domain": "sugarhouse.com"
+  },
+  {
+    "status": "failed",
+    "name": "Superbet",
+    "domain": "superbet.com"
+  },
+  {
+    "status": "failed",
+    "name": "SurgeBet",
+    "domain": "surgebet.com"
+  },
+  {
+    "status": "failed",
+    "name": "TAB",
+    "domain": "tab.co.nz"
+  },
+  {
+    "status": "failed",
+    "name": "TAB (New Zealand)",
+    "domain": "tab.co.nz"
+  },
+  {
+    "status": "failed",
+    "name": "ThriveFantasy",
+    "domain": "thrivefantasy.com"
+  },
+  {
+    "status": "failed",
+    "name": "Tipsport",
+    "domain": "tipsport.com"
+  },
+  {
+    "status": "saved",
+    "method": "link-icon",
+    "source": "https://www.unibet.com/kwp-bundle-store/kwp-assets/0.7.0/assets/unibet/favicon.png",
+    "size": 596,
+    "name": "Unibet",
+    "domain": "unibet.com"
+  },
+  {
+    "status": "saved",
+    "method": "link-icon",
+    "source": "https://www.unibet.com/kwp-bundle-store/kwp-assets/0.7.0/assets/unibet/favicon.png",
+    "size": 596,
+    "name": "Unibet (Australia)",
+    "domain": "unibet.com"
+  },
+  {
+    "status": "saved",
+    "method": "link-icon",
+    "source": "https://www.unibet.com/kwp-bundle-store/kwp-assets/0.7.0/assets/unibet/favicon.png",
+    "size": 596,
+    "name": "Unibet (Denmark)",
+    "domain": "unibet.com"
+  },
+  {
+    "status": "saved",
+    "method": "link-icon",
+    "source": "https://www.unibet.com/kwp-bundle-store/kwp-assets/0.7.0/assets/unibet/favicon.png",
+    "size": 596,
+    "name": "Unibet (Sweden)",
+    "domain": "unibet.com"
+  },
+  {
+    "status": "saved",
+    "method": "link-icon",
+    "source": "https://www.unibet.com/kwp-bundle-store/kwp-assets/0.7.0/assets/unibet/favicon.png",
+    "size": 596,
+    "name": "Unibet (United Kingdom)",
+    "domain": "unibet.com"
+  },
+  {
+    "status": "saved",
+    "method": "og:image",
+    "source": "https://www.veikkaus.fi/web/web/release/img/og/veikkaus-2017.png",
+    "size": 17485,
+    "name": "Veikkaus",
+    "domain": "veikkaus.fi"
+  },
+  {
+    "status": "saved",
+    "method": "og:image",
+    "source": "https://static.ffresx.xyz/youwager/images/logo_inverse.png",
+    "size": 19808,
+    "name": "YouWager",
+    "domain": "youwager.com"
+  }
+]
