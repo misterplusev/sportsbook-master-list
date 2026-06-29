@@ -1303,9 +1303,9 @@
     "name": "NorthStar Bets",
     "domain": "northstarbets.com",
     "status": "verified",
-    "size": 23156,
+    "size": 5738,
     "content_type": "image/png",
-    "sha256": "79c5a62bfe4a78ed9866c882749472f31d30a1d9f9f54f4e674a98eaeee98ba8",
+    "sha256": "3ee6bf17e7be7269a11f32c10066b1623f9686a4cb7ec1f7c9c00a6a1b01902d",
     "source_url": "logos/northstarbets_com.png",
     "file": "northstarbets_com.png"
   },
@@ -1813,11 +1813,11 @@
     "name": "Stake",
     "domain": "stake.com",
     "status": "verified",
-    "size": 15086,
-    "content_type": "image/x-icon",
-    "sha256": "da986883021c6598e8f3c6be4102e262421763fea70928f48635de07e71cd747",
-    "source_url": "logos/stake_com.ico",
-    "file": "stake_com.ico"
+    "size": 4707,
+    "content_type": "image/svg+xml",
+    "sha256": "7d61dde2c0ec24a975bc378a25de39b9333981ff904e6d628a9bc3b4a6c84ede",
+    "source_url": "logos/stake_com.svg",
+    "file": "stake_com.svg"
   },
   "STN Sports": {
     "name": "STN Sports",
@@ -1931,13 +1931,13 @@
   },
   "theScore": {
     "name": "theScore",
-    "domain": "thescore.com",
+    "domain": "thescore.bet",
     "status": "verified",
     "size": 1421,
     "content_type": "image/svg+xml",
     "sha256": "bcbbabb5528c5ea614328d61c4c44bad19063c27f4881fc94664d9094c1d03e2",
-    "source_url": "logos/thescore_com.bin",
-    "file": "thescore_com.bin"
+    "source_url": "logos/thescore_bet_com.svg",
+    "file": "thescore_bet_com.svg"
   },
   "Thrillzz": {
     "name": "Thrillzz",
