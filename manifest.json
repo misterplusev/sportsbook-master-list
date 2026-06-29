@@ -601,13 +601,13 @@
   },
   "Borgata": {
     "name": "Borgata",
-    "domain": "borgata.com",
-    "status": "verified",
-    "size": 1150,
-    "content_type": "image/x-icon",
-    "sha256": "22ab27ff03e7132172c579190ee272492e7ef935d76af8b2a31bba325a08bfac",
-    "source_url": "logos/borgata_com.ico",
-    "file": "borgata_com.ico"
+    "domain": "borgataonline.com",
+    "status": "missing",
+    "size": 0,
+    "content_type": "",
+    "sha256": "",
+    "source_url": "",
+    "file": ""
   },
   "Bovada": {
     "name": "Bovada",
@@ -763,11 +763,11 @@
     "name": "crypto.com",
     "domain": "crypto.com",
     "status": "verified",
-    "size": 729902,
-    "content_type": "image/png",
-    "sha256": "dc1f1cef69c8950ce85bdafff258d02fb8ece0fc4535c89f28bd82c466a57dc4",
-    "source_url": "logos/crypto_com.bin",
-    "file": "crypto_com.bin"
+    "size": 1275,
+    "content_type": "image/svg+xml",
+    "sha256": "562f8a7f8d725b4051ffb859f3fb0c1dacf2b889a53187026fc3a088f75a0608",
+    "source_url": "logos/crypto_com.svg",
+    "file": "crypto_com.svg"
   },
   "Dabble (3 or 5 Pick)": {
     "name": "Dabble (3 or 5 Pick)",
