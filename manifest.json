@@ -2232,9 +2232,10 @@
     "file": ""
   },
   "Action 24/7": {
-    "name": "Action 24/7",
-    "domain": "action247.com",
-    "status": "verified",
+      "name": "Action 24/7",
+      "domain": "action247.com",
+      "status": "defunct",
+      "defunct_note": "No longer accepting wagers. Shut down 2025, funds remitted to TN Treasury.",
     "size": 998,
     "content_type": "image/png",
     "sha256": "ea86aa7357cbd9c23c336645f1f24c84288a548629f37917b1d1eb757b40bc3b",

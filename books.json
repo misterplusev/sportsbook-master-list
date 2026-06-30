@@ -895,7 +895,9 @@
   },
   {
     "name": "Action 24/7",
-    "url": "https://www.action247.com"
+    "url": "https://www.action247.com",
+    "defunct": true,
+    "defunct_note": "No longer accepting wagers. Shut down 2025, funds remitted to TN Treasury."
   },
   {
     "name": "Q Sportsbook",
