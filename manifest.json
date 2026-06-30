@@ -303,9 +303,9 @@
     "name": "BetMGM",
     "domain": "betmgm.com",
     "status": "verified",
-    "size": 5591,
+    "size": 5451,
     "content_type": "image/svg+xml",
-    "sha256": "144d641863ec500ecb63e1a90f84bd48c8266ce84846af7812e88a3120839b41",
+    "sha256": "44eb9d8473c503177a8770d9baaf240bc622a40b507a600552c1b269a0da94bd",
     "source_url": "logos/betmgm_com.svg",
     "file": "betmgm_com.svg"
   },
@@ -526,8 +526,8 @@
     "size": 9158,
     "content_type": "image/jpeg",
     "sha256": "1e45755f36e39152317336254ce48f4a0cfcfa3ee52e3fcfe7c82795e2633feb",
-    "source_url": "logos/betvictor_com.jpg",
-    "file": "betvictor_com.jpg"
+    "source_url": "logos/betvictor_com",
+    "file": "betvictor_com"
   },
   "Betway": {
     "name": "Betway",
@@ -582,12 +582,12 @@
   "Boomers": {
     "name": "Boomers",
     "domain": "boomers.bet",
-    "status": "missing",
-    "size": 0,
-    "content_type": "",
-    "sha256": "",
-    "source_url": "",
-    "file": ""
+    "status": "verified",
+    "size": 2060,
+    "content_type": "image/svg+xml",
+    "sha256": "b9b1c4a077ee1cbb66b7869107b8def05f3f5b25be73ae78e636478130cf7b30",
+    "source_url": "logos/boomers_bet.svg",
+    "file": "boomers_bet.svg"
   },
   "Boom Fantasy (5 Pick Insured)": {
     "name": "Boom Fantasy (5 Pick Insured)",
@@ -732,12 +732,12 @@
   "Coral": {
     "name": "Coral",
     "domain": "coral.co.uk",
-    "status": "missing",
-    "size": 0,
-    "content_type": "",
-    "sha256": "",
-    "source_url": "",
-    "file": ""
+    "status": "verified",
+    "size": 22821,
+    "content_type": "image/svg+xml",
+    "sha256": "08458e65d3de72a1a383815b1790c53b06409e069cca67bbc2e17f570a4295f3",
+    "source_url": "logos/coral_co_uk.svg",
+    "file": "coral_co_uk.svg"
   },
   "Courtside": {
     "name": "Courtside",
@@ -943,9 +943,9 @@
     "name": "Eurobet",
     "domain": "eurobet.it",
     "status": "verified",
-    "size": 56632,
+    "size": 3976,
     "content_type": "image/svg+xml",
-    "sha256": "bc301e00713ea095a9093fb23ec2930b3606db61de6a9c050b5a4113b6eede1e",
+    "sha256": "d31b77778adef73a826f587811d7730c72ac6359952f5080ce30ac87278a7441",
     "source_url": "logos/eurobet_it.svg",
     "file": "eurobet_it.svg"
   },
@@ -1372,12 +1372,12 @@
   "Overtime": {
     "name": "Overtime",
     "domain": "overtime.com",
-    "status": "missing",
-    "size": 0,
-    "content_type": "",
-    "sha256": "",
-    "source_url": "",
-    "file": ""
+    "status": "verified",
+    "size": 5086,
+    "content_type": "image/png",
+    "sha256": "8f817fc27ed6e887c7ad5040bd0d4fee938a22a82dc8c0f4b9c5a9aa93fbcbda",
+    "source_url": "logos/overtime_com.png",
+    "file": "overtime_com.png"
   },
   "OwnersBox": {
     "name": "OwnersBox",
@@ -1752,12 +1752,12 @@
   "Sportingbet": {
     "name": "Sportingbet",
     "domain": "sportingbet.com",
-    "status": "missing",
-    "size": 0,
-    "content_type": "",
-    "sha256": "",
-    "source_url": "",
-    "file": ""
+    "status": "verified",
+    "size": 10141,
+    "content_type": "image/svg+xml",
+    "sha256": "1084eab6c653fb35949ee0079c485f66c7a2c3769b6452c9b9422ad5df86260c",
+    "source_url": "logos/sportingbet_com.svg",
+    "file": "sportingbet_com.svg"
   },
   "Sportsbet": {
     "name": "Sportsbet",
@@ -2318,5 +2318,65 @@
     "sha256": "",
     "source_url": "",
     "file": ""
+  },
+  "Ladbrokes Australia": {
+    "name": "Ladbrokes Australia",
+    "domain": "ladbrokes.com.au",
+    "status": "missing",
+    "size": 0,
+    "content_type": "",
+    "sha256": "",
+    "source_url": "",
+    "file": ""
+  },
+  "SuperSport": {
+    "name": "SuperSport",
+    "domain": "supersport.com",
+    "status": "verified",
+    "size": 5426,
+    "content_type": "image/svg+xml",
+    "sha256": "b2ec9c70bda8d59205d2fec5b783c98a78d703fe734af2caef11eda72a003890",
+    "source_url": "logos/supersport_hr.svg",
+    "file": "supersport_hr.svg"
+  },
+  "STS": {
+    "name": "STS",
+    "domain": "sts.pl",
+    "status": "verified",
+    "size": 11860,
+    "content_type": "image/svg+xml",
+    "sha256": "29ae8cb04624273df3b12f5b19dcc354ff33cdbf9702463ed39758817524ac81",
+    "source_url": "logos/sts_pl.svg",
+    "file": "sts_pl.svg"
+  },
+  "BetCity": {
+    "name": "BetCity",
+    "domain": "betcity.nl",
+    "status": "verified",
+    "size": 4104,
+    "content_type": "image/svg+xml",
+    "sha256": "fdfdeb54caa2afff9b41a96cbf2ad932e9ab426abccdb7cb110bbb987c830f33",
+    "source_url": "logos/betcity_nl.svg",
+    "file": "betcity_nl.svg"
+  },
+  "Crystalbet": {
+    "name": "Crystalbet",
+    "domain": "crystalbet.gr",
+    "status": "verified",
+    "size": 5811,
+    "content_type": "image/svg+xml",
+    "sha256": "b49a642998633f4bdb0894c9c812187d09c21d7a4cfb800181a5929b5e131d05",
+    "source_url": "logos/crystalbet_gr.svg",
+    "file": "crystalbet_gr.svg"
+  },
+  "betcha": {
+    "name": "betcha",
+    "domain": "betcha.com",
+    "status": "verified",
+    "size": 14984,
+    "content_type": "image/svg+xml",
+    "sha256": "58e9d360763152d121a9fb3d6095d62a6e1e90b685c4e9c91f4d78787d69a53a",
+    "source_url": "logos/betcha_com.svg",
+    "file": "betcha_com.svg"
   }
 }
