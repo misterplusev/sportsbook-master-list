@@ -3,7 +3,7 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Sportsbook Master List — Logo Proof + State Filter</title>
+<title>Sportsbook Master List  Logo Proof + Filters</title>
 <style>
 :root{--ok:#1a7f37;--err:#cf222e;--warn:#9a6700;--bg:#f6f8fa;--card:#fff;--accent:#0969da}
 *{box-sizing:border-box;margin:0;padding:0}
@@ -17,7 +17,6 @@ h1{font-size:1.6rem;margin-bottom:4px}
 .stat .label{font-size:.75rem;color:#656d76;text-transform:uppercase;letter-spacing:.5px}
 .stat.ok .num{color:var(--ok)}
 .stat.err .num{color:var(--err)}
-.stat.warn .num{color:var(--warn)}
 .controls{background:var(--card);border:1px solid #d0d7de;border-radius:12px;padding:14px;margin-bottom:16px;display:flex;gap:10px;flex-wrap:wrap;align-items:center}
 .controls input,.controls select,.controls button{padding:7px 10px;border:1px solid #d0d7de;border-radius:6px;font-size:.85rem}
 .controls input{flex:1;min-width:180px}
@@ -25,7 +24,7 @@ h1{font-size:1.6rem;margin-bottom:4px}
 .controls button:hover{background:#0860ca}
 .controls .toggle-btn{background:#f6f8fa!important;color:#1f2328!important;border-color:#d0d7de!important}
 .controls .toggle-btn.active{background:#ddf4ff!important;border-color:#54aeff!important;color:#0969da!important}
-.grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(280px,1fr));gap:10px}
+.grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(270px,1fr));gap:10px}
 .card{background:var(--card);border:1px solid #d0d7de;border-radius:10px;padding:12px;display:flex;align-items:center;gap:10px;text-decoration:none;color:inherit;transition:box-shadow .15s;position:relative}
 .card:hover{box-shadow:0 2px 8px rgba(0,0,0,.08);border-color:#54aeff}
 .card .num{position:absolute;top:4px;right:8px;font-size:.65rem;color:#8b949e;font-family:monospace}
@@ -33,7 +32,8 @@ h1{font-size:1.6rem;margin-bottom:4px}
 .card .info{flex:1;min-width:0}
 .card .name{font-size:.85rem;font-weight:600;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
 .card .domain{font-size:.7rem;color:#656d76;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
-.card .states{font-size:.62rem;color:#656d76;margin-top:1px;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+.card .states{font-size:.62rem;color:#656d76;margin-top:1px;white-space:nowrap;overflow:hidden;text-overflow:ellipsis;max-width:180px}
+.card .cats{font-size:.6rem;color:#8b949e;margin-top:1px;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
 .card .badge{font-size:.6rem;padding:2px 5px;border-radius:8px;font-weight:600;flex-shrink:0}
 .card .badge.svg{background:#ddf4ff;color:#0969da}
 .card .badge.png{background:#dafbe1;color:#1a7f37}
@@ -51,6 +51,10 @@ h1{font-size:1.6rem;margin-bottom:4px}
 footer{margin-top:32px;padding:16px;background:var(--card);border:1px solid #d0d7de;border-radius:12px;font-size:.8rem;color:#656d76;text-align:center}
 footer a{color:var(--accent)}
 .showing-count{font-size:.8rem;color:#656d76;margin-bottom:8px}
+.cat-panel{display:none;margin-bottom:12px;padding:12px;background:var(--card);border:1px solid #d0d7de;border-radius:12px}
+.cat-panel label{display:inline-flex;align-items:center;gap:3px;padding:4px 8px;margin:3px;background:#f6f8fa;border-radius:6px;font-size:.75rem;cursor:pointer}
+.cat-panel label:hover{background:#ddf4ff}
+.cat-panel.active{display:flex;flex-wrap:wrap;gap:4px}
 @media(max-width:600px){
   .grid{grid-template-columns:repeat(auto-fill,minmax(220px,1fr))}
   .card img{width:36px;height:36px}
@@ -62,38 +66,40 @@ footer a{color:var(--accent)}
 <body>
 
 <header>
-<h1>🏆 Sportsbook Master List — Logo Proof</h1>
-<p class="subtitle">Official-domain logos only. Magic-bytes verified. SHA256 hashed. Filter by US state. Source: OpticOdds sportsbooks reference (refreshed June 2026).</p>
+<h1>🏆 Sportsbook Master List — Logo Proof + State/Sport Filter</h1>
+<p class="subtitle">Official-domain logos only. Magic-bytes verified. SHA256 hashed. Filter by US state or sport category. Source: OpticOdds sportsbooks reference (refreshed June 2026).</p>
 <div class="stats" id="stats"></div>
 </header>
 
 <div class="controls">
-<input type="text" id placeholder="Search by name or domain...">
+<input type="text" id="searchInput" placeholder="Search by name or domain...">
 <select id="stateSelect">__STATE_OPTIONS__</select>
 <select id="filterSelect"><option value="all">All Books</option><option value="verified">✓ Has Logo</option><option value="missing">✗ Missing</option></select>
 <select id="formatSelect"><option value="all">All Formats</option><option value="svg">SVG</option><option value="png">PNG</option><option value="ico">ICO</option><option value="jpg">JPG</option><option value="webp">WebP</option></select>
 <button class="toggle-btn" id="shaToggle">Show SHA256</button>
+<button class="toggle-btn" id="catToggle">🏅 Categories</button>
+</div>
+
+<div id="categoryPanel" class="cat-panel">
+<div id="categoryCheckboxes"></div>
 </div>
 
 <div class="showing-count" id="showingCount"></div>
 <div class="grid" id="grid"></div>
 
 <footer>
-<p>Generated: <span id="genTime">—</span> | Total books: <span id="totalBooks">—</span> | Verified: <span id="totalVerified">—</span> | Coverage: <span id="coverage">—</span></p>
-<p>All logos sourced from official domains. No AI art, no placeholders. <a href="https://github.com/misterplusev/sportsbook-master-list" target="_blank">GitHub</a></p>
+<p><span id="genTime">—</span> · <span id="totalBooks">—</span> books · <span id="totalVerified">—</span> verified · <span id="coverage">—</span></p>
+<p><a href="https://github.com/misterplusev/sportsbook-master-list" target="_blank">GitHub</a></p>
 </footer>
 
 <script>
-const books = __BOOKS_JSON__;
-const manifest = __MANIFEST_JSON__;
-const stateNames = __STATE_NAMES__;
-const international = __INTERNATIONAL__;
+const books = __BOOKS__;
+const manifest = __MANIFEST__;
+const stateNames = __STATENAMES__;
+const allCategories = __CATS__;
+const categoryEmojis = __CATEEMOJIS__;
 
-function fmtBytes(b) {
-  if (b < 1024) return b + 'B';
-  if (b < 1048576) return (b/1024).toFixed(1) + 'KB';
-  return (b/1048576).toFixed(1) + 'MB';
-}
+function fmtBytes(b){if(b<1024)return b+'B';if(b<1048576)return(b/1024).toFixed(1)+'KB';return(b/1048576).toFixed(1)+'MB'}
 
 function init() {
   const grid = document.getElementById('grid');
@@ -106,25 +112,42 @@ function init() {
     const entry = manifest[b.name];
     const domain = b.url.replace(/^https?:\/\//,'').replace(/^www\./,'').split('/')[0];
     const states = b.states || [];
+    const cats = b.categories || [];
     const isIntl = b.is_international;
-    const tag = isIntl ? '� International' : (states.map(s => stateNames[s] || s).join(', ') || '—');
+    const stateTag = isIntl ? '🌎' : (states.map(s=>stateNames[s]||s).join(', ')||'—');
+    const catTags = cats.map(c=>(categoryEmojis[c]||c).split(' ')[0]).join(' ');
+    const tag = isIntl ? 'International' : (states.map(s=>stateNames[s]||s).join(', ')||'');
 
     if (entry && entry.status === 'verified' && entry.sha256) {
       verified++;
       const ct = entry.content_type || '';
-      const ext = ct.includes('svg') ? 'svg' : ct.includes('png') ? 'png' : ct.includes('jpeg') ? 'jpg' : ct.includes('webp') ? 'webp' : ct.includes('gif') ? 'gif' : ct.includes('icon') ? 'ico' : 'bin';
-      formats[ext] = (formats[ext] || 0) + 1;
-      cards.push({ num: i+1, name: b.name, url: b.url, domain, status: 'verified', entry, ext, states, isIntl, tag });
+      const ext = ct.includes('svg')?'svg':ct.includes('png')?'png':ct.includes('jpeg')?'jpg':ct.includes('webp')?'webp':ct.includes('gif')?'gif':ct.includes('icon')?'ico':'bin';
+      formats[ext] = (formats[ext]||0) + 1;
+      cards.push({num:i+1,name:b.name,url:b.url,domain,status:'verified',entry,ext,states,isIntl,cats,catTags,stateTag,tag});
     } else {
       missing++;
-      cards.push({ num: i+1, name: b.name, url: b.url, domain, status: 'missing', ext: 'missing', states, isIntl, tag });
+      cards.push({num:i+1,name:b.name,url:b.url,domain,status:'missing',ext:'missing',states,isIntl,cats,catTags,stateTag,tag});
     }
   }
 
-  cards.sort((a, b) => {
-    if (a.status !== b.status) return a.status === 'verified' ? -1 : 1;
-    return a.name.localeCompare(b.name);
+  cards.sort((a,b)=>{if(a.status!==b.status)return a.status==='verified'?-1:1;return a.name.localeCompare(b.name)});
+
+  // Category checkboxes
+  const allCats = new Set();
+  books.forEach(b=>(b.categories||[]).forEach(c=>allCats.add(c)));
+  const catBox = document.getElementById('categoryCheckboxes');
+  Array.from(allCats).sort().forEach(cat=>{
+    const lbl = document.createElement('label');
+    lbl.innerHTML = '<input type="checkbox" value="'+cat+'"> '+(categoryEmojis[cat]||cat);
+    catBox.appendChild(lbl);
   });
+
+  document.getElementById('catToggle').addEventListener('click',function(){
+    this.classList.toggle('active');
+    document.getElementById('categoryPanel').classList.toggle('active');
+  });
+
+  function getSelected(){return Array.from(document.querySelectorAll('#categoryCheckboxes input:checked')).map(c=>c.value)}
 
   function renderCards() {
     const search = document.getElementById('searchInput').value.toLowerCase();
@@ -132,65 +155,63 @@ function init() {
     const format = document.getElementById('formatSelect').value;
     const stateF = document.getElementById('stateSelect').value;
     const showSha = document.getElementById('shaToggle').classList.contains('active');
+    const selCats = getSelected();
     grid.innerHTML = '';
     let shown = 0;
-
     for (const c of cards) {
       if (search && !c.name.toLowerCase().includes(search) && !c.domain.toLowerCase().includes(search)) continue;
-      if (filter === 'verified' && c.status !== 'verified') continue;
-      if (filter === 'missing' && c.status !== 'missing') continue;
-      if (format !== 'all' && c.ext !== format) continue;
-      if (stateF !== 'all') {
-        if (stateF === 'international') { if (!c.isIntl) continue; }
-        else { if (!c.states.includes(stateF) && !c.isIntl) continue; }
+      if (filter==='verified' && c.status!=='verified') continue;
+      if (filter==='missing' && c.status!=='missing') continue;
+      if (format!=='all' && c.ext!==format) continue;
+      if (stateF!=='all') {
+        if (stateF==='international'){if(!c.isIntl)continue}
+        else{if(!c.states.includes(stateF)&&!c.isIntl)continue}
       }
+      if (selCats.length>0 && !selCats.some(sc=>c.cats.includes(sc))) continue;
 
       const div = document.createElement('div');
-      div.className = 'card' + (c.status === 'missing' ? ' missing' : '');
+      div.className = 'card' + (c.status==='missing'?' missing':'');
       if (showSha) div.classList.add('sha');
-      let html = '<span class="num">' + c.num + '</span>';
-
-      if (c.status === 'verified') {
-        html += '<img src="' + c.entry.source_url + '" alt="" loading="lazy" onerror="this.style.display=\'none\'">';
-        html += '<div class="info"><div class="name" title="' + c.name + '">' + c.name + '</div>';
-        html += '<div class="domain">' + c.domain + ' · ' + fmtBytes(c.entry.size) + '</div>';
-        html += '<div class="states" title="' + c.tag + '">' + c.tag + '</div>';
-        html += '<div class="sha">' + c.entry.sha256.substring(0,16) + '…</div></div>';
-        html += '<span class="badge ' + c.ext + '">' + c.ext.toUpperCase() + '</span>';
-        html += '<a class="ext-link" href="' + c.url + '" target="_blank" rel="noopener">�</a>';
+      let h = '<span class="num">'+c.num+'</span>';
+      if (c.status==='verified') {
+        h += '<img src="'+c.entry.source_url+'" alt="" loading="lazy" onerror="this.style.display=\'none\'">';
+        h += '<div class="info"><div class="name" title="'+c.name+'">'+c.name+'</div>';
+        h += '<div class="domain">'+c.domain+' · '+fmtBytes(c.entry.size)+'</div>';
+        h += '<div class="states" title="'+c.stateTag+'">'+c.stateTag+'</div>';
+        if (c.catTags) h += '<div class="cats" title="'+c.catTags+'">'+c.catTags+'</div>';
+        h += '<div class="sha">'+c.entry.sha256.substring(0,16)+'…</div></div>';
+        h += '<span class="badge '+c.ext+'">'+c.ext.toUpperCase()+'</span>';
+        h += '<a class="ext-link" href="'+c.url+'" target="_blank" rel="noopener">�</a>';
       } else {
-        html += '<div class="info"><div class="name">' + c.name + '</div>';
-        html += '<div class="domain">' + c.domain + ' · no logo yet</div>';
-        html += '<div class="states">' + c.tag + '</div></div>';
-        html += '<span class="badge missing">MISSING</span>';
-        html += '<a class="ext-link" href="' + c.url + '" target="_blank" rel="noopener">↗</a>';
+        h += '<div class="info"><div class="name">'+c.name+'</div>';
+        h += '<div class="domain">'+c.domain+' · no logo yet</div>';
+        h += '<div class="states">'+c.stateTag+'</div>';
+        if (c.catTags) h += '<div class="cats">'+c.catTags+'</div>';
+        h += '</div>';
+        h += '<span class="badge missing">MISSING</span>';
+        h += '<a class="ext-link" href="'+c.url+'" target="_blank" rel="noopener">�</a>';
       }
-      div.innerHTML = html;
+      div.innerHTML = h;
       grid.appendChild(div);
       shown++;
     }
-    document.getElementById('showingCount').textContent = 'Showing ' + shown + ' of ' + cards.length + ' books';
+    document.getElementById('showingCount').textContent = 'Showing '+shown+' of '+cards.length+' books';
   }
 
-  document.getElementById('stats').innerHTML =
-    '<div class="stat ok"><span class="num">' + verified + '</span><span class="label">Verified</span></div>' +
-    '<div class="stat err"><span class="num">' + missing + '</span><span class="label">Missing</span></div>' +
-    '<div class="stat"><span class="num">' + cards.length + '</span><span class="label">Total Books</span></div>' +
-    '<div class="stat warn"><span class="num">' + (100*verified/cards.length).toFixed(1) + '%</span><span class="label">Coverage</span></div>';
-
-  document.getElementById('genTime').textContent = new Date().toISOString();
+  document.getElementById('stats').innerHTML = 
+    '<div class="stat ok"><span class="num">'+verified+'</span><span class="label">Verified</span></div>'+
+    '<div class="stat err"><span class="num">'+missing+'</span><span class="label">Missing</span></div>'+
+    '<div class="stat"><span class="num">'+cards.length+'</span><span class="label">Total Books</span></div>'+
+    '<div class="stat warn"><span class="num">'+(100*verified/cards.length).toFixed(1)+'%</span><span class="label">Coverage</span></div>';
+  document.getElementById('genTime').textContent = new Date().toISOString().split('T')[0];
   document.getElementById('totalBooks').textContent = cards.length;
   document.getElementById('totalVerified').textContent = verified;
-  document.getElementById('coverage').textContent = (100*verified/cards.length).toFixed(1) + '%';
+  document.getElementById('coverage').textContent = (100*verified/cards.length).toFixed(1)+'%';
 
-  ['searchInput','filterSelect','formatSelect','stateSelect'].forEach(id =>
-    document.getElementById(id).addEventListener('change', renderCards));
-  document.getElementById('searchInput').addEventListener('input', renderCards);
-  document.getElementById('shaToggle').addEventListener('click', function() {
-    this.classList.toggle('active');
-    this.textContent = this.classList.contains('active') ? 'Hide SHA256' : 'Show SHA256';
-    renderCards();
-  });
+  ['searchInput','filterSelect','formatSelect','stateSelect'].forEach(id=>document.getElementById(id).addEventListener('change',renderCards));
+  document.getElementById('searchInput').addEventListener('input',renderCards);
+  document.getElementById('shaToggle').addEventListener('click',function(){this.classList.toggle('active');this.textContent=this.classList.contains('active')?'Hide SHA256':'Show SHA256';renderCards()});
+  document.querySelectorAll('#categoryCheckboxes input').forEach(cb=>cb.addEventListener('change',renderCards));
 
   renderCards();
 }
