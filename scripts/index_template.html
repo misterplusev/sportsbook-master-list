@@ -53,8 +53,10 @@ footer a{color:var(--accent)}
 .showing-count{font-size:.8rem;color:#656d76;margin-bottom:8px}
 .cat-panel{display:none;margin-bottom:12px;padding:12px;background:var(--card);border:1px solid #d0d7de;border-radius:12px}
 .cat-panel label{display:inline-flex;align-items:center;gap:3px;padding:4px 8px;margin:3px;background:#f6f8fa;border-radius:6px;font-size:.75rem;cursor:pointer}
-.cat-panel label:hover{background:#ddf4ff}
+.cat-panel{display:none;margin-bottom:12px;padding:12px;background:var(--card);border:1px solid #d0d7de;border-radius:12px}
 .cat-panel.active{display:flex;flex-wrap:wrap;gap:4px}
+.cat-legend{display:flex;gap:6px;flex-wrap:wrap;margin-bottom:12px;padding:10px 14px;background:var(--card);border:1px solid #d0d7de;border-radius:12px;font-size:.75rem;color:#656d76}
+.cat-legend span{cursor:help;border-bottom:1px dotted #8b949e}
 @media(max-width:600px){
   .grid{grid-template-columns:repeat(auto-fill,minmax(220px,1fr))}
   .card img{width:36px;height:36px}
@@ -77,10 +79,11 @@ footer a{color:var(--accent)}
 <select id="filterSelect"><option value="all">All Books</option><option value="verified">✓ Has Logo</option><option value="missing">✗ Missing</option></select>
 <select id="formatSelect"><option value="all">All Formats</option><option value="svg">SVG</option><option value="png">PNG</option><option value="ico">ICO</option><option value="jpg">JPG</option><option value="webp">WebP</option></select>
 <button class="toggle-btn" id="shaToggle">Show SHA256</button>
-<button class="toggle-btn" id="catToggle">🏅 Categories</button>
+<button class="toggle-btn active" id="catToggle">🏅 Categories</button>
 </div>
 
-<div id="categoryPanel" class="cat-panel">
+<div class="cat-legend" id="catLegend"></div>
+<div id="categoryPanel" class="cat-panel active">
 <div id="categoryCheckboxes"></div>
 </div>
 
@@ -132,14 +135,21 @@ function init() {
 
   cards.sort((a,b)=>{if(a.status!==b.status)return a.status==='verified'?-1:1;return a.name.localeCompare(b.name)});
 
-  // Category checkboxes
+  // Category checkboxes + legend
   const allCats = new Set();
   books.forEach(b=>(b.categories||[]).forEach(c=>allCats.add(c)));
   const catBox = document.getElementById('categoryCheckboxes');
+  const catLegend = document.getElementById('catLegend');
   Array.from(allCats).sort().forEach(cat=>{
     const lbl = document.createElement('label');
+    lbl.title = categoryEmojis[cat] || cat;
     lbl.innerHTML = '<input type="checkbox" value="'+cat+'"> '+(categoryEmojis[cat]||cat);
     catBox.appendChild(lbl);
+    // Legend item
+    const span = document.createElement('span');
+    span.title = categoryEmojis[cat] || cat;
+    span.textContent = (categoryEmojis[cat]||cat);
+    catLegend.appendChild(span);
   });
 
   document.getElementById('catToggle').addEventListener('click',function(){
@@ -148,6 +158,10 @@ function init() {
   });
 
   function getSelected(){return Array.from(document.querySelectorAll('#categoryCheckboxes input:checked')).map(c=>c.value)}
+
+function toggCat(cat,panel){
+  panel.classList.toggle('active');
+}
 
   function renderCards() {
     const search = document.getElementById('searchInput').value.toLowerCase();
