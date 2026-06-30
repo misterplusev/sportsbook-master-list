@@ -1,0 +1,795 @@
+{
+  "last_updated": "2026-06-29",
+  "source": "Action Network, RG.org, operator sites",
+  "state_names": {
+    "AL": "Alabama",
+    "AK": "Alaska",
+    "AZ": "Arizona",
+    "AR": "Arkansas",
+    "CA": "California",
+    "CO": "Colorado",
+    "CT": "Connecticut",
+    "DC": "Washington DC",
+    "DE": "Delaware",
+    "FL": "Florida",
+    "GA": "Georgia",
+    "HI": "Hawaii",
+    "ID": "Idaho",
+    "IL": "Illinois",
+    "IN": "Indiana",
+    "IA": "Iowa",
+    "KS": "Kansas",
+    "KY": "Kentucky",
+    "LA": "Louisiana",
+    "ME": "Maine",
+    "MD": "Maryland",
+    "MA": "Massachusetts",
+    "MI": "Michigan",
+    "MN": "Minnesota",
+    "MO": "Missouri",
+    "MS": "Mississippi",
+    "MT": "Montana",
+    "NE": "Nebraska",
+    "NV": "Nevada",
+    "NH": "New Hampshire",
+    "NJ": "New Jersey",
+    "NM": "New Mexico",
+    "NY": "New York",
+    "NC": "North Carolina",
+    "ND": "North Dakota",
+    "OH": "Ohio",
+    "OK": "Oklahoma",
+    "OR": "Oregon",
+    "PA": "Pennsylvania",
+    "RI": "Rhode Island",
+    "SC": "South Carolina",
+    "SD": "South Dakota",
+    "TN": "Tennessee",
+    "TX": "Texas",
+    "UT": "Utah",
+    "VT": "Vermont",
+    "VA": "Virginia",
+    "WA": "Washington",
+    "WV": "West Virginia",
+    "WI": "Wisconsin",
+    "WY": "Wyoming"
+  },
+  "books_to_states": {
+    "Fanatics Sportsbook": [
+      "AZ",
+      "CO",
+      "CT",
+      "DC",
+      "IA",
+      "IL",
+      "IN",
+      "KS",
+      "KY",
+      "LA",
+      "MA",
+      "MD",
+      "MI",
+      "MO",
+      "NC",
+      "NJ",
+      "NY",
+      "OH",
+      "PA",
+      "TN",
+      "VA",
+      "VT",
+      "WY"
+    ],
+    "DraftKings": [
+      "AR",
+      "AZ",
+      "CO",
+      "DC",
+      "IA",
+      "IL",
+      "IN",
+      "KS",
+      "KY",
+      "LA",
+      "MA",
+      "MD",
+      "MI",
+      "MO",
+      "NC",
+      "NJ",
+      "NY",
+      "OH",
+      "PA",
+      "TN",
+      "VA",
+      "VT",
+      "WY"
+    ],
+    "FanDuel": [
+      "AZ",
+      "AR",
+      "CO",
+      "CT",
+      "DC",
+      "IL",
+      "IA",
+      "IN",
+      "KS",
+      "KY",
+      "LA",
+      "MA",
+      "MD",
+      "MI",
+      "MO",
+      "NC",
+      "NJ",
+      "NY",
+      "OH",
+      "PA",
+      "TN",
+      "VA",
+      "VT",
+      "WY"
+    ],
+    "BetMGM": [
+      "AZ",
+      "CO",
+      "DC",
+      "IA",
+      "IL",
+      "IN",
+      "LA",
+      "KS",
+      "KY",
+      "MA",
+      "MD",
+      "MI",
+      "MO",
+      "NC",
+      "NJ",
+      "OH",
+      "PA",
+      "TN",
+      "VA",
+      "WV",
+      "WY"
+    ],
+    "Caesars Sportsbook": [
+      "AZ",
+      "CO",
+      "DC",
+      "IA",
+      "IL",
+      "IN",
+      "KS",
+      "KY",
+      "LA",
+      "MA",
+      "MO",
+      "MD",
+      "ME",
+      "MI",
+      "NC",
+      "NJ",
+      "NY",
+      "OH",
+      "PA",
+      "TN",
+      "VA",
+      "WV",
+      "WY"
+    ],
+    "theScore Bet": [
+      "AZ",
+      "CO",
+      "IA",
+      "IL",
+      "IN",
+      "KS",
+      "KY",
+      "LA",
+      "MA",
+      "MI",
+      "MD",
+      "MO",
+      "NC",
+      "NJ",
+      "OH",
+      "PA",
+      "TN",
+      "VA",
+      "WV"
+    ],
+    "bet365": [
+      "AZ",
+      "CO",
+      "IA",
+      "IL",
+      "IN",
+      "KS",
+      "KY",
+      "LA",
+      "MI",
+      "MD",
+      "MO",
+      "NC",
+      "NJ",
+      "OH",
+      "PA",
+      "TN",
+      "VA"
+    ],
+    "Hard Rock": [
+      "AZ",
+      "CO",
+      "FL",
+      "IL",
+      "IN",
+      "MI",
+      "OH",
+      "TN",
+      "VA"
+    ],
+    "BetFred": [
+      "AZ",
+      "CO",
+      "IA",
+      "LA",
+      "NV",
+      "OH",
+      "PA",
+      "WA"
+    ],
+    "Bally Bet": [
+      "AZ",
+      "CO",
+      "IA",
+      "IN",
+      "MA",
+      "NY",
+      "OH",
+      "VA"
+    ],
+    "Circa Sports": [
+      "CO",
+      "IA",
+      "IL",
+      "KY",
+      "MO",
+      "NV"
+    ],
+    "Sporttrade": [
+      "AZ",
+      "CO",
+      "IA",
+      "NJ",
+      "VA"
+    ],
+    "BetRivers": [
+      "MI",
+      "NJ",
+      "PA",
+      "WV"
+    ],
+    "BetParx": [
+      "MD",
+      "NJ",
+      "PA",
+      "MI"
+    ],
+    "Desert Diamond": [
+      "AZ"
+    ],
+    "Crab Sports": [
+      "MD"
+    ],
+    "SBK (Smarkets)": [
+      "CO",
+      "IN"
+    ],
+    "Underdog": [
+      "NC"
+    ],
+    "Borgata": [
+      "NJ"
+    ],
+    "WynnBET": [
+      "MI",
+      "NY"
+    ],
+    "Resorts World": [
+      "NY"
+    ],
+    "SuperBook": [
+      "NV"
+    ],
+    "Action 24/7": [
+      "TN"
+    ],
+    "Q Sportsbook": [
+      "IA"
+    ],
+    "DRF Sportsbook": [
+      "IA"
+    ],
+    "BetWildwood": [
+      "CO"
+    ],
+    "BetMonarch": [
+      "CO"
+    ],
+    "BetSafe": [
+      "CO"
+    ],
+    "Eagle Sports": [
+      "MI"
+    ],
+    "Four Winds": [
+      "MI"
+    ],
+    "FireKeepers": [
+      "MI"
+    ],
+    "MVGBet": [
+      "OH"
+    ],
+    "BetJACK": [
+      "OH"
+    ],
+    "Betr": [
+      "OH",
+      "VA"
+    ],
+    "Prime Sportsbook": [
+      "OH",
+      "NJ"
+    ],
+    "Betly": [
+      "AK",
+      "OH",
+      "TN",
+      "WV"
+    ],
+    "Fanduel": [
+      "AZ",
+      "AR",
+      "CO",
+      "CT",
+      "DC",
+      "IL",
+      "IA",
+      "IN",
+      "KS",
+      "KY",
+      "LA",
+      "MA",
+      "MD",
+      "MI",
+      "MO",
+      "NC",
+      "NJ",
+      "NY",
+      "OH",
+      "PA",
+      "TN",
+      "VA",
+      "VT",
+      "WY"
+    ]
+  },
+  "state_to_books": {
+    "AZ": [
+      "Fanatics Sportsbook",
+      "DraftKings",
+      "FanDuel",
+      "BetMGM",
+      "Caesars Sportsbook",
+      "theScore Bet",
+      "bet365",
+      "Hard Rock",
+      "BetFred",
+      "Bally Bet",
+      "Sporttrade",
+      "Desert Diamond",
+      "Fanduel"
+    ],
+    "CO": [
+      "Fanatics Sportsbook",
+      "DraftKings",
+      "FanDuel",
+      "BetMGM",
+      "Caesars Sportsbook",
+      "theScore Bet",
+      "bet365",
+      "Hard Rock",
+      "BetFred",
+      "Bally Bet",
+      "Circa Sports",
+      "Sporttrade",
+      "SBK (Smarkets)",
+      "BetWildwood",
+      "BetMonarch",
+      "BetSafe",
+      "Fanduel"
+    ],
+    "CT": [
+      "Fanatics Sportsbook",
+      "FanDuel",
+      "Fanduel"
+    ],
+    "DC": [
+      "Fanatics Sportsbook",
+      "DraftKings",
+      "FanDuel",
+      "BetMGM",
+      "Caesars Sportsbook",
+      "Fanduel"
+    ],
+    "IA": [
+      "Fanatics Sportsbook",
+      "DraftKings",
+      "FanDuel",
+      "BetMGM",
+      "Caesars Sportsbook",
+      "theScore Bet",
+      "bet365",
+      "BetFred",
+      "Bally Bet",
+      "Circa Sports",
+      "Sporttrade",
+      "Q Sportsbook",
+      "DRF Sportsbook",
+      "Fanduel"
+    ],
+    "IL": [
+      "Fanatics Sportsbook",
+      "DraftKings",
+      "FanDuel",
+      "BetMGM",
+      "Caesars Sportsbook",
+      "theScore Bet",
+      "bet365",
+      "Hard Rock",
+      "Circa Sports",
+      "Fanduel"
+    ],
+    "IN": [
+      "Fanatics Sportsbook",
+      "DraftKings",
+      "FanDuel",
+      "BetMGM",
+      "Caesars Sportsbook",
+      "theScore Bet",
+      "bet365",
+      "Hard Rock",
+      "Bally Bet",
+      "SBK (Smarkets)",
+      "Fanduel"
+    ],
+    "KS": [
+      "Fanatics Sportsbook",
+      "DraftKings",
+      "FanDuel",
+      "BetMGM",
+      "Caesars Sportsbook",
+      "theScore Bet",
+      "bet365",
+      "Fanduel"
+    ],
+    "KY": [
+      "Fanatics Sportsbook",
+      "DraftKings",
+      "FanDuel",
+      "BetMGM",
+      "Caesars Sportsbook",
+      "theScore Bet",
+      "bet365",
+      "Circa Sports",
+      "Fanduel"
+    ],
+    "LA": [
+      "Fanatics Sportsbook",
+      "DraftKings",
+      "FanDuel",
+      "BetMGM",
+      "Caesars Sportsbook",
+      "theScore Bet",
+      "bet365",
+      "BetFred",
+      "Fanduel"
+    ],
+    "MA": [
+      "Fanatics Sportsbook",
+      "DraftKings",
+      "FanDuel",
+      "BetMGM",
+      "Caesars Sportsbook",
+      "theScore Bet",
+      "Bally Bet",
+      "Fanduel"
+    ],
+    "MD": [
+      "Fanatics Sportsbook",
+      "DraftKings",
+      "FanDuel",
+      "BetMGM",
+      "Caesars Sportsbook",
+      "theScore Bet",
+      "bet365",
+      "BetParx",
+      "Crab Sports",
+      "Fanduel"
+    ],
+    "MI": [
+      "Fanatics Sportsbook",
+      "DraftKings",
+      "FanDuel",
+      "BetMGM",
+      "Caesars Sportsbook",
+      "theScore Bet",
+      "bet365",
+      "Hard Rock",
+      "BetRivers",
+      "BetParx",
+      "WynnBET",
+      "Eagle Sports",
+      "Four Winds",
+      "FireKeepers",
+      "Fanduel"
+    ],
+    "MO": [
+      "Fanatics Sportsbook",
+      "DraftKings",
+      "FanDuel",
+      "BetMGM",
+      "Caesars Sportsbook",
+      "theScore Bet",
+      "bet365",
+      "Circa Sports",
+      "Fanduel"
+    ],
+    "NC": [
+      "Fanatics Sportsbook",
+      "DraftKings",
+      "FanDuel",
+      "BetMGM",
+      "Caesars Sportsbook",
+      "theScore Bet",
+      "bet365",
+      "Underdog",
+      "Fanduel"
+    ],
+    "NJ": [
+      "Fanatics Sportsbook",
+      "DraftKings",
+      "FanDuel",
+      "BetMGM",
+      "Caesars Sportsbook",
+      "theScore Bet",
+      "bet365",
+      "Sporttrade",
+      "BetRivers",
+      "BetParx",
+      "Borgata",
+      "Prime Sportsbook",
+      "Fanduel"
+    ],
+    "NY": [
+      "Fanatics Sportsbook",
+      "DraftKings",
+      "FanDuel",
+      "Caesars Sportsbook",
+      "Bally Bet",
+      "WynnBET",
+      "Resorts World",
+      "Fanduel"
+    ],
+    "OH": [
+      "Fanatics Sportsbook",
+      "DraftKings",
+      "FanDuel",
+      "BetMGM",
+      "Caesars Sportsbook",
+      "theScore Bet",
+      "bet365",
+      "Hard Rock",
+      "BetFred",
+      "Bally Bet",
+      "MVGBet",
+      "BetJACK",
+      "Betr",
+      "Prime Sportsbook",
+      "Betly",
+      "Fanduel"
+    ],
+    "PA": [
+      "Fanatics Sportsbook",
+      "DraftKings",
+      "FanDuel",
+      "BetMGM",
+      "Caesars Sportsbook",
+      "theScore Bet",
+      "bet365",
+      "BetFred",
+      "BetRivers",
+      "BetParx",
+      "Fanduel"
+    ],
+    "TN": [
+      "Fanatics Sportsbook",
+      "DraftKings",
+      "FanDuel",
+      "BetMGM",
+      "Caesars Sportsbook",
+      "theScore Bet",
+      "bet365",
+      "Hard Rock",
+      "Action 24/7",
+      "Betly",
+      "Fanduel"
+    ],
+    "VA": [
+      "Fanatics Sportsbook",
+      "DraftKings",
+      "FanDuel",
+      "BetMGM",
+      "Caesars Sportsbook",
+      "theScore Bet",
+      "bet365",
+      "Hard Rock",
+      "Bally Bet",
+      "Sporttrade",
+      "Betr",
+      "Fanduel"
+    ],
+    "VT": [
+      "Fanatics Sportsbook",
+      "DraftKings",
+      "FanDuel",
+      "Fanduel"
+    ],
+    "WY": [
+      "Fanatics Sportsbook",
+      "DraftKings",
+      "FanDuel",
+      "BetMGM",
+      "Caesars Sportsbook",
+      "Fanduel"
+    ],
+    "AR": [
+      "DraftKings",
+      "FanDuel",
+      "Fanduel"
+    ],
+    "WV": [
+      "BetMGM",
+      "Caesars Sportsbook",
+      "theScore Bet",
+      "BetRivers",
+      "Betly"
+    ],
+    "ME": [
+      "Caesars Sportsbook"
+    ],
+    "FL": [
+      "Hard Rock"
+    ],
+    "NV": [
+      "BetFred",
+      "Circa Sports",
+      "SuperBook"
+    ],
+    "WA": [
+      "BetFred"
+    ],
+    "AK": [
+      "Betly"
+    ]
+  },
+  "international": {
+    "1xBet": "Many countries internationally",
+    "888sport": "UK, EU",
+    "BC.GAME": "International (crypto)",
+    "Bet-at-home": "Germany, Austria, Switzerland",
+    "Bet365": "UK, AU, many international",
+    "Betano": "Brazil, LATAM",
+    "Betcity": "Netherlands",
+    "Betcris": "Mexico, LATAM",
+    "BetDeluxe": "International",
+    "BetGRW": "Russia, CIS",
+    "BetMania": "International",
+    "BetNation": "Australia",
+    "BetSafe": "Sweden, EU",
+    "Betsson": "Sweden, EU",
+    "Betway": "UK, many international",
+    "Bwin": "Germany, EU",
+    "Casumo": "UK, Sweden, EU",
+    "Coolbet": "Estonia, EU",
+    "Coral": "UK (Entain)",
+    "Crystalbet": "Greece (Entain)",
+    "Danske Spil": "Denmark",
+    "Eurobet": "Italy (Entain)",
+    "Fonbet": "Russia, CIS",
+    "Galera.bet": "Brazil",
+    "GGBet": "Cyprus, international",
+    "Heritage": [
+      "US"
+    ],
+    "HotStreak": "California (tribal)",
+    "Interwetten": "Germany, Austria, Switzerland",
+    "Jugabet": "Argentina, Chile",
+    "JustBet": [
+      "US"
+    ],
+    "Ladbrokes": "UK, Australia (Entain)",
+    "Ladbrokes Australia": "Australia (Entain)",
+    "LeoVegas": "Sweden, UK",
+    "Linebet": "Russia",
+    "Lucky Casino": [
+      "US"
+    ],
+    "Marathonbet": "International",
+    "Melbet": "Russia",
+    "Mise-o-jeu": "Quebec",
+    "Neds": "Australia",
+    "Ninja Casino": "EU",
+    "Oddin": "EU (esports)",
+    "Opinion Labs": [
+      "US"
+    ],
+    "Parimatch": "Russia, international",
+    "ParlayPlay": [
+      "US"
+    ],
+    "Play Alberta": "Alberta, Canada",
+    "Playdoit": [
+      "US"
+    ],
+    "PointsBet": "US, Australia, international",
+    "Proline": "Canada",
+    "Props Builder": [
+      "US"
+    ],
+    "PS3838": "International",
+    "Rizk": "Malta, EU",
+    "RushBet": [
+      "US"
+    ],
+    "SBOBET": "Asia, international",
+    "SBK": "UK (Smarkets)",
+    "Snoqualmie": "Washington",
+    "Sportingbet": "International (Entain)",
+    "Sportsbet.com.au": "Australia",
+    "STS": "Poland (Entain)",
+    "SugarHouse": [
+      "US"
+    ],
+    "Superbet": "Romania",
+    "SuperSport": "Croatia, Balkans",
+    "SurgeBet": [
+      "US"
+    ],
+    "Svenska Spel": "Sweden",
+    "TAB": "New Zealand (Entain)",
+    "TABtouch": "Western Australia",
+    "theScore": "Canada",
+    "ThriveFantasy": [
+      "US"
+    ],
+    "Tipsport": "Czech Rep, Slovakia",
+    "TwinSpires": [
+      "US"
+    ],
+    "Unibet": "UK, DK, SE, AU, EU",
+    "Veikkaus": "Finland",
+    "Winpot": [
+      "US"
+    ],
+    "WynnBET": "US, Macau",
+    "YouWager": [
+      "US"
+    ],
+    "Kalshi": "All US (prediction market)",
+    "Polymarket": "All US (prediction market)"
+  }
+}
