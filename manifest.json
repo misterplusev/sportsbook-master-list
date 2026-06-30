@@ -1722,15 +1722,15 @@
     "file": "sharp_com.bin"
   },
   "Sleeper": {
-    "name": "Sleeper",
-    "domain": "sleeper.com",
-    "status": "verified",
-    "size": 48690,
-    "content_type": "image/webp",
-    "sha256": "46e1ffbbd1bd6da94f5578a0720282167f14efaea6d3155edf0c5522853f4936",
-    "source_url": "logos/sleeper_com.bin",
-    "file": "sleeper_com.bin"
-  },
+      "name": "Sleeper",
+      "domain": "sleeper.com",
+      "status": "verified",
+      "size": 3951,
+      "content_type": "image/png",
+      "sha256": "sleeper_bot_favicon",
+      "source_url": "logos/sleeper_com.png",
+      "file": "sleeper_com.png"
+    },
   "Smarkets": {
     "name": "Smarkets",
     "domain": "smarkets.com",
