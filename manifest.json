@@ -660,9 +660,11 @@
     "file": "caesars_com.png"
   },
   "Campeonbet": {
-    "name": "Campeonbet",
-    "domain": "campeonbet.com",
-    "status": "verified",
+      "name": "Campeonbet",
+      "domain": "campeonbet.com",
+      "status": "defunct",
+      "defunct_note": "Permanently closed - ceased operations",
+      "size": 0,
     "size": 6802,
     "content_type": "image/svg+xml",
     "sha256": "36d2090d48fd74e4622ac7379e6341e8f0d409e44abbc69ce95baaef6e292cad",

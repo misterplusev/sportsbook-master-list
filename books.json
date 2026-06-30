@@ -265,7 +265,9 @@
   },
   {
     "name": "Campeonbet",
-    "url": "https://campeonbet.com"
+    "url": "https://campeonbet.com",
+    "defunct": true,
+    "defunct_note": "Permanently closed - ceased operations"
   },
   {
     "name": "CampoBet",

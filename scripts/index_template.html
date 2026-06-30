@@ -160,6 +160,7 @@ function init() {
     let shown = 0;
     for (const c of cards) {
       if (search && !c.name.toLowerCase().includes(search) && !c.domain.toLowerCase().includes(search)) continue;
+      if (c.status==='defunct') continue;
       if (filter==='verified' && c.status!=='verified') continue;
       if (filter==='missing' && c.status!=='missing') continue;
       if (format!=='all' && c.ext!==format) continue;
