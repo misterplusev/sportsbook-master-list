@@ -2172,22 +2172,22 @@
   "WynnBET": {
     "name": "WynnBET",
     "domain": "wynnbet.com",
-    "status": "missing",
-    "size": 0,
-    "content_type": "",
-    "sha256": "",
-    "source_url": "",
-    "file": ""
+    "status": "verified",
+    "size": 1111,
+    "content_type": "image/png",
+    "sha256": "6e8fbd542c1ec8370362f091a31e3029ddbac5c0a9572111577361b4b1df3909",
+    "source_url": "logos/wynnbet_com.png",
+    "file": "wynnbet_com.png"
   },
   "SuperBook": {
     "name": "SuperBook",
     "domain": "superbook.com",
-    "status": "missing",
-    "size": 0,
-    "content_type": "",
-    "sha256": "",
-    "source_url": "",
-    "file": ""
+    "status": "verified",
+    "size": 12304,
+    "content_type": "image/svg+xml",
+    "sha256": "3a68a7253506867917885adbfea86338919b4c62c6328366cb8c25ca790a81ef",
+    "source_url": "logos/superbook_com.svg",
+    "file": "superbook_com.svg"
   },
   "Betfred": {
     "name": "Betfred",
@@ -2202,12 +2202,12 @@
   "Betly": {
     "name": "Betly",
     "domain": "betly.com",
-    "status": "missing",
-    "size": 0,
-    "content_type": "",
-    "sha256": "",
-    "source_url": "",
-    "file": ""
+    "status": "verified",
+    "size": 9965,
+    "content_type": "image/png",
+    "sha256": "335ffc7e8db77e51a3596ce8f437a9df84eef5b649904bf819e86445c2a31ed1",
+    "source_url": "logos/betly_com.png",
+    "file": "betly_com.png"
   },
   "SBK": {
     "name": "SBK",
@@ -2232,12 +2232,12 @@
   "Action 24/7": {
     "name": "Action 24/7",
     "domain": "action247.com",
-    "status": "missing",
-    "size": 0,
-    "content_type": "",
-    "sha256": "",
-    "source_url": "",
-    "file": ""
+    "status": "verified",
+    "size": 998,
+    "content_type": "image/png",
+    "sha256": "ea86aa7357cbd9c23c336645f1f24c84288a548629f37917b1d1eb757b40bc3b",
+    "source_url": "logos/action247_com.png",
+    "file": "action247_com.png"
   },
   "Q Sportsbook": {
     "name": "Q Sportsbook",
@@ -2262,22 +2262,22 @@
   "DRF Sportsbook": {
     "name": "DRF Sportsbook",
     "domain": "drf.com",
-    "status": "missing",
-    "size": 0,
-    "content_type": "",
-    "sha256": "",
-    "source_url": "",
-    "file": ""
+    "status": "verified",
+    "size": 6523,
+    "content_type": "image/jpeg",
+    "sha256": "7aadf087c8e8ee6adbdc0b4b52153d081f282a6950714e67daefcb87ef2e15ad",
+    "source_url": "logos/drf_com.jpg",
+    "file": "drf_com.jpg"
   },
   "BetWildwood": {
     "name": "BetWildwood",
     "domain": "betwildwood.com",
-    "status": "missing",
-    "size": 0,
-    "content_type": "",
-    "sha256": "",
-    "source_url": "",
-    "file": ""
+    "status": "verified",
+    "size": 1406,
+    "content_type": "image/png",
+    "sha256": "fe0dcdc0f8425a9ae0fe6828e80fc3a9f9348f42fa20afb9971f844b186c605b",
+    "source_url": "logos/betwildwood_com.png",
+    "file": "betwildwood_com.png"
   },
   "Eagle Sports": {
     "name": "Eagle Sports",
@@ -2302,12 +2302,12 @@
   "Prime Sportsbook": {
     "name": "Prime Sportsbook",
     "domain": "primesportsbook.com",
-    "status": "missing",
-    "size": 0,
-    "content_type": "",
-    "sha256": "",
-    "source_url": "",
-    "file": ""
+    "status": "verified",
+    "size": 15086,
+    "content_type": "image/x-icon",
+    "sha256": "6a94528186ac2b2bf0b68d27d7e23dd5a6fce9caab6679fddece127ac4f6e89c",
+    "source_url": "logos/primesportsbook_com.ico",
+    "file": "primesportsbook_com.ico"
   },
   "Snoqualmie": {
     "name": "Snoqualmie",
