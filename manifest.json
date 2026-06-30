@@ -32,12 +32,12 @@
   "4Cx": {
     "name": "4Cx",
     "domain": "4cx.com",
-    "status": "missing",
-    "size": 0,
-    "content_type": "",
-    "sha256": "",
-    "source_url": "",
-    "file": ""
+    "status": "verified",
+    "size": 820530,
+    "content_type": "image/png",
+    "sha256": "a5eca6584241e96daba49759d887847f39dcef0c77cb9214eb98609d33b749c5",
+    "source_url": "logos/4cx_com.png",
+    "file": "4cx_com.png"
   },
   "888sport": {
     "name": "888sport",
@@ -551,13 +551,13 @@
   },
   "betwhale": {
     "name": "betwhale",
-    "domain": "betwhale.com",
-    "status": "missing",
-    "size": 0,
-    "content_type": "",
-    "sha256": "",
-    "source_url": "",
-    "file": ""
+    "domain": "betwhale.ag",
+    "status": "verified",
+    "size": 6921,
+    "content_type": "image/png",
+    "sha256": "b739604941e889da844d4228d193f68389e6d59d32ce7fb8e1f1bb7e59ef4f3b",
+    "source_url": "logos/betwhale_com.png",
+    "file": "betwhale_com.png"
   },
   "Bodog": {
     "name": "Bodog",
