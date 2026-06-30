@@ -1,0 +1,390 @@
+{
+  "saved": [],
+  "failed": [
+    {
+      "name": "4Cx",
+      "url": "https://4cx.com",
+      "reason": "[WinError 2] The system cannot find the file specified"
+    },
+    {
+      "name": "BET99",
+      "url": "https://bet99.ca",
+      "reason": "[WinError 2] The system cannot find the file specified"
+    },
+    {
+      "name": "BetAnything",
+      "url": "https://betanything.com",
+      "reason": "[WinError 2] The system cannot find the file specified"
+    },
+    {
+      "name": "BetDeluxe",
+      "url": "https://betdeluxe.com",
+      "reason": "[WinError 2] The system cannot find the file specified"
+    },
+    {
+      "name": "BetGRW",
+      "url": "https://betgrw.com",
+      "reason": "[WinError 2] The system cannot find the file specified"
+    },
+    {
+      "name": "BetMania",
+      "url": "https://betmania.com",
+      "reason": "[WinError 2] The system cannot find the file specified"
+    },
+    {
+      "name": "BetNation",
+      "url": "https://betnation.com",
+      "reason": "[WinError 2] The system cannot find the file specified"
+    },
+    {
+      "name": "BetNation (Australia)",
+      "url": "https://betnation.com.au",
+      "reason": "[WinError 2] The system cannot find the file specified"
+    },
+    {
+      "name": "betwhale",
+      "url": "https://betwhale.com",
+      "reason": "[WinError 2] The system cannot find the file specified"
+    },
+    {
+      "name": "Boomers",
+      "url": "https://boomers.bet",
+      "reason": "[WinError 2] The system cannot find the file specified"
+    },
+    {
+      "name": "Borgata",
+      "url": "https://www.borgataonline.com/en/sports",
+      "reason": "[WinError 2] The system cannot find the file specified"
+    },
+    {
+      "name": "Bracco",
+      "url": "https://bracco.bet",
+      "reason": "[WinError 2] The system cannot find the file specified"
+    },
+    {
+      "name": "CampoBet",
+      "url": "https://campobet.com",
+      "reason": "[WinError 2] The system cannot find the file specified"
+    },
+    {
+      "name": "Casumo",
+      "url": "https://casumo.com",
+      "reason": "[WinError 2] The system cannot find the file specified"
+    },
+    {
+      "name": "Codere",
+      "url": "https://codere.com",
+      "reason": "[WinError 2] The system cannot find the file specified"
+    },
+    {
+      "name": "Coolbet",
+      "url": "https://coolbet.com",
+      "reason": "[WinError 2] The system cannot find the file specified"
+    },
+    {
+      "name": "Coral",
+      "url": "https://coral.co.uk",
+      "reason": "[WinError 2] The system cannot find the file specified"
+    },
+    {
+      "name": "Courtside",
+      "url": "https://courtside.com",
+      "reason": "[WinError 2] The system cannot find the file specified"
+    },
+    {
+      "name": "Danske Spil",
+      "url": "https://dansk-spil.dk",
+      "reason": "[WinError 2] The system cannot find the file specified"
+    },
+    {
+      "name": "Desert Diamond",
+      "url": "https://desertdiamondcasino.com",
+      "reason": "[WinError 2] The system cannot find the file specified"
+    },
+    {
+      "name": "Dogg House",
+      "url": "https://dogghouse.com",
+      "reason": "[WinError 2] The system cannot find the file specified"
+    },
+    {
+      "name": "Fanatics",
+      "url": "https://fanatics.com",
+      "reason": "[WinError 2] The system cannot find the file specified"
+    },
+    {
+      "name": "Fanatics Markets",
+      "url": "https://fanatics.com",
+      "reason": "[WinError 2] The system cannot find the file specified"
+    },
+    {
+      "name": "Four Winds",
+      "url": "https://fourwinds.com",
+      "reason": "[WinError 2] The system cannot find the file specified"
+    },
+    {
+      "name": "Galera.bet",
+      "url": "https://galera.bet",
+      "reason": "[WinError 2] The system cannot find the file specified"
+    },
+    {
+      "name": "GGBet",
+      "url": "https://ggbet.com",
+      "reason": "[WinError 2] The system cannot find the file specified"
+    },
+    {
+      "name": "Goldbet",
+      "url": "https://goldbet.it",
+      "reason": "[WinError 2] The system cannot find the file specified"
+    },
+    {
+      "name": "Heritage",
+      "url": "https://heritage.com",
+      "reason": "[WinError 2] The system cannot find the file specified"
+    },
+    {
+      "name": "HotStreak",
+      "url": "https://hotstreak.com",
+      "reason": "[WinError 2] The system cannot find the file specified"
+    },
+    {
+      "name": "Jazz Sports",
+      "url": "https://jazzsports.com",
+      "reason": "[WinError 2] The system cannot find the file specified"
+    },
+    {
+      "name": "Jugabet (Argentina)",
+      "url": "https://jugabet.com",
+      "reason": "[WinError 2] The system cannot find the file specified"
+    },
+    {
+      "name": "Jugabet (Chile)",
+      "url": "https://jugabet.com",
+      "reason": "[WinError 2] The system cannot find the file specified"
+    },
+    {
+      "name": "JustBet",
+      "url": "https://justbet.com",
+      "reason": "[WinError 2] The system cannot find the file specified"
+    },
+    {
+      "name": "Ladbrokes (Australia)",
+      "url": "https://ladbrokes.com.au",
+      "reason": "[WinError 2] The system cannot find the file specified"
+    },
+    {
+      "name": "Lucky Casino",
+      "url": "https://luckycasino.com",
+      "reason": "[WinError 2] The system cannot find the file specified"
+    },
+    {
+      "name": "Melbet",
+      "url": "https://melbet.com",
+      "reason": "[WinError 2] The system cannot find the file specified"
+    },
+    {
+      "name": "Mise-o-jeu",
+      "url": "https://miseojeu.com",
+      "reason": "[WinError 2] The system cannot find the file specified"
+    },
+    {
+      "name": "Neds",
+      "url": "https://neds.com.au",
+      "reason": "[WinError 2] The system cannot find the file specified"
+    },
+    {
+      "name": "Ninja Casino",
+      "url": "https://ninjacasino.com",
+      "reason": "[WinError 2] The system cannot find the file specified"
+    },
+    {
+      "name": "Oddin",
+      "url": "https://oddin.com",
+      "reason": "[WinError 2] The system cannot find the file specified"
+    },
+    {
+      "name": "Opinion Labs",
+      "url": "https://opinionlabs.com",
+      "reason": "[WinError 2] The system cannot find the file specified"
+    },
+    {
+      "name": "Overtime",
+      "url": "https://overtime.com",
+      "reason": "[WinError 2] The system cannot find the file specified"
+    },
+    {
+      "name": "Parimatch (Brazil)",
+      "url": "https://parimatch.com",
+      "reason": "[WinError 2] The system cannot find the file specified"
+    },
+    {
+      "name": "Parimatch (India)",
+      "url": "https://parimatch.com",
+      "reason": "[WinError 2] The system cannot find the file specified"
+    },
+    {
+      "name": "ParlayPlay",
+      "url": "https://parlayplay.com",
+      "reason": "[WinError 2] The system cannot find the file specified"
+    },
+    {
+      "name": "Play Alberta",
+      "url": "https://playalberta.com",
+      "reason": "[WinError 2] The system cannot find the file specified"
+    },
+    {
+      "name": "Playdoit",
+      "url": "https://playdoit.com",
+      "reason": "[WinError 2] The system cannot find the file specified"
+    },
+    {
+      "name": "PointsBet (Australia)",
+      "url": "https://pointsbet.com",
+      "reason": "[WinError 2] The system cannot find the file specified"
+    },
+    {
+      "name": "PointsBet (Ontario)",
+      "url": "https://pointsbet.com",
+      "reason": "[WinError 2] The system cannot find the file specified"
+    },
+    {
+      "name": "Proline",
+      "url": "https://proline.ca",
+      "reason": "[WinError 2] The system cannot find the file specified"
+    },
+    {
+      "name": "Props Builder",
+      "url": "https://propsbuilder.com",
+      "reason": "[WinError 2] The system cannot find the file specified"
+    },
+    {
+      "name": "PS3838",
+      "url": "https://ps3838.com",
+      "reason": "[WinError 2] The system cannot find the file specified"
+    },
+    {
+      "name": "Rizk",
+      "url": "https://rizk.com",
+      "reason": "[WinError 2] The system cannot find the file specified"
+    },
+    {
+      "name": "RushBet",
+      "url": "https://rushbet.com",
+      "reason": "[WinError 2] The system cannot find the file specified"
+    },
+    {
+      "name": "Sportingbet",
+      "url": "https://sportingbet.com",
+      "reason": "[WinError 2] The system cannot find the file specified"
+    },
+    {
+      "name": "SugarHouse",
+      "url": "https://sugarhouse.com",
+      "reason": "[WinError 2] The system cannot find the file specified"
+    },
+    {
+      "name": "Superbet",
+      "url": "https://superbet.com",
+      "reason": "[WinError 2] The system cannot find the file specified"
+    },
+    {
+      "name": "SurgeBet",
+      "url": "https://surgebet.com",
+      "reason": "[WinError 2] The system cannot find the file specified"
+    },
+    {
+      "name": "TAB",
+      "url": "https://tab.co.nz",
+      "reason": "[WinError 2] The system cannot find the file specified"
+    },
+    {
+      "name": "TAB (New Zealand)",
+      "url": "https://tab.co.nz",
+      "reason": "[WinError 2] The system cannot find the file specified"
+    },
+    {
+      "name": "ThriveFantasy",
+      "url": "https://thrivefantasy.com",
+      "reason": "[WinError 2] The system cannot find the file specified"
+    },
+    {
+      "name": "Tipsport",
+      "url": "https://tipsport.com",
+      "reason": "[WinError 2] The system cannot find the file specified"
+    },
+    {
+      "name": "WynnBET",
+      "url": "https://www.wynnbet.com",
+      "reason": "[WinError 2] The system cannot find the file specified"
+    },
+    {
+      "name": "SuperBook",
+      "url": "https://www.superbook.com",
+      "reason": "[WinError 2] The system cannot find the file specified"
+    },
+    {
+      "name": "Betfred",
+      "url": "https://www.betfred.com",
+      "reason": "[WinError 2] The system cannot find the file specified"
+    },
+    {
+      "name": "Betly",
+      "url": "https://www.betly.com",
+      "reason": "[WinError 2] The system cannot find the file specified"
+    },
+    {
+      "name": "SBK",
+      "url": "https://www.sbk.com",
+      "reason": "[WinError 2] The system cannot find the file specified"
+    },
+    {
+      "name": "Resorts World",
+      "url": "https://www.resortsworld.com",
+      "reason": "[WinError 2] The system cannot find the file specified"
+    },
+    {
+      "name": "Action 24/7",
+      "url": "https://www.action247.com",
+      "reason": "[WinError 2] The system cannot find the file specified"
+    },
+    {
+      "name": "Q Sportsbook",
+      "url": "https://www.qsportsbook.com",
+      "reason": "[WinError 2] The system cannot find the file specified"
+    },
+    {
+      "name": "BetMonarch",
+      "url": "https://www.betmonarch.com",
+      "reason": "[WinError 2] The system cannot find the file specified"
+    },
+    {
+      "name": "DRF Sportsbook",
+      "url": "https://www.drf.com",
+      "reason": "[WinError 2] The system cannot find the file specified"
+    },
+    {
+      "name": "BetWildwood",
+      "url": "https://www.betwildwood.com",
+      "reason": "[WinError 2] The system cannot find the file specified"
+    },
+    {
+      "name": "Eagle Sports",
+      "url": "https://www.eaglesports.com",
+      "reason": "[WinError 2] The system cannot find the file specified"
+    },
+    {
+      "name": "MVGBet",
+      "url": "https://www.mvgbet.com",
+      "reason": "[WinError 2] The system cannot find the file specified"
+    },
+    {
+      "name": "Prime Sportsbook",
+      "url": "https://www.primesportsbook.com",
+      "reason": "[WinError 2] The system cannot find the file specified"
+    },
+    {
+      "name": "Snoqualmie",
+      "url": "https://www.snoqualmieceasons.com",
+      "reason": "[WinError 2] The system cannot find the file specified"
+    }
+  ]
+}
