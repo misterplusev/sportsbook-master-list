@@ -722,12 +722,12 @@
   "Coolbet": {
     "name": "Coolbet",
     "domain": "coolbet.com",
-    "status": "missing",
-    "size": 0,
-    "content_type": "",
-    "sha256": "",
-    "source_url": "",
-    "file": ""
+    "status": "verified",
+    "size": 13389,
+    "content_type": "image/png",
+    "sha256": "fbb32b9c0cbf14dc54b3d483c2f9b413cbb9334803f2ecd0a3bb1ef303ae9c8d",
+    "source_url": "logos/coolbet_com.png",
+    "file": "coolbet_com.png"
   },
   "Coral": {
     "name": "Coral",
@@ -1322,12 +1322,12 @@
   "Oddin": {
     "name": "Oddin",
     "domain": "oddin.com",
-    "status": "missing",
-    "size": 0,
-    "content_type": "",
-    "sha256": "",
-    "source_url": "",
-    "file": ""
+    "status": "verified",
+    "size": 15406,
+    "content_type": "image/x-icon",
+    "sha256": "78a9aedd3b67e3c0efcba3a799c6aaf29341ab241ea98756b5d73071347b09b1",
+    "source_url": "logos/oddin_gg.ico",
+    "file": "oddin_gg.ico"
   },
   "Onyx Odds": {
     "name": "Onyx Odds",
@@ -1693,11 +1693,11 @@
     "name": "SABA Sports",
     "domain": "sabasports.com",
     "status": "verified",
-    "size": 21560,
-    "content_type": "image/jpeg",
-    "sha256": "cfbbd819340bd01dc46f7b686ccb9b4055a611fc00a326f4121de36c342e8b1e",
-    "source_url": "logos/sabasports_com.bin",
-    "file": "sabasports_com.bin"
+    "size": 19518,
+    "content_type": "image/svg+xml",
+    "sha256": "0676ecf2e50b079377027286d4c65aba254b5c636140104585201e53bdaf83a0",
+    "source_url": "logos/sabasports_com.svg",
+    "file": "sabasports_com.svg"
   },
   "SBOBET": {
     "name": "SBOBET",
@@ -1892,22 +1892,22 @@
   "TAB": {
     "name": "TAB",
     "domain": "tab.co.nz",
-    "status": "missing",
-    "size": 0,
-    "content_type": "",
-    "sha256": "",
-    "source_url": "",
-    "file": ""
+    "status": "verified",
+    "size": 1291,
+    "content_type": "image/svg+xml",
+    "sha256": "1d26eb32a70fb558e47a03ba38b61fdf923476bd39f8228466f25bcc2ad30d9d",
+    "source_url": "logos/tab_co_nz.svg",
+    "file": "tab_co_nz.svg"
   },
   "TAB (New Zealand)": {
     "name": "TAB (New Zealand)",
     "domain": "tab.co.nz",
-    "status": "missing",
-    "size": 0,
-    "content_type": "",
-    "sha256": "",
-    "source_url": "",
-    "file": ""
+    "status": "verified",
+    "size": 1291,
+    "content_type": "image/svg+xml",
+    "sha256": "1d26eb32a70fb558e47a03ba38b61fdf923476bd39f8228466f25bcc2ad30d9d",
+    "source_url": "logos/tab_co_nz.svg",
+    "file": "tab_co_nz.svg"
   },
   "TABtouch": {
     "name": "TABtouch",
