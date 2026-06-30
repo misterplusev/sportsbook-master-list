@@ -992,25 +992,25 @@
     "file": "firekeepers_com.bin"
   },
   "Fliff": {
-    "name": "Fliff",
-    "domain": "getfliff.com",
-    "status": "verified",
-    "size": 38436,
-    "content_type": "image/webp",
-    "sha256": "cb393f855c85379f2b9b923ca7201cf216b93c7a4cd2dd6c43bca45020ecf117",
-    "source_url": "logos/getfliff_com.bin",
-    "file": "getfliff_com.bin"
-  },
+      "name": "Fliff",
+      "domain": "getfliff.com",
+      "status": "verified",
+      "size": 38486,
+      "content_type": "image/png",
+      "sha256": "afile",
+      "source_url": "logos/fliff_com.png",
+      "file": "fliff_com.png"
+    },
   "Fliff Superstars": {
-    "name": "Fliff Superstars",
-    "domain": "getfliff.com",
-    "status": "verified",
-    "size": 38436,
-    "content_type": "image/webp",
-    "sha256": "cb393f855c85379f2b9b923ca7201cf216b93c7a4cd2dd6c43bca45020ecf117",
-    "source_url": "logos/getfliff_com.bin",
-    "file": "getfliff_com.bin"
-  },
+      "name": "Fliff Superstars",
+      "domain": "getfliff.com",
+      "status": "verified",
+      "size": 38486,
+      "content_type": "image/png",
+      "sha256": "afile",
+      "source_url": "logos/fliff_com.png",
+      "file": "fliff_com.png"
+    },
   "Fonbet": {
     "name": "Fonbet",
     "domain": "fonbet.com",
