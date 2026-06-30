@@ -1882,15 +1882,15 @@
     "file": "svenskaspel_se.bin"
   },
   "SX Bet": {
-    "name": "SX Bet",
-    "domain": "sxbet.com",
-    "status": "verified",
-    "size": 1150,
-    "content_type": "image/x-icon",
+      "name": "SX Bet",
+      "domain": "sx.bet",
+      "status": "verified",
+      "size": 373,
+      "content_type": "image/png",
     "sha256": "22ab27ff03e7132172c579190ee272492e7ef935d76af8b2a31bba325a08bfac",
-    "source_url": "logos/sxbet_com.ico",
-    "file": "sxbet_com.ico"
-  },
+    "source_url": "logos/sxbet_com.png",
+        "file": "sxbet_com.png"
+      },
   "TAB": {
     "name": "TAB",
     "domain": "tab.co.nz",
