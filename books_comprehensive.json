@@ -1,0 +1,5814 @@
+[
+  {
+    "name": "1XBet",
+    "url": "https://1xbet.com",
+    "country": "Unknown",
+    "jurisdictions": [
+      "Unknown"
+    ],
+    "offer_types": [],
+    "scraper_status": "none",
+    "source": "optic_odds",
+    "status": "active",
+    "defunct": false,
+    "defunct_note": "",
+    "scraper_proof": {
+      "cf": false,
+      "hf": false,
+      "oracle": false,
+      "github": false
+    },
+    "markets": [],
+    "notes": ""
+  },
+  {
+    "name": "20bet",
+    "url": "https://20bet.com",
+    "country": "Unknown",
+    "jurisdictions": [
+      "Unknown"
+    ],
+    "offer_types": [],
+    "scraper_status": "none",
+    "source": "optic_odds",
+    "status": "active",
+    "defunct": false,
+    "defunct_note": "",
+    "scraper_proof": {
+      "cf": false,
+      "hf": false,
+      "oracle": false,
+      "github": false
+    },
+    "markets": [],
+    "notes": ""
+  },
+  {
+    "name": "22bet",
+    "url": "https://22bet.com",
+    "country": "Unknown",
+    "jurisdictions": [
+      "Unknown"
+    ],
+    "offer_types": [],
+    "scraper_status": "none",
+    "source": "optic_odds",
+    "status": "active",
+    "defunct": false,
+    "defunct_note": "",
+    "scraper_proof": {
+      "cf": false,
+      "hf": false,
+      "oracle": false,
+      "github": false
+    },
+    "markets": [],
+    "notes": ""
+  },
+  {
+    "name": "4Cx",
+    "url": "https://4cx.com",
+    "country": "Unknown",
+    "jurisdictions": [
+      "Unknown"
+    ],
+    "offer_types": [],
+    "scraper_status": "none",
+    "source": "optic_odds",
+    "status": "active",
+    "defunct": false,
+    "defunct_note": "",
+    "scraper_proof": {
+      "cf": false,
+      "hf": false,
+      "oracle": false,
+      "github": false
+    },
+    "markets": [],
+    "notes": ""
+  },
+  {
+    "name": "888sport",
+    "url": "https://888sport.com",
+    "country": "Unknown",
+    "jurisdictions": [
+      "Unknown"
+    ],
+    "offer_types": [],
+    "scraper_status": "none",
+    "source": "optic_odds",
+    "status": "active",
+    "defunct": false,
+    "defunct_note": "",
+    "scraper_proof": {
+      "cf": false,
+      "hf": false,
+      "oracle": false,
+      "github": false
+    },
+    "markets": [],
+    "notes": ""
+  },
+  {
+    "name": "ATG",
+    "url": "https://atg.se",
+    "country": "Unknown",
+    "jurisdictions": [
+      "SE"
+    ],
+    "offer_types": [
+      "Moneyline",
+      "Run Line",
+      "Total"
+    ],
+    "scraper_status": "built",
+    "source": "optic_odds",
+    "status": "active",
+    "defunct": false,
+    "defunct_note": "",
+    "scraper_proof": {
+      "cf": true,
+      "hf": true,
+      "oracle": true,
+      "github": true
+    },
+    "markets": [
+      "Moneyline",
+      "Run Line",
+      "Total"
+    ],
+    "notes": ""
+  },
+  {
+    "name": "Bally Bet",
+    "url": "https://ballybet.com",
+    "country": "Unknown",
+    "jurisdictions": [
+      "US-AZ",
+      "US-CO",
+      "US-IA",
+      "US-IN",
+      "US-MA",
+      "US-NY",
+      "US-OH",
+      "US-VA"
+    ],
+    "offer_types": [
+      "Moneyline",
+      "Run Line",
+      "Total"
+    ],
+    "scraper_status": "built",
+    "source": "optic_odds",
+    "status": "active",
+    "defunct": false,
+    "defunct_note": "",
+    "scraper_proof": {
+      "cf": true,
+      "hf": true,
+      "oracle": false,
+      "github": true
+    },
+    "markets": [
+      "Moneyline",
+      "Run Line",
+      "Total"
+    ],
+    "notes": ""
+  },
+  {
+    "name": "Batery",
+    "url": "https://batery.bet",
+    "country": "Unknown",
+    "jurisdictions": [
+      "Unknown"
+    ],
+    "offer_types": [],
+    "scraper_status": "none",
+    "source": "optic_odds",
+    "status": "active",
+    "defunct": false,
+    "defunct_note": "",
+    "scraper_proof": {
+      "cf": false,
+      "hf": false,
+      "oracle": false,
+      "github": false
+    },
+    "markets": [],
+    "notes": ""
+  },
+  {
+    "name": "BC.GAME",
+    "url": "https://bc.game",
+    "country": "Unknown",
+    "jurisdictions": [
+      "Unknown"
+    ],
+    "offer_types": [],
+    "scraper_status": "none",
+    "source": "optic_odds",
+    "status": "active",
+    "defunct": false,
+    "defunct_note": "",
+    "scraper_proof": {
+      "cf": false,
+      "hf": false,
+      "oracle": false,
+      "github": false
+    },
+    "markets": [],
+    "notes": ""
+  },
+  {
+    "name": "bet105",
+    "url": "https://bet105.ag",
+    "country": "Unknown",
+    "jurisdictions": [
+      "Unknown"
+    ],
+    "offer_types": [],
+    "scraper_status": "none",
+    "source": "optic_odds",
+    "status": "active",
+    "defunct": false,
+    "defunct_note": "",
+    "scraper_proof": {
+      "cf": false,
+      "hf": false,
+      "oracle": false,
+      "github": false
+    },
+    "markets": [],
+    "notes": ""
+  },
+  {
+    "name": "bet365",
+    "url": "https://bet365.com",
+    "country": "Unknown",
+    "jurisdictions": [
+      "Unknown"
+    ],
+    "offer_types": [],
+    "scraper_status": "none",
+    "source": "optic_odds",
+    "status": "active",
+    "defunct": false,
+    "defunct_note": "",
+    "scraper_proof": {
+      "cf": false,
+      "hf": false,
+      "oracle": false,
+      "github": false
+    },
+    "markets": [],
+    "notes": ""
+  },
+  {
+    "name": "BET99",
+    "url": "https://bet99.ca",
+    "country": "Unknown",
+    "jurisdictions": [
+      "Unknown"
+    ],
+    "offer_types": [],
+    "scraper_status": "none",
+    "source": "optic_odds",
+    "status": "active",
+    "defunct": false,
+    "defunct_note": "",
+    "scraper_proof": {
+      "cf": false,
+      "hf": false,
+      "oracle": false,
+      "github": false
+    },
+    "markets": [],
+    "notes": ""
+  },
+  {
+    "name": "BetAmapola",
+    "url": "https://betamapola.com",
+    "country": "Unknown",
+    "jurisdictions": [
+      "Unknown"
+    ],
+    "offer_types": [],
+    "scraper_status": "none",
+    "source": "optic_odds",
+    "status": "active",
+    "defunct": false,
+    "defunct_note": "",
+    "scraper_proof": {
+      "cf": false,
+      "hf": false,
+      "oracle": false,
+      "github": false
+    },
+    "markets": [],
+    "notes": ""
+  },
+  {
+    "name": "Betano",
+    "url": "https://betano.com",
+    "country": "Unknown",
+    "jurisdictions": [
+      "Unknown"
+    ],
+    "offer_types": [],
+    "scraper_status": "none",
+    "source": "optic_odds",
+    "status": "active",
+    "defunct": false,
+    "defunct_note": "",
+    "scraper_proof": {
+      "cf": false,
+      "hf": false,
+      "oracle": false,
+      "github": false
+    },
+    "markets": [],
+    "notes": ""
+  },
+  {
+    "name": "Betano (Argentina)",
+    "url": "https://betano.com",
+    "country": "Unknown",
+    "jurisdictions": [
+      "Unknown"
+    ],
+    "offer_types": [],
+    "scraper_status": "none",
+    "source": "optic_odds",
+    "status": "active",
+    "defunct": false,
+    "defunct_note": "",
+    "scraper_proof": {
+      "cf": false,
+      "hf": false,
+      "oracle": false,
+      "github": false
+    },
+    "markets": [],
+    "notes": ""
+  },
+  {
+    "name": "Betano (Chile)",
+    "url": "https://betano.com",
+    "country": "Unknown",
+    "jurisdictions": [
+      "Unknown"
+    ],
+    "offer_types": [],
+    "scraper_status": "none",
+    "source": "optic_odds",
+    "status": "active",
+    "defunct": false,
+    "defunct_note": "",
+    "scraper_proof": {
+      "cf": false,
+      "hf": false,
+      "oracle": false,
+      "github": false
+    },
+    "markets": [],
+    "notes": ""
+  },
+  {
+    "name": "BetAnything",
+    "url": "https://betanything.com",
+    "country": "Unknown",
+    "jurisdictions": [
+      "BE"
+    ],
+    "offer_types": [],
+    "scraper_status": "built",
+    "source": "optic_odds",
+    "status": "active",
+    "defunct": false,
+    "defunct_note": "",
+    "scraper_proof": {
+      "cf": true,
+      "hf": true,
+      "oracle": true,
+      "github": true
+    },
+    "markets": [],
+    "notes": ""
+  },
+  {
+    "name": "BetCorrect",
+    "url": "https://betcorrect.com",
+    "country": "Unknown",
+    "jurisdictions": [
+      "Unknown"
+    ],
+    "offer_types": [],
+    "scraper_status": "none",
+    "source": "optic_odds",
+    "status": "active",
+    "defunct": false,
+    "defunct_note": "",
+    "scraper_proof": {
+      "cf": false,
+      "hf": false,
+      "oracle": false,
+      "github": false
+    },
+    "markets": [],
+    "notes": ""
+  },
+  {
+    "name": "Betcris",
+    "url": "https://betcris.com",
+    "country": "Unknown",
+    "jurisdictions": [
+      "Unknown"
+    ],
+    "offer_types": [],
+    "scraper_status": "none",
+    "source": "optic_odds",
+    "status": "active",
+    "defunct": false,
+    "defunct_note": "",
+    "scraper_proof": {
+      "cf": false,
+      "hf": false,
+      "oracle": false,
+      "github": false
+    },
+    "markets": [],
+    "notes": ""
+  },
+  {
+    "name": "BetDeluxe",
+    "url": "https://betdeluxe.com",
+    "country": "Unknown",
+    "jurisdictions": [
+      "Unknown"
+    ],
+    "offer_types": [],
+    "scraper_status": "none",
+    "source": "optic_odds",
+    "status": "active",
+    "defunct": false,
+    "defunct_note": "",
+    "scraper_proof": {
+      "cf": false,
+      "hf": false,
+      "oracle": false,
+      "github": false
+    },
+    "markets": [],
+    "notes": ""
+  },
+  {
+    "name": "BetDEX",
+    "url": "https://betdex.com",
+    "country": "Unknown",
+    "jurisdictions": [
+      "Unknown"
+    ],
+    "offer_types": [],
+    "scraper_status": "none",
+    "source": "optic_odds",
+    "status": "active",
+    "defunct": false,
+    "defunct_note": "",
+    "scraper_proof": {
+      "cf": false,
+      "hf": false,
+      "oracle": false,
+      "github": false
+    },
+    "markets": [],
+    "notes": ""
+  },
+  {
+    "name": "BetDSI",
+    "url": "https://betdsi.eu",
+    "country": "Unknown",
+    "jurisdictions": [
+      "Unknown"
+    ],
+    "offer_types": [],
+    "scraper_status": "none",
+    "source": "optic_odds",
+    "status": "active",
+    "defunct": false,
+    "defunct_note": "",
+    "scraper_proof": {
+      "cf": false,
+      "hf": false,
+      "oracle": false,
+      "github": false
+    },
+    "markets": [],
+    "notes": ""
+  },
+  {
+    "name": "Betfair",
+    "url": "https://betfair.com",
+    "country": "Unknown",
+    "jurisdictions": [
+      "Unknown"
+    ],
+    "offer_types": [],
+    "scraper_status": "none",
+    "source": "optic_odds",
+    "status": "active",
+    "defunct": false,
+    "defunct_note": "",
+    "scraper_proof": {
+      "cf": false,
+      "hf": false,
+      "oracle": false,
+      "github": false
+    },
+    "markets": [],
+    "notes": ""
+  },
+  {
+    "name": "Betfair Exchange",
+    "url": "https://betfair.com",
+    "country": "Unknown",
+    "jurisdictions": [
+      "Unknown"
+    ],
+    "offer_types": [],
+    "scraper_status": "none",
+    "source": "optic_odds",
+    "status": "active",
+    "defunct": false,
+    "defunct_note": "",
+    "scraper_proof": {
+      "cf": false,
+      "hf": false,
+      "oracle": false,
+      "github": false
+    },
+    "markets": [],
+    "notes": ""
+  },
+  {
+    "name": "Betfair Exchange (Australia)",
+    "url": "https://betfair.com",
+    "country": "Unknown",
+    "jurisdictions": [
+      "Unknown"
+    ],
+    "offer_types": [],
+    "scraper_status": "none",
+    "source": "optic_odds",
+    "status": "active",
+    "defunct": false,
+    "defunct_note": "",
+    "scraper_proof": {
+      "cf": false,
+      "hf": false,
+      "oracle": false,
+      "github": false
+    },
+    "markets": [],
+    "notes": ""
+  },
+  {
+    "name": "Betfair Exchange (Australia) (Lay)",
+    "url": "https://betfair.com",
+    "country": "Unknown",
+    "jurisdictions": [
+      "Unknown"
+    ],
+    "offer_types": [],
+    "scraper_status": "none",
+    "source": "optic_odds",
+    "status": "active",
+    "defunct": false,
+    "defunct_note": "",
+    "scraper_proof": {
+      "cf": false,
+      "hf": false,
+      "oracle": false,
+      "github": false
+    },
+    "markets": [],
+    "notes": ""
+  },
+  {
+    "name": "Betfair Exchange (Lay)",
+    "url": "https://betfair.com",
+    "country": "Unknown",
+    "jurisdictions": [
+      "Unknown"
+    ],
+    "offer_types": [],
+    "scraper_status": "none",
+    "source": "optic_odds",
+    "status": "active",
+    "defunct": false,
+    "defunct_note": "",
+    "scraper_proof": {
+      "cf": false,
+      "hf": false,
+      "oracle": false,
+      "github": false
+    },
+    "markets": [],
+    "notes": ""
+  },
+  {
+    "name": "BetGRW",
+    "url": "https://betgrw.com",
+    "country": "Unknown",
+    "jurisdictions": [
+      "Unknown"
+    ],
+    "offer_types": [],
+    "scraper_status": "none",
+    "source": "optic_odds",
+    "status": "active",
+    "defunct": false,
+    "defunct_note": "",
+    "scraper_proof": {
+      "cf": false,
+      "hf": false,
+      "oracle": false,
+      "github": false
+    },
+    "markets": [],
+    "notes": ""
+  },
+  {
+    "name": "betJACK",
+    "url": "https://betjack.com",
+    "country": "Unknown",
+    "jurisdictions": [
+      "Unknown"
+    ],
+    "offer_types": [],
+    "scraper_status": "none",
+    "source": "optic_odds",
+    "status": "active",
+    "defunct": false,
+    "defunct_note": "",
+    "scraper_proof": {
+      "cf": false,
+      "hf": false,
+      "oracle": false,
+      "github": false
+    },
+    "markets": [],
+    "notes": ""
+  },
+  {
+    "name": "BetMania",
+    "url": "https://betmania.com",
+    "country": "Unknown",
+    "jurisdictions": [
+      "Unknown"
+    ],
+    "offer_types": [],
+    "scraper_status": "none",
+    "source": "optic_odds",
+    "status": "active",
+    "defunct": false,
+    "defunct_note": "",
+    "scraper_proof": {
+      "cf": false,
+      "hf": false,
+      "oracle": false,
+      "github": false
+    },
+    "markets": [],
+    "notes": ""
+  },
+  {
+    "name": "BetMGM",
+    "url": "https://betmgm.com",
+    "country": "Unknown",
+    "jurisdictions": [
+      "US-AZ",
+      "US-CO",
+      "US-DC",
+      "US-IA",
+      "US-IL",
+      "US-IN",
+      "US-KS",
+      "US-KY",
+      "US-LA",
+      "US-MA",
+      "US-MD",
+      "US-MI",
+      "US-MO",
+      "US-NC",
+      "US-NJ",
+      "US-OH",
+      "US-PA",
+      "US-TN",
+      "US-VA",
+      "US-WV",
+      "US-WY"
+    ],
+    "offer_types": [
+      "Moneyline",
+      "Run Line",
+      "Total"
+    ],
+    "scraper_status": "built",
+    "source": "optic_odds",
+    "status": "active",
+    "defunct": false,
+    "defunct_note": "",
+    "scraper_proof": {
+      "cf": true,
+      "hf": true,
+      "oracle": false,
+      "github": true
+    },
+    "markets": [
+      "Moneyline",
+      "Run Line",
+      "Total"
+    ],
+    "notes": ""
+  },
+  {
+    "name": "BetMGM (UK)",
+    "url": "https://betmgm.co.uk",
+    "country": "Unknown",
+    "jurisdictions": [
+      "Unknown"
+    ],
+    "offer_types": [],
+    "scraper_status": "none",
+    "source": "optic_odds",
+    "status": "active",
+    "defunct": false,
+    "defunct_note": "",
+    "scraper_proof": {
+      "cf": false,
+      "hf": false,
+      "oracle": false,
+      "github": false
+    },
+    "markets": [],
+    "notes": ""
+  },
+  {
+    "name": "Betnacional",
+    "url": "https://betnacional.com",
+    "country": "Unknown",
+    "jurisdictions": [
+      "Unknown"
+    ],
+    "offer_types": [],
+    "scraper_status": "none",
+    "source": "optic_odds",
+    "status": "active",
+    "defunct": false,
+    "defunct_note": "",
+    "scraper_proof": {
+      "cf": false,
+      "hf": false,
+      "oracle": false,
+      "github": false
+    },
+    "markets": [],
+    "notes": ""
+  },
+  {
+    "name": "BetNation",
+    "url": "https://betnation.com",
+    "country": "Unknown",
+    "jurisdictions": [
+      "Unknown"
+    ],
+    "offer_types": [],
+    "scraper_status": "none",
+    "source": "optic_odds",
+    "status": "active",
+    "defunct": false,
+    "defunct_note": "",
+    "scraper_proof": {
+      "cf": false,
+      "hf": false,
+      "oracle": false,
+      "github": false
+    },
+    "markets": [],
+    "notes": ""
+  },
+  {
+    "name": "BetNation (Australia)",
+    "url": "https://betnation.com.au",
+    "country": "Unknown",
+    "jurisdictions": [
+      "Unknown"
+    ],
+    "offer_types": [],
+    "scraper_status": "none",
+    "source": "optic_odds",
+    "status": "active",
+    "defunct": false,
+    "defunct_note": "",
+    "scraper_proof": {
+      "cf": false,
+      "hf": false,
+      "oracle": false,
+      "github": false
+    },
+    "markets": [],
+    "notes": ""
+  },
+  {
+    "name": "BetNow",
+    "url": "https://betnow.eu",
+    "country": "Unknown",
+    "jurisdictions": [
+      "Unknown"
+    ],
+    "offer_types": [],
+    "scraper_status": "none",
+    "source": "optic_odds",
+    "status": "active",
+    "defunct": false,
+    "defunct_note": "",
+    "scraper_proof": {
+      "cf": false,
+      "hf": false,
+      "oracle": false,
+      "github": false
+    },
+    "markets": [],
+    "notes": ""
+  },
+  {
+    "name": "BetOnline",
+    "url": "https://betonline.ag",
+    "country": "Unknown",
+    "jurisdictions": [
+      "US",
+      "International"
+    ],
+    "offer_types": [],
+    "scraper_status": "built",
+    "source": "optic_odds",
+    "status": "active",
+    "defunct": false,
+    "defunct_note": "",
+    "scraper_proof": {
+      "cf": true,
+      "hf": true,
+      "oracle": true,
+      "github": true
+    },
+    "markets": [],
+    "notes": ""
+  },
+  {
+    "name": "BetOpenly",
+    "url": "https://betopenly.com",
+    "country": "Unknown",
+    "jurisdictions": [
+      "US"
+    ],
+    "offer_types": [],
+    "scraper_status": "built",
+    "source": "optic_odds",
+    "status": "active",
+    "defunct": false,
+    "defunct_note": "",
+    "scraper_proof": {
+      "cf": true,
+      "hf": true,
+      "oracle": true,
+      "github": true
+    },
+    "markets": [],
+    "notes": ""
+  },
+  {
+    "name": "betPARX",
+    "url": "https://betparx.com",
+    "country": "Unknown",
+    "jurisdictions": [
+      "US-PA",
+      "US-NJ",
+      "US-MI"
+    ],
+    "offer_types": [
+      "Moneyline",
+      "Run Line",
+      "Total"
+    ],
+    "scraper_status": "built",
+    "source": "optic_odds",
+    "status": "active",
+    "defunct": false,
+    "defunct_note": "",
+    "scraper_proof": {
+      "cf": true,
+      "hf": true,
+      "oracle": true,
+      "github": true
+    },
+    "markets": [
+      "Moneyline",
+      "Run Line",
+      "Total"
+    ],
+    "notes": ""
+  },
+  {
+    "name": "Betplay",
+    "url": "https://betplay.com",
+    "country": "Unknown",
+    "jurisdictions": [
+      "Unknown"
+    ],
+    "offer_types": [],
+    "scraper_status": "none",
+    "source": "optic_odds",
+    "status": "active",
+    "defunct": false,
+    "defunct_note": "",
+    "scraper_proof": {
+      "cf": false,
+      "hf": false,
+      "oracle": false,
+      "github": false
+    },
+    "markets": [],
+    "notes": ""
+  },
+  {
+    "name": "Betr",
+    "url": "https://betr.app",
+    "country": "Unknown",
+    "jurisdictions": [
+      "Unknown"
+    ],
+    "offer_types": [],
+    "scraper_status": "none",
+    "source": "optic_odds",
+    "status": "active",
+    "defunct": false,
+    "defunct_note": "",
+    "scraper_proof": {
+      "cf": false,
+      "hf": false,
+      "oracle": false,
+      "github": false
+    },
+    "markets": [],
+    "notes": ""
+  },
+  {
+    "name": "Betr (Australia)",
+    "url": "https://betr.com.au",
+    "country": "Unknown",
+    "jurisdictions": [
+      "AU"
+    ],
+    "offer_types": [
+      "Moneyline"
+    ],
+    "scraper_status": "built",
+    "source": "optic_odds",
+    "status": "active",
+    "defunct": false,
+    "defunct_note": "",
+    "scraper_proof": {
+      "cf": true,
+      "hf": true,
+      "oracle": true,
+      "github": true
+    },
+    "markets": [
+      "Moneyline"
+    ],
+    "notes": ""
+  },
+  {
+    "name": "BetRivers",
+    "url": "https://betrivers.com",
+    "country": "Unknown",
+    "jurisdictions": [
+      "US-MI",
+      "US-NJ",
+      "US-PA",
+      "US-WV"
+    ],
+    "offer_types": [
+      "Moneyline",
+      "Run Line",
+      "Total"
+    ],
+    "scraper_status": "built",
+    "source": "optic_odds",
+    "status": "active",
+    "defunct": false,
+    "defunct_note": "",
+    "scraper_proof": {
+      "cf": true,
+      "hf": true,
+      "oracle": true,
+      "github": true
+    },
+    "markets": [
+      "Moneyline",
+      "Run Line",
+      "Total"
+    ],
+    "notes": ""
+  },
+  {
+    "name": "BetRivers (New York)",
+    "url": "https://betrivers.com",
+    "country": "Unknown",
+    "jurisdictions": [
+      "Unknown"
+    ],
+    "offer_types": [],
+    "scraper_status": "none",
+    "source": "optic_odds",
+    "status": "active",
+    "defunct": false,
+    "defunct_note": "",
+    "scraper_proof": {
+      "cf": false,
+      "hf": false,
+      "oracle": false,
+      "github": false
+    },
+    "markets": [],
+    "notes": ""
+  },
+  {
+    "name": "Betr Picks",
+    "url": "https://betr.app",
+    "country": "Unknown",
+    "jurisdictions": [
+      "Unknown"
+    ],
+    "offer_types": [],
+    "scraper_status": "none",
+    "source": "optic_odds",
+    "status": "active",
+    "defunct": false,
+    "defunct_note": "",
+    "scraper_proof": {
+      "cf": false,
+      "hf": false,
+      "oracle": false,
+      "github": false
+    },
+    "markets": [],
+    "notes": ""
+  },
+  {
+    "name": "Betr Picks (All)",
+    "url": "https://betr.app",
+    "country": "Unknown",
+    "jurisdictions": [
+      "Unknown"
+    ],
+    "offer_types": [],
+    "scraper_status": "none",
+    "source": "optic_odds",
+    "status": "active",
+    "defunct": false,
+    "defunct_note": "",
+    "scraper_proof": {
+      "cf": false,
+      "hf": false,
+      "oracle": false,
+      "github": false
+    },
+    "markets": [],
+    "notes": ""
+  },
+  {
+    "name": "Betr Picks (BOOSTED)",
+    "url": "https://betr.app",
+    "country": "Unknown",
+    "jurisdictions": [
+      "Unknown"
+    ],
+    "offer_types": [],
+    "scraper_status": "none",
+    "source": "optic_odds",
+    "status": "active",
+    "defunct": false,
+    "defunct_note": "",
+    "scraper_proof": {
+      "cf": false,
+      "hf": false,
+      "oracle": false,
+      "github": false
+    },
+    "markets": [],
+    "notes": ""
+  },
+  {
+    "name": "Betsafe",
+    "url": "https://betsafe.com",
+    "country": "Unknown",
+    "jurisdictions": [
+      "Unknown"
+    ],
+    "offer_types": [],
+    "scraper_status": "none",
+    "source": "optic_odds",
+    "status": "active",
+    "defunct": false,
+    "defunct_note": "",
+    "scraper_proof": {
+      "cf": false,
+      "hf": false,
+      "oracle": false,
+      "github": false
+    },
+    "markets": [],
+    "notes": ""
+  },
+  {
+    "name": "Bets IO",
+    "url": "https://bets.io",
+    "country": "Unknown",
+    "jurisdictions": [
+      "Unknown"
+    ],
+    "offer_types": [],
+    "scraper_status": "none",
+    "source": "optic_odds",
+    "status": "active",
+    "defunct": false,
+    "defunct_note": "",
+    "scraper_proof": {
+      "cf": false,
+      "hf": false,
+      "oracle": false,
+      "github": false
+    },
+    "markets": [],
+    "notes": ""
+  },
+  {
+    "name": "Betsson",
+    "url": "https://betsson.com",
+    "country": "Unknown",
+    "jurisdictions": [
+      "SE",
+      "EU",
+      "International"
+    ],
+    "offer_types": [],
+    "scraper_status": "built",
+    "source": "optic_odds",
+    "status": "active",
+    "defunct": false,
+    "defunct_note": "",
+    "scraper_proof": {
+      "cf": true,
+      "hf": true,
+      "oracle": true,
+      "github": true
+    },
+    "markets": [],
+    "notes": ""
+  },
+  {
+    "name": "Betsson (Chile)",
+    "url": "https://betsson.com",
+    "country": "Unknown",
+    "jurisdictions": [
+      "Unknown"
+    ],
+    "offer_types": [],
+    "scraper_status": "none",
+    "source": "optic_odds",
+    "status": "active",
+    "defunct": false,
+    "defunct_note": "",
+    "scraper_proof": {
+      "cf": false,
+      "hf": false,
+      "oracle": false,
+      "github": false
+    },
+    "markets": [],
+    "notes": ""
+  },
+  {
+    "name": "BetUS",
+    "url": "https://betus.com",
+    "country": "Unknown",
+    "jurisdictions": [
+      "Unknown"
+    ],
+    "offer_types": [],
+    "scraper_status": "none",
+    "source": "optic_odds",
+    "status": "active",
+    "defunct": false,
+    "defunct_note": "",
+    "scraper_proof": {
+      "cf": false,
+      "hf": false,
+      "oracle": false,
+      "github": false
+    },
+    "markets": [],
+    "notes": ""
+  },
+  {
+    "name": "BetVictor",
+    "url": "https://betvictor.com",
+    "country": "Unknown",
+    "jurisdictions": [
+      "Unknown"
+    ],
+    "offer_types": [],
+    "scraper_status": "none",
+    "source": "optic_odds",
+    "status": "active",
+    "defunct": false,
+    "defunct_note": "",
+    "scraper_proof": {
+      "cf": false,
+      "hf": false,
+      "oracle": false,
+      "github": false
+    },
+    "markets": [],
+    "notes": ""
+  },
+  {
+    "name": "Betway",
+    "url": "https://betway.com",
+    "country": "Unknown",
+    "jurisdictions": [
+      "UK",
+      "EU",
+      "International"
+    ],
+    "offer_types": [
+      "Moneyline",
+      "Run Line",
+      "Total"
+    ],
+    "scraper_status": "built",
+    "source": "optic_odds",
+    "status": "active",
+    "defunct": false,
+    "defunct_note": "",
+    "scraper_proof": {
+      "cf": true,
+      "hf": true,
+      "oracle": true,
+      "github": true
+    },
+    "markets": [
+      "Moneyline",
+      "Run Line",
+      "Total"
+    ],
+    "notes": ""
+  },
+  {
+    "name": "Betway (Alaska)",
+    "url": "https://betway.com",
+    "country": "Unknown",
+    "jurisdictions": [
+      "Unknown"
+    ],
+    "offer_types": [],
+    "scraper_status": "none",
+    "source": "optic_odds",
+    "status": "active",
+    "defunct": false,
+    "defunct_note": "",
+    "scraper_proof": {
+      "cf": false,
+      "hf": false,
+      "oracle": false,
+      "github": false
+    },
+    "markets": [],
+    "notes": ""
+  },
+  {
+    "name": "betwhale",
+    "url": "https://betwhale.ag",
+    "country": "Unknown",
+    "jurisdictions": [
+      "Unknown"
+    ],
+    "offer_types": [],
+    "scraper_status": "none",
+    "source": "optic_odds",
+    "status": "active",
+    "defunct": false,
+    "defunct_note": "",
+    "scraper_proof": {
+      "cf": false,
+      "hf": false,
+      "oracle": false,
+      "github": false
+    },
+    "markets": [],
+    "notes": ""
+  },
+  {
+    "name": "Bodog",
+    "url": "https://bodog.eu",
+    "country": "Unknown",
+    "jurisdictions": [
+      "Unknown"
+    ],
+    "offer_types": [],
+    "scraper_status": "none",
+    "source": "optic_odds",
+    "status": "active",
+    "defunct": false,
+    "defunct_note": "",
+    "scraper_proof": {
+      "cf": false,
+      "hf": false,
+      "oracle": false,
+      "github": false
+    },
+    "markets": [],
+    "notes": ""
+  },
+  {
+    "name": "BookMaker",
+    "url": "https://bookmaker.eu",
+    "country": "Unknown",
+    "jurisdictions": [
+      "Unknown"
+    ],
+    "offer_types": [],
+    "scraper_status": "none",
+    "source": "optic_odds",
+    "status": "active",
+    "defunct": false,
+    "defunct_note": "",
+    "scraper_proof": {
+      "cf": false,
+      "hf": false,
+      "oracle": false,
+      "github": false
+    },
+    "markets": [],
+    "notes": ""
+  },
+  {
+    "name": "Boomers",
+    "url": "https://boomers.bet",
+    "country": "Unknown",
+    "jurisdictions": [
+      "Unknown"
+    ],
+    "offer_types": [],
+    "scraper_status": "none",
+    "source": "optic_odds",
+    "status": "active",
+    "defunct": false,
+    "defunct_note": "",
+    "scraper_proof": {
+      "cf": false,
+      "hf": false,
+      "oracle": false,
+      "github": false
+    },
+    "markets": [],
+    "notes": ""
+  },
+  {
+    "name": "Boom Fantasy (5 Pick Insured)",
+    "url": "https://boomfantasy.com",
+    "country": "Unknown",
+    "jurisdictions": [
+      "Unknown"
+    ],
+    "offer_types": [],
+    "scraper_status": "none",
+    "source": "optic_odds",
+    "status": "active",
+    "defunct": false,
+    "defunct_note": "",
+    "scraper_proof": {
+      "cf": false,
+      "hf": false,
+      "oracle": false,
+      "github": false
+    },
+    "markets": [],
+    "notes": ""
+  },
+  {
+    "name": "Borgata",
+    "url": "https://www.borgataonline.com/en/sports",
+    "country": "Unknown",
+    "jurisdictions": [
+      "Unknown"
+    ],
+    "offer_types": [],
+    "scraper_status": "none",
+    "source": "optic_odds",
+    "status": "active",
+    "defunct": false,
+    "defunct_note": "",
+    "scraper_proof": {
+      "cf": false,
+      "hf": false,
+      "oracle": false,
+      "github": false
+    },
+    "markets": [],
+    "notes": ""
+  },
+  {
+    "name": "Bovada",
+    "url": "https://bovada.lv",
+    "country": "Unknown",
+    "jurisdictions": [
+      "US",
+      "International"
+    ],
+    "offer_types": [
+      "Moneyline",
+      "Run Line",
+      "Spread",
+      "Total"
+    ],
+    "scraper_status": "built",
+    "source": "optic_odds",
+    "status": "active",
+    "defunct": false,
+    "defunct_note": "",
+    "scraper_proof": {
+      "cf": true,
+      "hf": true,
+      "oracle": true,
+      "github": true
+    },
+    "markets": [
+      "Moneyline",
+      "Run Line",
+      "Spread",
+      "Total"
+    ],
+    "notes": ""
+  },
+  {
+    "name": "Boyle Sports",
+    "url": "https://boylesports.com",
+    "country": "Unknown",
+    "jurisdictions": [
+      "Unknown"
+    ],
+    "offer_types": [],
+    "scraper_status": "none",
+    "source": "optic_odds",
+    "status": "active",
+    "defunct": false,
+    "defunct_note": "",
+    "scraper_proof": {
+      "cf": false,
+      "hf": false,
+      "oracle": false,
+      "github": false
+    },
+    "markets": [],
+    "notes": ""
+  },
+  {
+    "name": "Bracco",
+    "url": "https://bracco.bet",
+    "country": "Unknown",
+    "jurisdictions": [
+      "Unknown"
+    ],
+    "offer_types": [],
+    "scraper_status": "none",
+    "source": "optic_odds",
+    "status": "active",
+    "defunct": false,
+    "defunct_note": "",
+    "scraper_proof": {
+      "cf": false,
+      "hf": false,
+      "oracle": false,
+      "github": false
+    },
+    "markets": [],
+    "notes": ""
+  },
+  {
+    "name": "bwin",
+    "url": "https://bwin.com",
+    "country": "Unknown",
+    "jurisdictions": [
+      "Unknown"
+    ],
+    "offer_types": [],
+    "scraper_status": "none",
+    "source": "optic_odds",
+    "status": "active",
+    "defunct": false,
+    "defunct_note": "",
+    "scraper_proof": {
+      "cf": false,
+      "hf": false,
+      "oracle": false,
+      "github": false
+    },
+    "markets": [],
+    "notes": ""
+  },
+  {
+    "name": "Caesars",
+    "url": "https://caesars.com",
+    "country": "Unknown",
+    "jurisdictions": [
+      "Unknown"
+    ],
+    "offer_types": [],
+    "scraper_status": "none",
+    "source": "optic_odds",
+    "status": "active",
+    "defunct": false,
+    "defunct_note": "",
+    "scraper_proof": {
+      "cf": false,
+      "hf": false,
+      "oracle": false,
+      "github": false
+    },
+    "markets": [],
+    "notes": ""
+  },
+  {
+    "name": "Campeonbet",
+    "url": "https://campeonbet.com",
+    "defunct": true,
+    "defunct_note": "Permanently closed - ceased operations",
+    "country": "Unknown",
+    "jurisdictions": [
+      "Unknown"
+    ],
+    "offer_types": [],
+    "scraper_status": "none",
+    "source": "optic_odds",
+    "status": "active",
+    "scraper_proof": {
+      "cf": false,
+      "hf": false,
+      "oracle": false,
+      "github": false
+    },
+    "markets": [],
+    "notes": ""
+  },
+  {
+    "name": "CampoBet",
+    "url": "https://campobet.com",
+    "country": "Unknown",
+    "jurisdictions": [
+      "Unknown"
+    ],
+    "offer_types": [],
+    "scraper_status": "none",
+    "source": "optic_odds",
+    "status": "active",
+    "defunct": false,
+    "defunct_note": "",
+    "scraper_proof": {
+      "cf": false,
+      "hf": false,
+      "oracle": false,
+      "github": false
+    },
+    "markets": [],
+    "notes": ""
+  },
+  {
+    "name": "Casumo",
+    "url": "https://casumo.com",
+    "country": "Unknown",
+    "jurisdictions": [
+      "Unknown"
+    ],
+    "offer_types": [],
+    "scraper_status": "none",
+    "source": "optic_odds",
+    "status": "active",
+    "defunct": false,
+    "defunct_note": "",
+    "scraper_proof": {
+      "cf": false,
+      "hf": false,
+      "oracle": false,
+      "github": false
+    },
+    "markets": [],
+    "notes": ""
+  },
+  {
+    "name": "Circa Sports",
+    "url": "https://circasports.com",
+    "country": "Unknown",
+    "jurisdictions": [
+      "Unknown"
+    ],
+    "offer_types": [],
+    "scraper_status": "none",
+    "source": "optic_odds",
+    "status": "active",
+    "defunct": false,
+    "defunct_note": "",
+    "scraper_proof": {
+      "cf": false,
+      "hf": false,
+      "oracle": false,
+      "github": false
+    },
+    "markets": [],
+    "notes": ""
+  },
+  {
+    "name": "Circa Vegas",
+    "url": "https://circavegas.com",
+    "country": "Unknown",
+    "jurisdictions": [
+      "Unknown"
+    ],
+    "offer_types": [],
+    "scraper_status": "none",
+    "source": "optic_odds",
+    "status": "active",
+    "defunct": false,
+    "defunct_note": "",
+    "scraper_proof": {
+      "cf": false,
+      "hf": false,
+      "oracle": false,
+      "github": false
+    },
+    "markets": [],
+    "notes": ""
+  },
+  {
+    "name": "Codere",
+    "url": "https://codere.com",
+    "country": "Unknown",
+    "jurisdictions": [
+      "Unknown"
+    ],
+    "offer_types": [],
+    "scraper_status": "none",
+    "source": "optic_odds",
+    "status": "active",
+    "defunct": false,
+    "defunct_note": "",
+    "scraper_proof": {
+      "cf": false,
+      "hf": false,
+      "oracle": false,
+      "github": false
+    },
+    "markets": [],
+    "notes": ""
+  },
+  {
+    "name": "Coolbet",
+    "url": "https://coolbet.com",
+    "country": "Unknown",
+    "jurisdictions": [
+      "Unknown"
+    ],
+    "offer_types": [],
+    "scraper_status": "none",
+    "source": "optic_odds",
+    "status": "active",
+    "defunct": false,
+    "defunct_note": "",
+    "scraper_proof": {
+      "cf": false,
+      "hf": false,
+      "oracle": false,
+      "github": false
+    },
+    "markets": [],
+    "notes": ""
+  },
+  {
+    "name": "Coral",
+    "url": "https://coral.co.uk",
+    "country": "Unknown",
+    "jurisdictions": [
+      "UK"
+    ],
+    "offer_types": [
+      "Moneyline",
+      "Total"
+    ],
+    "scraper_status": "built",
+    "source": "optic_odds",
+    "status": "active",
+    "defunct": false,
+    "defunct_note": "",
+    "scraper_proof": {
+      "cf": true,
+      "hf": true,
+      "oracle": false,
+      "github": true
+    },
+    "markets": [
+      "Moneyline",
+      "Total"
+    ],
+    "notes": ""
+  },
+  {
+    "name": "Courtside",
+    "url": "https://courtside.com",
+    "country": "Unknown",
+    "jurisdictions": [
+      "Unknown"
+    ],
+    "offer_types": [],
+    "scraper_status": "none",
+    "source": "optic_odds",
+    "status": "active",
+    "defunct": false,
+    "defunct_note": "",
+    "scraper_proof": {
+      "cf": false,
+      "hf": false,
+      "oracle": false,
+      "github": false
+    },
+    "markets": [],
+    "notes": ""
+  },
+  {
+    "name": "Crab Sports",
+    "url": "https://crabsports.com",
+    "country": "Unknown",
+    "jurisdictions": [
+      "Unknown"
+    ],
+    "offer_types": [],
+    "scraper_status": "none",
+    "source": "optic_odds",
+    "status": "active",
+    "defunct": false,
+    "defunct_note": "",
+    "scraper_proof": {
+      "cf": false,
+      "hf": false,
+      "oracle": false,
+      "github": false
+    },
+    "markets": [],
+    "notes": ""
+  },
+  {
+    "name": "crypto.com",
+    "url": "https://crypto.com",
+    "country": "Unknown",
+    "jurisdictions": [
+      "Unknown"
+    ],
+    "offer_types": [],
+    "scraper_status": "none",
+    "source": "optic_odds",
+    "status": "active",
+    "defunct": false,
+    "defunct_note": "",
+    "scraper_proof": {
+      "cf": false,
+      "hf": false,
+      "oracle": false,
+      "github": false
+    },
+    "markets": [],
+    "notes": ""
+  },
+  {
+    "name": "Dabble (3 or 5 Pick)",
+    "url": "https://dabble.com",
+    "country": "Unknown",
+    "jurisdictions": [
+      "Unknown"
+    ],
+    "offer_types": [],
+    "scraper_status": "none",
+    "source": "optic_odds",
+    "status": "active",
+    "defunct": false,
+    "defunct_note": "",
+    "scraper_proof": {
+      "cf": false,
+      "hf": false,
+      "oracle": false,
+      "github": false
+    },
+    "markets": [],
+    "notes": ""
+  },
+  {
+    "name": "Dabble (3 or 5 Pick Multipliers)",
+    "url": "https://dabble.com",
+    "country": "Unknown",
+    "jurisdictions": [
+      "Unknown"
+    ],
+    "offer_types": [],
+    "scraper_status": "none",
+    "source": "optic_odds",
+    "status": "active",
+    "defunct": false,
+    "defunct_note": "",
+    "scraper_proof": {
+      "cf": false,
+      "hf": false,
+      "oracle": false,
+      "github": false
+    },
+    "markets": [],
+    "notes": ""
+  },
+  {
+    "name": "Dabble (Australia)",
+    "url": "https://dabble.com.au",
+    "country": "Unknown",
+    "jurisdictions": [
+      "Unknown"
+    ],
+    "offer_types": [],
+    "scraper_status": "none",
+    "source": "optic_odds",
+    "status": "active",
+    "defunct": false,
+    "defunct_note": "",
+    "scraper_proof": {
+      "cf": false,
+      "hf": false,
+      "oracle": false,
+      "github": false
+    },
+    "markets": [],
+    "notes": ""
+  },
+  {
+    "name": "Dafabet",
+    "url": "https://dafabet.com",
+    "country": "Unknown",
+    "jurisdictions": [
+      "Unknown"
+    ],
+    "offer_types": [],
+    "scraper_status": "none",
+    "source": "optic_odds",
+    "status": "active",
+    "defunct": false,
+    "defunct_note": "",
+    "scraper_proof": {
+      "cf": false,
+      "hf": false,
+      "oracle": false,
+      "github": false
+    },
+    "markets": [],
+    "notes": ""
+  },
+  {
+    "name": "Danske Spil",
+    "url": "https://dansk-spil.dk",
+    "country": "Unknown",
+    "jurisdictions": [
+      "Unknown"
+    ],
+    "offer_types": [],
+    "scraper_status": "none",
+    "source": "optic_odds",
+    "status": "active",
+    "defunct": false,
+    "defunct_note": "",
+    "scraper_proof": {
+      "cf": false,
+      "hf": false,
+      "oracle": false,
+      "github": false
+    },
+    "markets": [],
+    "notes": ""
+  },
+  {
+    "name": "DAZN Bet",
+    "url": "https://daznbet.com",
+    "country": "Unknown",
+    "jurisdictions": [
+      "Unknown"
+    ],
+    "offer_types": [],
+    "scraper_status": "none",
+    "source": "optic_odds",
+    "status": "active",
+    "defunct": false,
+    "defunct_note": "",
+    "scraper_proof": {
+      "cf": false,
+      "hf": false,
+      "oracle": false,
+      "github": false
+    },
+    "markets": [],
+    "notes": ""
+  },
+  {
+    "name": "Desert Diamond",
+    "url": "https://desertdiamondcasino.com",
+    "country": "Unknown",
+    "jurisdictions": [
+      "Unknown"
+    ],
+    "offer_types": [],
+    "scraper_status": "none",
+    "source": "optic_odds",
+    "status": "active",
+    "defunct": false,
+    "defunct_note": "",
+    "scraper_proof": {
+      "cf": false,
+      "hf": false,
+      "oracle": false,
+      "github": false
+    },
+    "markets": [],
+    "notes": ""
+  },
+  {
+    "name": "Dogg House",
+    "url": "https://dogghouse.com",
+    "country": "Unknown",
+    "jurisdictions": [
+      "Unknown"
+    ],
+    "offer_types": [],
+    "scraper_status": "none",
+    "source": "optic_odds",
+    "status": "active",
+    "defunct": false,
+    "defunct_note": "",
+    "scraper_proof": {
+      "cf": false,
+      "hf": false,
+      "oracle": false,
+      "github": false
+    },
+    "markets": [],
+    "notes": ""
+  },
+  {
+    "name": "DraftKings",
+    "url": "https://draftkings.com",
+    "country": "Unknown",
+    "jurisdictions": [
+      "US"
+    ],
+    "offer_types": [
+      "Moneyline",
+      "Run Line",
+      "Total"
+    ],
+    "scraper_status": "built",
+    "source": "optic_odds",
+    "status": "active",
+    "defunct": false,
+    "defunct_note": "",
+    "scraper_proof": {
+      "cf": false,
+      "hf": true,
+      "oracle": true,
+      "github": true
+    },
+    "markets": [
+      "Moneyline",
+      "Run Line",
+      "Total",
+      "Props",
+      "Futures"
+    ],
+    "notes": ""
+  },
+  {
+    "name": "DraftKings (Pick 2)",
+    "url": "https://draftkings.com",
+    "country": "Unknown",
+    "jurisdictions": [
+      "Unknown"
+    ],
+    "offer_types": [],
+    "scraper_status": "none",
+    "source": "optic_odds",
+    "status": "active",
+    "defunct": false,
+    "defunct_note": "",
+    "scraper_proof": {
+      "cf": false,
+      "hf": false,
+      "oracle": false,
+      "github": false
+    },
+    "markets": [],
+    "notes": ""
+  },
+  {
+    "name": "DraftKings (Pick 3)",
+    "url": "https://draftkings.com",
+    "country": "Unknown",
+    "jurisdictions": [
+      "Unknown"
+    ],
+    "offer_types": [],
+    "scraper_status": "none",
+    "source": "optic_odds",
+    "status": "active",
+    "defunct": false,
+    "defunct_note": "",
+    "scraper_proof": {
+      "cf": false,
+      "hf": false,
+      "oracle": false,
+      "github": false
+    },
+    "markets": [],
+    "notes": ""
+  },
+  {
+    "name": "DraftKings (Pick 6)",
+    "url": "https://draftkings.com",
+    "country": "Unknown",
+    "jurisdictions": [
+      "US"
+    ],
+    "offer_types": [],
+    "scraper_status": "built",
+    "source": "optic_odds",
+    "status": "active",
+    "defunct": false,
+    "defunct_note": "",
+    "scraper_proof": {
+      "cf": true,
+      "hf": true,
+      "oracle": true,
+      "github": true
+    },
+    "markets": [],
+    "notes": ""
+  },
+  {
+    "name": "DraftKings (Pick 6 Multipliers)",
+    "url": "https://draftkings.com",
+    "country": "Unknown",
+    "jurisdictions": [
+      "Unknown"
+    ],
+    "offer_types": [],
+    "scraper_status": "none",
+    "source": "optic_odds",
+    "status": "active",
+    "defunct": false,
+    "defunct_note": "",
+    "scraper_proof": {
+      "cf": false,
+      "hf": false,
+      "oracle": false,
+      "github": false
+    },
+    "markets": [],
+    "notes": ""
+  },
+  {
+    "name": "DraftKings Predictions",
+    "url": "https://draftkings.com",
+    "country": "Unknown",
+    "jurisdictions": [
+      "Unknown"
+    ],
+    "offer_types": [],
+    "scraper_status": "none",
+    "source": "optic_odds",
+    "status": "active",
+    "defunct": false,
+    "defunct_note": "",
+    "scraper_proof": {
+      "cf": false,
+      "hf": false,
+      "oracle": false,
+      "github": false
+    },
+    "markets": [],
+    "notes": ""
+  },
+  {
+    "name": "Elite Bet",
+    "url": "https://elite-bet.com",
+    "country": "Unknown",
+    "jurisdictions": [
+      "Unknown"
+    ],
+    "offer_types": [],
+    "scraper_status": "none",
+    "source": "optic_odds",
+    "status": "active",
+    "defunct": false,
+    "defunct_note": "",
+    "scraper_proof": {
+      "cf": false,
+      "hf": false,
+      "oracle": false,
+      "github": false
+    },
+    "markets": [],
+    "notes": ""
+  },
+  {
+    "name": "EPICK",
+    "url": "https://epick.com",
+    "country": "Unknown",
+    "jurisdictions": [
+      "Unknown"
+    ],
+    "offer_types": [],
+    "scraper_status": "none",
+    "source": "optic_odds",
+    "status": "active",
+    "defunct": false,
+    "defunct_note": "",
+    "scraper_proof": {
+      "cf": false,
+      "hf": false,
+      "oracle": false,
+      "github": false
+    },
+    "markets": [],
+    "notes": ""
+  },
+  {
+    "name": "EPICK 50/50",
+    "url": "https://epick.com",
+    "country": "Unknown",
+    "jurisdictions": [
+      "Unknown"
+    ],
+    "offer_types": [],
+    "scraper_status": "none",
+    "source": "optic_odds",
+    "status": "active",
+    "defunct": false,
+    "defunct_note": "",
+    "scraper_proof": {
+      "cf": false,
+      "hf": false,
+      "oracle": false,
+      "github": false
+    },
+    "markets": [],
+    "notes": ""
+  },
+  {
+    "name": "Eurobet",
+    "url": "https://eurobet.it",
+    "country": "Unknown",
+    "jurisdictions": [
+      "Unknown"
+    ],
+    "offer_types": [],
+    "scraper_status": "none",
+    "source": "optic_odds",
+    "status": "active",
+    "defunct": false,
+    "defunct_note": "",
+    "scraper_proof": {
+      "cf": false,
+      "hf": false,
+      "oracle": false,
+      "github": false
+    },
+    "markets": [],
+    "notes": ""
+  },
+  {
+    "name": "Everygame",
+    "url": "https://everygame.com",
+    "country": "Unknown",
+    "jurisdictions": [
+      "US",
+      "International"
+    ],
+    "offer_types": [],
+    "scraper_status": "built",
+    "source": "optic_odds",
+    "status": "active",
+    "defunct": false,
+    "defunct_note": "",
+    "scraper_proof": {
+      "cf": true,
+      "hf": true,
+      "oracle": true,
+      "github": true
+    },
+    "markets": [],
+    "notes": ""
+  },
+  {
+    "name": "Fanatics",
+    "url": "https://fanatics.com",
+    "country": "Unknown",
+    "jurisdictions": [
+      "US-AZ",
+      "US-CO",
+      "US-CT",
+      "US-DC",
+      "US-IA",
+      "US-IL",
+      "US-IN",
+      "US-KS",
+      "US-KY",
+      "US-LA",
+      "US-MA",
+      "US-MD",
+      "US-MI",
+      "US-MO",
+      "US-NC",
+      "US-NJ",
+      "US-NY",
+      "US-OH",
+      "US-PA",
+      "US-TN",
+      "US-VA",
+      "US-VT",
+      "US-WV",
+      "US-WY"
+    ],
+    "offer_types": [],
+    "scraper_status": "built",
+    "source": "optic_odds",
+    "status": "active",
+    "defunct": false,
+    "defunct_note": "",
+    "scraper_proof": {
+      "cf": false,
+      "hf": true,
+      "oracle": true,
+      "github": true
+    },
+    "markets": [],
+    "notes": ""
+  },
+  {
+    "name": "Fanatics Markets",
+    "url": "https://fanatics.com",
+    "country": "Unknown",
+    "jurisdictions": [
+      "US"
+    ],
+    "offer_types": [],
+    "scraper_status": "built",
+    "source": "optic_odds",
+    "status": "active",
+    "defunct": false,
+    "defunct_note": "",
+    "scraper_proof": {
+      "cf": false,
+      "hf": true,
+      "oracle": true,
+      "github": true
+    },
+    "markets": [],
+    "notes": ""
+  },
+  {
+    "name": "FireKeepers",
+    "url": "https://firekeepers.com",
+    "country": "Unknown",
+    "jurisdictions": [
+      "Unknown"
+    ],
+    "offer_types": [],
+    "scraper_status": "none",
+    "source": "optic_odds",
+    "status": "active",
+    "defunct": false,
+    "defunct_note": "",
+    "scraper_proof": {
+      "cf": false,
+      "hf": false,
+      "oracle": false,
+      "github": false
+    },
+    "markets": [],
+    "notes": ""
+  },
+  {
+    "name": "Fliff",
+    "url": "https://getfliff.com",
+    "country": "Unknown",
+    "jurisdictions": [
+      "US"
+    ],
+    "offer_types": [
+      "Moneyline",
+      "Run Line",
+      "Total"
+    ],
+    "scraper_status": "built",
+    "source": "optic_odds",
+    "status": "active",
+    "defunct": false,
+    "defunct_note": "",
+    "scraper_proof": {
+      "cf": true,
+      "hf": true,
+      "oracle": true,
+      "github": true
+    },
+    "markets": [
+      "Moneyline",
+      "Run Line",
+      "Total"
+    ],
+    "notes": ""
+  },
+  {
+    "name": "Fliff Superstars",
+    "url": "https://getfliff.com",
+    "country": "Unknown",
+    "jurisdictions": [
+      "Unknown"
+    ],
+    "offer_types": [],
+    "scraper_status": "none",
+    "source": "optic_odds",
+    "status": "active",
+    "defunct": false,
+    "defunct_note": "",
+    "scraper_proof": {
+      "cf": false,
+      "hf": false,
+      "oracle": false,
+      "github": false
+    },
+    "markets": [],
+    "notes": ""
+  },
+  {
+    "name": "Fonbet",
+    "url": "https://fonbet.com",
+    "country": "Unknown",
+    "jurisdictions": [
+      "Unknown"
+    ],
+    "offer_types": [],
+    "scraper_status": "none",
+    "source": "optic_odds",
+    "status": "active",
+    "defunct": false,
+    "defunct_note": "",
+    "scraper_proof": {
+      "cf": false,
+      "hf": false,
+      "oracle": false,
+      "github": false
+    },
+    "markets": [],
+    "notes": ""
+  },
+  {
+    "name": "Four Winds",
+    "url": "https://fourwinds.com",
+    "country": "Unknown",
+    "jurisdictions": [
+      "Unknown"
+    ],
+    "offer_types": [],
+    "scraper_status": "none",
+    "source": "optic_odds",
+    "status": "active",
+    "defunct": false,
+    "defunct_note": "",
+    "scraper_proof": {
+      "cf": false,
+      "hf": false,
+      "oracle": false,
+      "github": false
+    },
+    "markets": [],
+    "notes": ""
+  },
+  {
+    "name": "Galera.bet",
+    "url": "https://galera.bet",
+    "country": "Unknown",
+    "jurisdictions": [
+      "Unknown"
+    ],
+    "offer_types": [],
+    "scraper_status": "none",
+    "source": "optic_odds",
+    "status": "active",
+    "defunct": false,
+    "defunct_note": "",
+    "scraper_proof": {
+      "cf": false,
+      "hf": false,
+      "oracle": false,
+      "github": false
+    },
+    "markets": [],
+    "notes": ""
+  },
+  {
+    "name": "GGBet",
+    "url": "https://ggbet.com",
+    "country": "Unknown",
+    "jurisdictions": [
+      "Unknown"
+    ],
+    "offer_types": [],
+    "scraper_status": "none",
+    "source": "optic_odds",
+    "status": "active",
+    "defunct": false,
+    "defunct_note": "",
+    "scraper_proof": {
+      "cf": false,
+      "hf": false,
+      "oracle": false,
+      "github": false
+    },
+    "markets": [],
+    "notes": ""
+  },
+  {
+    "name": "Goldbet",
+    "url": "https://goldbet.it",
+    "country": "Unknown",
+    "jurisdictions": [
+      "Unknown"
+    ],
+    "offer_types": [],
+    "scraper_status": "none",
+    "source": "optic_odds",
+    "status": "active",
+    "defunct": false,
+    "defunct_note": "",
+    "scraper_proof": {
+      "cf": false,
+      "hf": false,
+      "oracle": false,
+      "github": false
+    },
+    "markets": [],
+    "notes": ""
+  },
+  {
+    "name": "Granawin",
+    "url": "https://granawin.com",
+    "country": "Unknown",
+    "jurisdictions": [
+      "Unknown"
+    ],
+    "offer_types": [],
+    "scraper_status": "none",
+    "source": "optic_odds",
+    "status": "active",
+    "defunct": false,
+    "defunct_note": "",
+    "scraper_proof": {
+      "cf": false,
+      "hf": false,
+      "oracle": false,
+      "github": false
+    },
+    "markets": [],
+    "notes": ""
+  },
+  {
+    "name": "Heritage",
+    "url": "https://heritage.com",
+    "country": "Unknown",
+    "jurisdictions": [
+      "Unknown"
+    ],
+    "offer_types": [],
+    "scraper_status": "none",
+    "source": "optic_odds",
+    "status": "active",
+    "defunct": false,
+    "defunct_note": "",
+    "scraper_proof": {
+      "cf": false,
+      "hf": false,
+      "oracle": false,
+      "github": false
+    },
+    "markets": [],
+    "notes": ""
+  },
+  {
+    "name": "HotStreak",
+    "url": "https://hotstreak.com",
+    "country": "Unknown",
+    "jurisdictions": [
+      "Unknown"
+    ],
+    "offer_types": [],
+    "scraper_status": "none",
+    "source": "optic_odds",
+    "status": "active",
+    "defunct": false,
+    "defunct_note": "",
+    "scraper_proof": {
+      "cf": false,
+      "hf": false,
+      "oracle": false,
+      "github": false
+    },
+    "markets": [],
+    "notes": ""
+  },
+  {
+    "name": "iBet",
+    "url": "https://ibet.com",
+    "country": "Unknown",
+    "jurisdictions": [
+      "Unknown"
+    ],
+    "offer_types": [],
+    "scraper_status": "none",
+    "source": "optic_odds",
+    "status": "active",
+    "defunct": false,
+    "defunct_note": "",
+    "scraper_proof": {
+      "cf": false,
+      "hf": false,
+      "oracle": false,
+      "github": false
+    },
+    "markets": [],
+    "notes": ""
+  },
+  {
+    "name": "Jackpot.bet",
+    "url": "https://jackpot.bet",
+    "country": "Unknown",
+    "jurisdictions": [
+      "Unknown"
+    ],
+    "offer_types": [],
+    "scraper_status": "none",
+    "source": "optic_odds",
+    "status": "active",
+    "defunct": false,
+    "defunct_note": "",
+    "scraper_proof": {
+      "cf": false,
+      "hf": false,
+      "oracle": false,
+      "github": false
+    },
+    "markets": [],
+    "notes": ""
+  },
+  {
+    "name": "Jazz Sports",
+    "url": "https://jazzsports.com",
+    "country": "Unknown",
+    "jurisdictions": [
+      "Unknown"
+    ],
+    "offer_types": [],
+    "scraper_status": "none",
+    "source": "optic_odds",
+    "status": "active",
+    "defunct": false,
+    "defunct_note": "",
+    "scraper_proof": {
+      "cf": false,
+      "hf": false,
+      "oracle": false,
+      "github": false
+    },
+    "markets": [],
+    "notes": ""
+  },
+  {
+    "name": "Jugabet (Argentina)",
+    "url": "https://jugabet.com",
+    "country": "Unknown",
+    "jurisdictions": [
+      "Unknown"
+    ],
+    "offer_types": [],
+    "scraper_status": "none",
+    "source": "optic_odds",
+    "status": "active",
+    "defunct": false,
+    "defunct_note": "",
+    "scraper_proof": {
+      "cf": false,
+      "hf": false,
+      "oracle": false,
+      "github": false
+    },
+    "markets": [],
+    "notes": ""
+  },
+  {
+    "name": "Jugabet (Chile)",
+    "url": "https://jugabet.com",
+    "country": "Unknown",
+    "jurisdictions": [
+      "Unknown"
+    ],
+    "offer_types": [],
+    "scraper_status": "none",
+    "source": "optic_odds",
+    "status": "active",
+    "defunct": false,
+    "defunct_note": "",
+    "scraper_proof": {
+      "cf": false,
+      "hf": false,
+      "oracle": false,
+      "github": false
+    },
+    "markets": [],
+    "notes": ""
+  },
+  {
+    "name": "JustBet",
+    "url": "https://justbet.com",
+    "country": "Unknown",
+    "jurisdictions": [
+      "Unknown"
+    ],
+    "offer_types": [],
+    "scraper_status": "none",
+    "source": "optic_odds",
+    "status": "active",
+    "defunct": false,
+    "defunct_note": "",
+    "scraper_proof": {
+      "cf": false,
+      "hf": false,
+      "oracle": false,
+      "github": false
+    },
+    "markets": [],
+    "notes": ""
+  },
+  {
+    "name": "Kalshi",
+    "url": "https://kalshi.com",
+    "country": "Unknown",
+    "jurisdictions": [
+      "US (Prediction Market)"
+    ],
+    "offer_types": [],
+    "scraper_status": "built",
+    "source": "optic_odds",
+    "status": "active",
+    "defunct": false,
+    "defunct_note": "",
+    "scraper_proof": {
+      "cf": true,
+      "hf": true,
+      "oracle": true,
+      "github": true
+    },
+    "markets": [],
+    "notes": ""
+  },
+  {
+    "name": "Ladbrokes",
+    "url": "https://ladbrokes.com",
+    "country": "Unknown",
+    "jurisdictions": [
+      "UK",
+      "AU"
+    ],
+    "offer_types": [
+      "Moneyline",
+      "Total"
+    ],
+    "scraper_status": "built",
+    "source": "optic_odds",
+    "status": "active",
+    "defunct": false,
+    "defunct_note": "",
+    "scraper_proof": {
+      "cf": true,
+      "hf": true,
+      "oracle": true,
+      "github": true
+    },
+    "markets": [
+      "Moneyline",
+      "Total"
+    ],
+    "notes": ""
+  },
+  {
+    "name": "Ladbrokes (Australia)",
+    "url": "https://ladbrokes.com.au",
+    "country": "Unknown",
+    "jurisdictions": [
+      "Unknown"
+    ],
+    "offer_types": [],
+    "scraper_status": "none",
+    "source": "optic_odds",
+    "status": "active",
+    "defunct": false,
+    "defunct_note": "",
+    "scraper_proof": {
+      "cf": false,
+      "hf": false,
+      "oracle": false,
+      "github": false
+    },
+    "markets": [],
+    "notes": ""
+  },
+  {
+    "name": "LeoVegas",
+    "url": "https://leovegas.com",
+    "country": "Unknown",
+    "jurisdictions": [
+      "Unknown"
+    ],
+    "offer_types": [],
+    "scraper_status": "none",
+    "source": "optic_odds",
+    "status": "active",
+    "defunct": false,
+    "defunct_note": "",
+    "scraper_proof": {
+      "cf": false,
+      "hf": false,
+      "oracle": false,
+      "github": false
+    },
+    "markets": [],
+    "notes": ""
+  },
+  {
+    "name": "Limitless Exchange",
+    "url": "https://limitless.exchange",
+    "country": "Unknown",
+    "jurisdictions": [
+      "Unknown"
+    ],
+    "offer_types": [],
+    "scraper_status": "none",
+    "source": "optic_odds",
+    "status": "active",
+    "defunct": false,
+    "defunct_note": "",
+    "scraper_proof": {
+      "cf": false,
+      "hf": false,
+      "oracle": false,
+      "github": false
+    },
+    "markets": [],
+    "notes": ""
+  },
+  {
+    "name": "Lottoland",
+    "url": "https://lottoland.com",
+    "country": "Unknown",
+    "jurisdictions": [
+      "Unknown"
+    ],
+    "offer_types": [],
+    "scraper_status": "none",
+    "source": "optic_odds",
+    "status": "active",
+    "defunct": false,
+    "defunct_note": "",
+    "scraper_proof": {
+      "cf": false,
+      "hf": false,
+      "oracle": false,
+      "github": false
+    },
+    "markets": [],
+    "notes": ""
+  },
+  {
+    "name": "LowVig",
+    "url": "https://lowvig.ag",
+    "country": "Unknown",
+    "jurisdictions": [
+      "Unknown"
+    ],
+    "offer_types": [],
+    "scraper_status": "none",
+    "source": "optic_odds",
+    "status": "active",
+    "defunct": false,
+    "defunct_note": "",
+    "scraper_proof": {
+      "cf": false,
+      "hf": false,
+      "oracle": false,
+      "github": false
+    },
+    "markets": [],
+    "notes": ""
+  },
+  {
+    "name": "Lucky Casino",
+    "url": "https://luckycasino.com",
+    "country": "Unknown",
+    "jurisdictions": [
+      "Unknown"
+    ],
+    "offer_types": [],
+    "scraper_status": "none",
+    "source": "optic_odds",
+    "status": "active",
+    "defunct": false,
+    "defunct_note": "",
+    "scraper_proof": {
+      "cf": false,
+      "hf": false,
+      "oracle": false,
+      "github": false
+    },
+    "markets": [],
+    "notes": ""
+  },
+  {
+    "name": "Marathonbet",
+    "url": "https://marathonbet.com",
+    "country": "Unknown",
+    "jurisdictions": [
+      "International",
+      "UK"
+    ],
+    "offer_types": [],
+    "scraper_status": "built",
+    "source": "optic_odds",
+    "status": "active",
+    "defunct": false,
+    "defunct_note": "",
+    "scraper_proof": {
+      "cf": true,
+      "hf": true,
+      "oracle": true,
+      "github": true
+    },
+    "markets": [],
+    "notes": ""
+  },
+  {
+    "name": "Melbet",
+    "url": "https://melbet.com",
+    "country": "Unknown",
+    "jurisdictions": [
+      "Unknown"
+    ],
+    "offer_types": [],
+    "scraper_status": "none",
+    "source": "optic_odds",
+    "status": "active",
+    "defunct": false,
+    "defunct_note": "",
+    "scraper_proof": {
+      "cf": false,
+      "hf": false,
+      "oracle": false,
+      "github": false
+    },
+    "markets": [],
+    "notes": ""
+  },
+  {
+    "name": "Midnite",
+    "url": "https://midnite.com",
+    "country": "Unknown",
+    "jurisdictions": [
+      "Unknown"
+    ],
+    "offer_types": [],
+    "scraper_status": "none",
+    "source": "optic_odds",
+    "status": "active",
+    "defunct": false,
+    "defunct_note": "",
+    "scraper_proof": {
+      "cf": false,
+      "hf": false,
+      "oracle": false,
+      "github": false
+    },
+    "markets": [],
+    "notes": ""
+  },
+  {
+    "name": "Mise-o-jeu",
+    "url": "https://miseojeu.com",
+    "country": "Unknown",
+    "jurisdictions": [
+      "Unknown"
+    ],
+    "offer_types": [],
+    "scraper_status": "none",
+    "source": "optic_odds",
+    "status": "active",
+    "defunct": false,
+    "defunct_note": "",
+    "scraper_proof": {
+      "cf": false,
+      "hf": false,
+      "oracle": false,
+      "github": false
+    },
+    "markets": [],
+    "notes": ""
+  },
+  {
+    "name": "MyBookie",
+    "url": "https://mybookie.com",
+    "country": "Unknown",
+    "jurisdictions": [
+      "US",
+      "International"
+    ],
+    "offer_types": [
+      "Moneyline",
+      "Run Line",
+      "Total"
+    ],
+    "scraper_status": "built",
+    "source": "optic_odds",
+    "status": "active",
+    "defunct": false,
+    "defunct_note": "",
+    "scraper_proof": {
+      "cf": true,
+      "hf": true,
+      "oracle": true,
+      "github": true
+    },
+    "markets": [
+      "Moneyline",
+      "Run Line",
+      "Total"
+    ],
+    "notes": ""
+  },
+  {
+    "name": "Neds",
+    "url": "https://neds.com.au",
+    "country": "Unknown",
+    "jurisdictions": [
+      "Unknown"
+    ],
+    "offer_types": [],
+    "scraper_status": "none",
+    "source": "optic_odds",
+    "status": "active",
+    "defunct": false,
+    "defunct_note": "",
+    "scraper_proof": {
+      "cf": false,
+      "hf": false,
+      "oracle": false,
+      "github": false
+    },
+    "markets": [],
+    "notes": ""
+  },
+  {
+    "name": "Ninja Casino",
+    "url": "https://ninjacasino.com",
+    "country": "Unknown",
+    "jurisdictions": [
+      "Unknown"
+    ],
+    "offer_types": [],
+    "scraper_status": "none",
+    "source": "optic_odds",
+    "status": "active",
+    "defunct": false,
+    "defunct_note": "",
+    "scraper_proof": {
+      "cf": false,
+      "hf": false,
+      "oracle": false,
+      "github": false
+    },
+    "markets": [],
+    "notes": ""
+  },
+  {
+    "name": "NorthStar Bets",
+    "url": "https://northstarbets.com",
+    "country": "Unknown",
+    "jurisdictions": [
+      "Unknown"
+    ],
+    "offer_types": [],
+    "scraper_status": "none",
+    "source": "optic_odds",
+    "status": "active",
+    "defunct": false,
+    "defunct_note": "",
+    "scraper_proof": {
+      "cf": false,
+      "hf": false,
+      "oracle": false,
+      "github": false
+    },
+    "markets": [],
+    "notes": ""
+  },
+  {
+    "name": "Novig",
+    "url": "https://novig.com",
+    "country": "Unknown",
+    "jurisdictions": [
+      "US"
+    ],
+    "offer_types": [
+      "Moneyline",
+      "Run Line",
+      "Total"
+    ],
+    "scraper_status": "built",
+    "source": "optic_odds",
+    "status": "active",
+    "defunct": false,
+    "defunct_note": "",
+    "scraper_proof": {
+      "cf": true,
+      "hf": true,
+      "oracle": true,
+      "github": true
+    },
+    "markets": [
+      "Moneyline",
+      "Run Line",
+      "Total"
+    ],
+    "notes": ""
+  },
+  {
+    "name": "Oddin",
+    "url": "https://oddin.com",
+    "country": "Unknown",
+    "jurisdictions": [
+      "Unknown"
+    ],
+    "offer_types": [],
+    "scraper_status": "none",
+    "source": "optic_odds",
+    "status": "active",
+    "defunct": false,
+    "defunct_note": "",
+    "scraper_proof": {
+      "cf": false,
+      "hf": false,
+      "oracle": false,
+      "github": false
+    },
+    "markets": [],
+    "notes": ""
+  },
+  {
+    "name": "Onyx Odds",
+    "url": "https://onyxodds.com",
+    "country": "Unknown",
+    "jurisdictions": [
+      "Unknown"
+    ],
+    "offer_types": [],
+    "scraper_status": "none",
+    "source": "optic_odds",
+    "status": "active",
+    "defunct": false,
+    "defunct_note": "",
+    "scraper_proof": {
+      "cf": false,
+      "hf": false,
+      "oracle": false,
+      "github": false
+    },
+    "markets": [],
+    "notes": ""
+  },
+  {
+    "name": "Opinion Labs",
+    "url": "https://opinionlabs.com",
+    "country": "Unknown",
+    "jurisdictions": [
+      "Unknown"
+    ],
+    "offer_types": [],
+    "scraper_status": "none",
+    "source": "optic_odds",
+    "status": "active",
+    "defunct": false,
+    "defunct_note": "",
+    "scraper_proof": {
+      "cf": false,
+      "hf": false,
+      "oracle": false,
+      "github": false
+    },
+    "markets": [],
+    "notes": ""
+  },
+  {
+    "name": "OpticOdds AI",
+    "url": "https://opticodds.com",
+    "country": "Unknown",
+    "jurisdictions": [
+      "Unknown"
+    ],
+    "offer_types": [],
+    "scraper_status": "none",
+    "source": "optic_odds",
+    "status": "active",
+    "defunct": false,
+    "defunct_note": "",
+    "scraper_proof": {
+      "cf": false,
+      "hf": false,
+      "oracle": false,
+      "github": false
+    },
+    "markets": [],
+    "notes": ""
+  },
+  {
+    "name": "OpticOdds AI DFS",
+    "url": "https://opticodds.com",
+    "country": "Unknown",
+    "jurisdictions": [
+      "Unknown"
+    ],
+    "offer_types": [],
+    "scraper_status": "none",
+    "source": "optic_odds",
+    "status": "active",
+    "defunct": false,
+    "defunct_note": "",
+    "scraper_proof": {
+      "cf": false,
+      "hf": false,
+      "oracle": false,
+      "github": false
+    },
+    "markets": [],
+    "notes": ""
+  },
+  {
+    "name": "Overtime",
+    "url": "https://overtime.com",
+    "country": "Unknown",
+    "jurisdictions": [
+      "Unknown"
+    ],
+    "offer_types": [],
+    "scraper_status": "none",
+    "source": "optic_odds",
+    "status": "active",
+    "defunct": false,
+    "defunct_note": "",
+    "scraper_proof": {
+      "cf": false,
+      "hf": false,
+      "oracle": false,
+      "github": false
+    },
+    "markets": [],
+    "notes": ""
+  },
+  {
+    "name": "OwnersBox",
+    "url": "https://ownersbox.com",
+    "country": "Unknown",
+    "jurisdictions": [
+      "Unknown"
+    ],
+    "offer_types": [],
+    "scraper_status": "none",
+    "source": "optic_odds",
+    "status": "active",
+    "defunct": false,
+    "defunct_note": "",
+    "scraper_proof": {
+      "cf": false,
+      "hf": false,
+      "oracle": false,
+      "github": false
+    },
+    "markets": [],
+    "notes": ""
+  },
+  {
+    "name": "OwnersBox (6 Pick Insured)",
+    "url": "https://ownersbox.com",
+    "country": "Unknown",
+    "jurisdictions": [
+      "Unknown"
+    ],
+    "offer_types": [],
+    "scraper_status": "none",
+    "source": "optic_odds",
+    "status": "active",
+    "defunct": false,
+    "defunct_note": "",
+    "scraper_proof": {
+      "cf": false,
+      "hf": false,
+      "oracle": false,
+      "github": false
+    },
+    "markets": [],
+    "notes": ""
+  },
+  {
+    "name": "Ozoon",
+    "url": "https://ozoon.com",
+    "country": "Unknown",
+    "jurisdictions": [
+      "Unknown"
+    ],
+    "offer_types": [],
+    "scraper_status": "none",
+    "source": "optic_odds",
+    "status": "active",
+    "defunct": false,
+    "defunct_note": "",
+    "scraper_proof": {
+      "cf": false,
+      "hf": false,
+      "oracle": false,
+      "github": false
+    },
+    "markets": [],
+    "notes": ""
+  },
+  {
+    "name": "Parimatch (Brazil)",
+    "url": "https://parimatch.com",
+    "country": "Unknown",
+    "jurisdictions": [
+      "Unknown"
+    ],
+    "offer_types": [],
+    "scraper_status": "none",
+    "source": "optic_odds",
+    "status": "active",
+    "defunct": false,
+    "defunct_note": "",
+    "scraper_proof": {
+      "cf": false,
+      "hf": false,
+      "oracle": false,
+      "github": false
+    },
+    "markets": [],
+    "notes": ""
+  },
+  {
+    "name": "Parimatch (India)",
+    "url": "https://parimatch.com",
+    "country": "Unknown",
+    "jurisdictions": [
+      "Unknown"
+    ],
+    "offer_types": [],
+    "scraper_status": "none",
+    "source": "optic_odds",
+    "status": "active",
+    "defunct": false,
+    "defunct_note": "",
+    "scraper_proof": {
+      "cf": false,
+      "hf": false,
+      "oracle": false,
+      "github": false
+    },
+    "markets": [],
+    "notes": ""
+  },
+  {
+    "name": "Parlaye",
+    "url": "https://parlaye.com",
+    "country": "Unknown",
+    "jurisdictions": [
+      "Unknown"
+    ],
+    "offer_types": [],
+    "scraper_status": "none",
+    "source": "optic_odds",
+    "status": "active",
+    "defunct": false,
+    "defunct_note": "",
+    "scraper_proof": {
+      "cf": false,
+      "hf": false,
+      "oracle": false,
+      "github": false
+    },
+    "markets": [],
+    "notes": ""
+  },
+  {
+    "name": "ParlayPlay",
+    "url": "https://parlayplay.com",
+    "country": "Unknown",
+    "jurisdictions": [
+      "Unknown"
+    ],
+    "offer_types": [],
+    "scraper_status": "none",
+    "source": "optic_odds",
+    "status": "active",
+    "defunct": false,
+    "defunct_note": "",
+    "scraper_proof": {
+      "cf": false,
+      "hf": false,
+      "oracle": false,
+      "github": false
+    },
+    "markets": [],
+    "notes": ""
+  },
+  {
+    "name": "partypoker",
+    "url": "https://partypoker.com",
+    "country": "Unknown",
+    "jurisdictions": [
+      "Unknown"
+    ],
+    "offer_types": [],
+    "scraper_status": "none",
+    "source": "optic_odds",
+    "status": "active",
+    "defunct": false,
+    "defunct_note": "",
+    "scraper_proof": {
+      "cf": false,
+      "hf": false,
+      "oracle": false,
+      "github": false
+    },
+    "markets": [],
+    "notes": ""
+  },
+  {
+    "name": "Picklebet",
+    "url": "https://picklebet.com",
+    "country": "Unknown",
+    "jurisdictions": [
+      "Unknown"
+    ],
+    "offer_types": [],
+    "scraper_status": "none",
+    "source": "optic_odds",
+    "status": "active",
+    "defunct": false,
+    "defunct_note": "",
+    "scraper_proof": {
+      "cf": false,
+      "hf": false,
+      "oracle": false,
+      "github": false
+    },
+    "markets": [],
+    "notes": ""
+  },
+  {
+    "name": "Play Alberta",
+    "url": "https://playalberta.com",
+    "country": "Unknown",
+    "jurisdictions": [
+      "Unknown"
+    ],
+    "offer_types": [],
+    "scraper_status": "none",
+    "source": "optic_odds",
+    "status": "active",
+    "defunct": false,
+    "defunct_note": "",
+    "scraper_proof": {
+      "cf": false,
+      "hf": false,
+      "oracle": false,
+      "github": false
+    },
+    "markets": [],
+    "notes": ""
+  },
+  {
+    "name": "Playdoit",
+    "url": "https://playdoit.com",
+    "country": "Unknown",
+    "jurisdictions": [
+      "Unknown"
+    ],
+    "offer_types": [],
+    "scraper_status": "none",
+    "source": "optic_odds",
+    "status": "active",
+    "defunct": false,
+    "defunct_note": "",
+    "scraper_proof": {
+      "cf": false,
+      "hf": false,
+      "oracle": false,
+      "github": false
+    },
+    "markets": [],
+    "notes": ""
+  },
+  {
+    "name": "Play Eagle",
+    "url": "https://playeagle.com",
+    "country": "Unknown",
+    "jurisdictions": [
+      "Unknown"
+    ],
+    "offer_types": [],
+    "scraper_status": "none",
+    "source": "optic_odds",
+    "status": "active",
+    "defunct": false,
+    "defunct_note": "",
+    "scraper_proof": {
+      "cf": false,
+      "hf": false,
+      "oracle": false,
+      "github": false
+    },
+    "markets": [],
+    "notes": ""
+  },
+  {
+    "name": "PlayNow",
+    "url": "https://playnow.com",
+    "country": "Unknown",
+    "jurisdictions": [
+      "Unknown"
+    ],
+    "offer_types": [],
+    "scraper_status": "none",
+    "source": "optic_odds",
+    "status": "active",
+    "defunct": false,
+    "defunct_note": "",
+    "scraper_proof": {
+      "cf": false,
+      "hf": false,
+      "oracle": false,
+      "github": false
+    },
+    "markets": [],
+    "notes": ""
+  },
+  {
+    "name": "PointsBet (Australia)",
+    "url": "https://pointsbet.com",
+    "country": "Unknown",
+    "jurisdictions": [
+      "Unknown"
+    ],
+    "offer_types": [],
+    "scraper_status": "none",
+    "source": "optic_odds",
+    "status": "active",
+    "defunct": false,
+    "defunct_note": "",
+    "scraper_proof": {
+      "cf": false,
+      "hf": false,
+      "oracle": false,
+      "github": false
+    },
+    "markets": [],
+    "notes": ""
+  },
+  {
+    "name": "PointsBet (Ontario)",
+    "url": "https://pointsbet.com",
+    "country": "Unknown",
+    "jurisdictions": [
+      "Unknown"
+    ],
+    "offer_types": [],
+    "scraper_status": "none",
+    "source": "optic_odds",
+    "status": "active",
+    "defunct": false,
+    "defunct_note": "",
+    "scraper_proof": {
+      "cf": false,
+      "hf": false,
+      "oracle": false,
+      "github": false
+    },
+    "markets": [],
+    "notes": ""
+  },
+  {
+    "name": "Polymarket",
+    "url": "https://polymarket.com",
+    "country": "Unknown",
+    "jurisdictions": [
+      "US (Prediction Market)",
+      "International"
+    ],
+    "offer_types": [],
+    "scraper_status": "built",
+    "source": "optic_odds",
+    "status": "active",
+    "defunct": false,
+    "defunct_note": "",
+    "scraper_proof": {
+      "cf": true,
+      "hf": true,
+      "oracle": true,
+      "github": true
+    },
+    "markets": [],
+    "notes": ""
+  },
+  {
+    "name": "Polymarket (USA)",
+    "url": "https://polymarket.com",
+    "country": "Unknown",
+    "jurisdictions": [
+      "Unknown"
+    ],
+    "offer_types": [],
+    "scraper_status": "none",
+    "source": "optic_odds",
+    "status": "active",
+    "defunct": false,
+    "defunct_note": "",
+    "scraper_proof": {
+      "cf": false,
+      "hf": false,
+      "oracle": false,
+      "github": false
+    },
+    "markets": [],
+    "notes": ""
+  },
+  {
+    "name": "Prime Sports",
+    "url": "https://primesports.com",
+    "country": "Unknown",
+    "jurisdictions": [
+      "Unknown"
+    ],
+    "offer_types": [],
+    "scraper_status": "none",
+    "source": "optic_odds",
+    "status": "active",
+    "defunct": false,
+    "defunct_note": "",
+    "scraper_proof": {
+      "cf": false,
+      "hf": false,
+      "oracle": false,
+      "github": false
+    },
+    "markets": [],
+    "notes": ""
+  },
+  {
+    "name": "PrizePicks",
+    "url": "https://prizepicks.com",
+    "country": "Unknown",
+    "jurisdictions": [
+      "US (DFS)"
+    ],
+    "offer_types": [],
+    "scraper_status": "built",
+    "source": "optic_odds",
+    "status": "active",
+    "defunct": false,
+    "defunct_note": "",
+    "scraper_proof": {
+      "cf": true,
+      "hf": true,
+      "oracle": true,
+      "github": true
+    },
+    "markets": [],
+    "notes": ""
+  },
+  {
+    "name": "PrizePicks (5 or 6 Pick Flex)",
+    "url": "https://prizepicks.com",
+    "country": "Unknown",
+    "jurisdictions": [
+      "Unknown"
+    ],
+    "offer_types": [],
+    "scraper_status": "none",
+    "source": "optic_odds",
+    "status": "active",
+    "defunct": false,
+    "defunct_note": "",
+    "scraper_proof": {
+      "cf": false,
+      "hf": false,
+      "oracle": false,
+      "github": false
+    },
+    "markets": [],
+    "notes": ""
+  },
+  {
+    "name": "PrizePicks (Demons and Goblins)",
+    "url": "https://prizepicks.com",
+    "country": "Unknown",
+    "jurisdictions": [
+      "Unknown"
+    ],
+    "offer_types": [],
+    "scraper_status": "none",
+    "source": "optic_odds",
+    "status": "active",
+    "defunct": false,
+    "defunct_note": "",
+    "scraper_proof": {
+      "cf": false,
+      "hf": false,
+      "oracle": false,
+      "github": false
+    },
+    "markets": [],
+    "notes": ""
+  },
+  {
+    "name": "Proline",
+    "url": "https://proline.ca",
+    "country": "Unknown",
+    "jurisdictions": [
+      "Unknown"
+    ],
+    "offer_types": [],
+    "scraper_status": "none",
+    "source": "optic_odds",
+    "status": "active",
+    "defunct": false,
+    "defunct_note": "",
+    "scraper_proof": {
+      "cf": false,
+      "hf": false,
+      "oracle": false,
+      "github": false
+    },
+    "markets": [],
+    "notes": ""
+  },
+  {
+    "name": "Prophet X",
+    "url": "https://www.prophetx.co",
+    "country": "Unknown",
+    "jurisdictions": [
+      "US"
+    ],
+    "offer_types": [
+      "Moneyline"
+    ],
+    "scraper_status": "built",
+    "source": "optic_odds",
+    "status": "active",
+    "defunct": false,
+    "defunct_note": "",
+    "scraper_proof": {
+      "cf": true,
+      "hf": true,
+      "oracle": false,
+      "github": true
+    },
+    "markets": [
+      "Moneyline"
+    ],
+    "notes": ""
+  },
+  {
+    "name": "Props Builder",
+    "url": "https://propsbuilder.com",
+    "country": "Unknown",
+    "jurisdictions": [
+      "Unknown"
+    ],
+    "offer_types": [],
+    "scraper_status": "none",
+    "source": "optic_odds",
+    "status": "active",
+    "defunct": false,
+    "defunct_note": "",
+    "scraper_proof": {
+      "cf": false,
+      "hf": false,
+      "oracle": false,
+      "github": false
+    },
+    "markets": [],
+    "notes": ""
+  },
+  {
+    "name": "PS3838",
+    "url": "https://ps3838.com",
+    "country": "Unknown",
+    "jurisdictions": [
+      "Unknown"
+    ],
+    "offer_types": [],
+    "scraper_status": "none",
+    "source": "optic_odds",
+    "status": "active",
+    "defunct": false,
+    "defunct_note": "",
+    "scraper_proof": {
+      "cf": false,
+      "hf": false,
+      "oracle": false,
+      "github": false
+    },
+    "markets": [],
+    "notes": ""
+  },
+  {
+    "name": "Rebet",
+    "url": "https://rebet.com",
+    "country": "Unknown",
+    "jurisdictions": [
+      "Unknown"
+    ],
+    "offer_types": [],
+    "scraper_status": "none",
+    "source": "optic_odds",
+    "status": "active",
+    "defunct": false,
+    "defunct_note": "",
+    "scraper_proof": {
+      "cf": false,
+      "hf": false,
+      "oracle": false,
+      "github": false
+    },
+    "markets": [],
+    "notes": ""
+  },
+  {
+    "name": "Rebet Props City",
+    "url": "https://rebet.com",
+    "country": "Unknown",
+    "jurisdictions": [
+      "Unknown"
+    ],
+    "offer_types": [],
+    "scraper_status": "none",
+    "source": "optic_odds",
+    "status": "active",
+    "defunct": false,
+    "defunct_note": "",
+    "scraper_proof": {
+      "cf": false,
+      "hf": false,
+      "oracle": false,
+      "github": false
+    },
+    "markets": [],
+    "notes": ""
+  },
+  {
+    "name": "Rivalry",
+    "url": "https://rivalry.com",
+    "country": "Unknown",
+    "jurisdictions": [
+      "Unknown"
+    ],
+    "offer_types": [],
+    "scraper_status": "none",
+    "source": "optic_odds",
+    "status": "active",
+    "defunct": false,
+    "defunct_note": "",
+    "scraper_proof": {
+      "cf": false,
+      "hf": false,
+      "oracle": false,
+      "github": false
+    },
+    "markets": [],
+    "notes": ""
+  },
+  {
+    "name": "Rizk",
+    "url": "https://rizk.com",
+    "country": "Unknown",
+    "jurisdictions": [
+      "Unknown"
+    ],
+    "offer_types": [],
+    "scraper_status": "none",
+    "source": "optic_odds",
+    "status": "active",
+    "defunct": false,
+    "defunct_note": "",
+    "scraper_proof": {
+      "cf": false,
+      "hf": false,
+      "oracle": false,
+      "github": false
+    },
+    "markets": [],
+    "notes": ""
+  },
+  {
+    "name": "Robinhood",
+    "url": "https://robinhood.com",
+    "country": "Unknown",
+    "jurisdictions": [
+      "Unknown"
+    ],
+    "offer_types": [],
+    "scraper_status": "none",
+    "source": "optic_odds",
+    "status": "active",
+    "defunct": false,
+    "defunct_note": "",
+    "scraper_proof": {
+      "cf": false,
+      "hf": false,
+      "oracle": false,
+      "github": false
+    },
+    "markets": [],
+    "notes": ""
+  },
+  {
+    "name": "RushBet",
+    "url": "https://rushbet.com",
+    "country": "Unknown",
+    "jurisdictions": [
+      "Unknown"
+    ],
+    "offer_types": [],
+    "scraper_status": "none",
+    "source": "optic_odds",
+    "status": "active",
+    "defunct": false,
+    "defunct_note": "",
+    "scraper_proof": {
+      "cf": false,
+      "hf": false,
+      "oracle": false,
+      "github": false
+    },
+    "markets": [],
+    "notes": ""
+  },
+  {
+    "name": "SABA Sports",
+    "url": "https://sabasports.com",
+    "country": "Unknown",
+    "jurisdictions": [
+      "Unknown"
+    ],
+    "offer_types": [],
+    "scraper_status": "none",
+    "source": "optic_odds",
+    "status": "active",
+    "defunct": false,
+    "defunct_note": "",
+    "scraper_proof": {
+      "cf": false,
+      "hf": false,
+      "oracle": false,
+      "github": false
+    },
+    "markets": [],
+    "notes": ""
+  },
+  {
+    "name": "SBOBET",
+    "url": "https://sbobet.com",
+    "country": "Unknown",
+    "jurisdictions": [
+      "Unknown"
+    ],
+    "offer_types": [],
+    "scraper_status": "none",
+    "source": "optic_odds",
+    "status": "active",
+    "defunct": false,
+    "defunct_note": "",
+    "scraper_proof": {
+      "cf": false,
+      "hf": false,
+      "oracle": false,
+      "github": false
+    },
+    "markets": [],
+    "notes": ""
+  },
+  {
+    "name": "Sharp",
+    "url": "https://sharp.app",
+    "country": "Unknown",
+    "jurisdictions": [
+      "Unknown"
+    ],
+    "offer_types": [],
+    "scraper_status": "none",
+    "source": "optic_odds",
+    "status": "active",
+    "defunct": false,
+    "defunct_note": "",
+    "scraper_proof": {
+      "cf": false,
+      "hf": false,
+      "oracle": false,
+      "github": false
+    },
+    "markets": [],
+    "notes": ""
+  },
+  {
+    "name": "Sleeper",
+    "url": "https://sleeper.com",
+    "country": "Unknown",
+    "jurisdictions": [
+      "Unknown"
+    ],
+    "offer_types": [],
+    "scraper_status": "none",
+    "source": "optic_odds",
+    "status": "active",
+    "defunct": false,
+    "defunct_note": "",
+    "scraper_proof": {
+      "cf": false,
+      "hf": false,
+      "oracle": false,
+      "github": false
+    },
+    "markets": [],
+    "notes": ""
+  },
+  {
+    "name": "Smarkets",
+    "url": "https://smarkets.com",
+    "country": "Unknown",
+    "jurisdictions": [
+      "UK",
+      "EU",
+      "International"
+    ],
+    "offer_types": [],
+    "scraper_status": "built",
+    "source": "optic_odds",
+    "status": "active",
+    "defunct": false,
+    "defunct_note": "",
+    "scraper_proof": {
+      "cf": true,
+      "hf": true,
+      "oracle": true,
+      "github": true
+    },
+    "markets": [],
+    "notes": ""
+  },
+  {
+    "name": "SpinBet",
+    "url": "https://spinbet.com",
+    "country": "Unknown",
+    "jurisdictions": [
+      "Unknown"
+    ],
+    "offer_types": [],
+    "scraper_status": "none",
+    "source": "optic_odds",
+    "status": "active",
+    "defunct": false,
+    "defunct_note": "",
+    "scraper_proof": {
+      "cf": false,
+      "hf": false,
+      "oracle": false,
+      "github": false
+    },
+    "markets": [],
+    "notes": ""
+  },
+  {
+    "name": "Sportingbet",
+    "url": "https://sportingbet.com",
+    "country": "Unknown",
+    "jurisdictions": [
+      "Unknown"
+    ],
+    "offer_types": [],
+    "scraper_status": "none",
+    "source": "optic_odds",
+    "status": "active",
+    "defunct": false,
+    "defunct_note": "",
+    "scraper_proof": {
+      "cf": false,
+      "hf": false,
+      "oracle": false,
+      "github": false
+    },
+    "markets": [],
+    "notes": ""
+  },
+  {
+    "name": "Sportsbet",
+    "url": "https://sportsbet.com",
+    "country": "Unknown",
+    "jurisdictions": [
+      "Unknown"
+    ],
+    "offer_types": [],
+    "scraper_status": "none",
+    "source": "optic_odds",
+    "status": "active",
+    "defunct": false,
+    "defunct_note": "",
+    "scraper_proof": {
+      "cf": false,
+      "hf": false,
+      "oracle": false,
+      "github": false
+    },
+    "markets": [],
+    "notes": ""
+  },
+  {
+    "name": "Sportsbetting.ag",
+    "url": "https://sportsbetting.ag",
+    "country": "Unknown",
+    "jurisdictions": [
+      "Unknown"
+    ],
+    "offer_types": [],
+    "scraper_status": "none",
+    "source": "optic_odds",
+    "status": "active",
+    "defunct": false,
+    "defunct_note": "",
+    "scraper_proof": {
+      "cf": false,
+      "hf": false,
+      "oracle": false,
+      "github": false
+    },
+    "markets": [],
+    "notes": ""
+  },
+  {
+    "name": "Sports Interaction",
+    "url": "https://sportsinteraction.com",
+    "country": "Unknown",
+    "jurisdictions": [
+      "Unknown"
+    ],
+    "offer_types": [],
+    "scraper_status": "none",
+    "source": "optic_odds",
+    "status": "active",
+    "defunct": false,
+    "defunct_note": "",
+    "scraper_proof": {
+      "cf": false,
+      "hf": false,
+      "oracle": false,
+      "github": false
+    },
+    "markets": [],
+    "notes": ""
+  },
+  {
+    "name": "Sporttrade",
+    "url": "https://sporttrade.com",
+    "country": "Unknown",
+    "jurisdictions": [
+      "US-NJ",
+      "US-CO",
+      "US-IA",
+      "US-VA",
+      "US-AZ"
+    ],
+    "offer_types": [],
+    "scraper_status": "built",
+    "source": "optic_odds",
+    "status": "active",
+    "defunct": false,
+    "defunct_note": "",
+    "scraper_proof": {
+      "cf": true,
+      "hf": true,
+      "oracle": true,
+      "github": true
+    },
+    "markets": [],
+    "notes": ""
+  },
+  {
+    "name": "Sportzino",
+    "url": "https://sportzino.com",
+    "country": "Unknown",
+    "jurisdictions": [
+      "Unknown"
+    ],
+    "offer_types": [],
+    "scraper_status": "none",
+    "source": "optic_odds",
+    "status": "active",
+    "defunct": false,
+    "defunct_note": "",
+    "scraper_proof": {
+      "cf": false,
+      "hf": false,
+      "oracle": false,
+      "github": false
+    },
+    "markets": [],
+    "notes": ""
+  },
+  {
+    "name": "Stake",
+    "url": "https://stake.com",
+    "country": "Unknown",
+    "jurisdictions": [
+      "Unknown"
+    ],
+    "offer_types": [],
+    "scraper_status": "none",
+    "source": "optic_odds",
+    "status": "active",
+    "defunct": false,
+    "defunct_note": "",
+    "scraper_proof": {
+      "cf": false,
+      "hf": false,
+      "oracle": false,
+      "github": false
+    },
+    "markets": [],
+    "notes": ""
+  },
+  {
+    "name": "STN Sports",
+    "url": "https://stnsports.com",
+    "country": "Unknown",
+    "jurisdictions": [
+      "Unknown"
+    ],
+    "offer_types": [],
+    "scraper_status": "none",
+    "source": "optic_odds",
+    "status": "active",
+    "defunct": false,
+    "defunct_note": "",
+    "scraper_proof": {
+      "cf": false,
+      "hf": false,
+      "oracle": false,
+      "github": false
+    },
+    "markets": [],
+    "notes": ""
+  },
+  {
+    "name": "SugarHouse",
+    "url": "https://sugarhouse.com",
+    "country": "Unknown",
+    "jurisdictions": [
+      "Unknown"
+    ],
+    "offer_types": [],
+    "scraper_status": "none",
+    "source": "optic_odds",
+    "status": "active",
+    "defunct": false,
+    "defunct_note": "",
+    "scraper_proof": {
+      "cf": false,
+      "hf": false,
+      "oracle": false,
+      "github": false
+    },
+    "markets": [],
+    "notes": ""
+  },
+  {
+    "name": "Supabets",
+    "url": "https://supabets.co.za",
+    "country": "Unknown",
+    "jurisdictions": [
+      "Unknown"
+    ],
+    "offer_types": [],
+    "scraper_status": "none",
+    "source": "optic_odds",
+    "status": "active",
+    "defunct": false,
+    "defunct_note": "",
+    "scraper_proof": {
+      "cf": false,
+      "hf": false,
+      "oracle": false,
+      "github": false
+    },
+    "markets": [],
+    "notes": ""
+  },
+  {
+    "name": "Superbet",
+    "url": "https://superbet.com",
+    "country": "Unknown",
+    "jurisdictions": [
+      "Unknown"
+    ],
+    "offer_types": [],
+    "scraper_status": "none",
+    "source": "optic_odds",
+    "status": "active",
+    "defunct": false,
+    "defunct_note": "",
+    "scraper_proof": {
+      "cf": false,
+      "hf": false,
+      "oracle": false,
+      "github": false
+    },
+    "markets": [],
+    "notes": ""
+  },
+  {
+    "name": "SurgeBet",
+    "url": "https://surgebet.com",
+    "country": "Unknown",
+    "jurisdictions": [
+      "Unknown"
+    ],
+    "offer_types": [],
+    "scraper_status": "none",
+    "source": "optic_odds",
+    "status": "active",
+    "defunct": false,
+    "defunct_note": "",
+    "scraper_proof": {
+      "cf": false,
+      "hf": false,
+      "oracle": false,
+      "github": false
+    },
+    "markets": [],
+    "notes": ""
+  },
+  {
+    "name": "Svenskaspel",
+    "url": "https://svenskaspel.se",
+    "country": "Unknown",
+    "jurisdictions": [
+      "SE"
+    ],
+    "offer_types": [
+      "Moneyline",
+      "Run Line",
+      "Total"
+    ],
+    "scraper_status": "built",
+    "source": "optic_odds",
+    "status": "active",
+    "defunct": false,
+    "defunct_note": "",
+    "scraper_proof": {
+      "cf": true,
+      "hf": true,
+      "oracle": true,
+      "github": true
+    },
+    "markets": [
+      "Moneyline",
+      "Run Line",
+      "Total"
+    ],
+    "notes": ""
+  },
+  {
+    "name": "SX Bet",
+    "url": "https://sx.bet",
+    "country": "Unknown",
+    "jurisdictions": [
+      "Unknown"
+    ],
+    "offer_types": [],
+    "scraper_status": "none",
+    "source": "optic_odds",
+    "status": "active",
+    "defunct": false,
+    "defunct_note": "",
+    "scraper_proof": {
+      "cf": false,
+      "hf": false,
+      "oracle": false,
+      "github": false
+    },
+    "markets": [],
+    "notes": ""
+  },
+  {
+    "name": "TAB",
+    "url": "https://tab.co.nz",
+    "country": "Unknown",
+    "jurisdictions": [
+      "Unknown"
+    ],
+    "offer_types": [],
+    "scraper_status": "none",
+    "source": "optic_odds",
+    "status": "active",
+    "defunct": false,
+    "defunct_note": "",
+    "scraper_proof": {
+      "cf": false,
+      "hf": false,
+      "oracle": false,
+      "github": false
+    },
+    "markets": [],
+    "notes": ""
+  },
+  {
+    "name": "TAB (New Zealand)",
+    "url": "https://tab.co.nz",
+    "country": "Unknown",
+    "jurisdictions": [
+      "Unknown"
+    ],
+    "offer_types": [],
+    "scraper_status": "none",
+    "source": "optic_odds",
+    "status": "active",
+    "defunct": false,
+    "defunct_note": "",
+    "scraper_proof": {
+      "cf": false,
+      "hf": false,
+      "oracle": false,
+      "github": false
+    },
+    "markets": [],
+    "notes": ""
+  },
+  {
+    "name": "TABtouch",
+    "url": "https://tabtouch.com.au",
+    "country": "Unknown",
+    "jurisdictions": [
+      "AU-WA"
+    ],
+    "offer_types": [
+      "Moneyline",
+      "Run Line",
+      "Total"
+    ],
+    "scraper_status": "built",
+    "source": "optic_odds",
+    "status": "active",
+    "defunct": false,
+    "defunct_note": "",
+    "scraper_proof": {
+      "cf": true,
+      "hf": true,
+      "oracle": true,
+      "github": true
+    },
+    "markets": [
+      "Moneyline",
+      "Run Line",
+      "Total"
+    ],
+    "notes": ""
+  },
+  {
+    "name": "Team Mexico",
+    "url": "https://teammexico.com",
+    "country": "Unknown",
+    "jurisdictions": [
+      "Unknown"
+    ],
+    "offer_types": [],
+    "scraper_status": "none",
+    "source": "optic_odds",
+    "status": "active",
+    "defunct": false,
+    "defunct_note": "",
+    "scraper_proof": {
+      "cf": false,
+      "hf": false,
+      "oracle": false,
+      "github": false
+    },
+    "markets": [],
+    "notes": ""
+  },
+  {
+    "name": "theScore",
+    "url": "https://www.thescore.bet",
+    "country": "Unknown",
+    "jurisdictions": [
+      "US"
+    ],
+    "offer_types": [],
+    "scraper_status": "built",
+    "source": "optic_odds",
+    "status": "active",
+    "defunct": false,
+    "defunct_note": "",
+    "scraper_proof": {
+      "cf": true,
+      "hf": true,
+      "oracle": false,
+      "github": true
+    },
+    "markets": [],
+    "notes": ""
+  },
+  {
+    "name": "Thrillzz",
+    "url": "https://thrillzz.com",
+    "country": "Unknown",
+    "jurisdictions": [
+      "Unknown"
+    ],
+    "offer_types": [],
+    "scraper_status": "none",
+    "source": "optic_odds",
+    "status": "active",
+    "defunct": false,
+    "defunct_note": "",
+    "scraper_proof": {
+      "cf": false,
+      "hf": false,
+      "oracle": false,
+      "github": false
+    },
+    "markets": [],
+    "notes": ""
+  },
+  {
+    "name": "ThriveFantasy",
+    "url": "https://thrivefantasy.com",
+    "country": "Unknown",
+    "jurisdictions": [
+      "Unknown"
+    ],
+    "offer_types": [],
+    "scraper_status": "none",
+    "source": "optic_odds",
+    "status": "active",
+    "defunct": false,
+    "defunct_note": "",
+    "scraper_proof": {
+      "cf": false,
+      "hf": false,
+      "oracle": false,
+      "github": false
+    },
+    "markets": [],
+    "notes": ""
+  },
+  {
+    "name": "Thunderpick",
+    "url": "https://thunderpick.com",
+    "country": "Unknown",
+    "jurisdictions": [
+      "Unknown"
+    ],
+    "offer_types": [],
+    "scraper_status": "none",
+    "source": "optic_odds",
+    "status": "active",
+    "defunct": false,
+    "defunct_note": "",
+    "scraper_proof": {
+      "cf": false,
+      "hf": false,
+      "oracle": false,
+      "github": false
+    },
+    "markets": [],
+    "notes": ""
+  },
+  {
+    "name": "Tipsport",
+    "url": "https://tipsport.com",
+    "country": "Unknown",
+    "jurisdictions": [
+      "Unknown"
+    ],
+    "offer_types": [],
+    "scraper_status": "none",
+    "source": "optic_odds",
+    "status": "active",
+    "defunct": false,
+    "defunct_note": "",
+    "scraper_proof": {
+      "cf": false,
+      "hf": false,
+      "oracle": false,
+      "github": false
+    },
+    "markets": [],
+    "notes": ""
+  },
+  {
+    "name": "TonyBet",
+    "url": "https://tonybet.com",
+    "country": "Unknown",
+    "jurisdictions": [
+      "Unknown"
+    ],
+    "offer_types": [],
+    "scraper_status": "none",
+    "source": "optic_odds",
+    "status": "active",
+    "defunct": false,
+    "defunct_note": "",
+    "scraper_proof": {
+      "cf": false,
+      "hf": false,
+      "oracle": false,
+      "github": false
+    },
+    "markets": [],
+    "notes": ""
+  },
+  {
+    "name": "TwinSpires",
+    "url": "https://twinspires.com",
+    "country": "Unknown",
+    "jurisdictions": [
+      "Unknown"
+    ],
+    "offer_types": [],
+    "scraper_status": "none",
+    "source": "optic_odds",
+    "status": "active",
+    "defunct": false,
+    "defunct_note": "",
+    "scraper_proof": {
+      "cf": false,
+      "hf": false,
+      "oracle": false,
+      "github": false
+    },
+    "markets": [],
+    "notes": ""
+  },
+  {
+    "name": "Underdog Fantasy (2 Pick)",
+    "url": "https://underdogfantasy.com",
+    "country": "Unknown",
+    "jurisdictions": [
+      "US (DFS)"
+    ],
+    "offer_types": [],
+    "scraper_status": "built",
+    "source": "optic_odds",
+    "status": "active",
+    "defunct": false,
+    "defunct_note": "",
+    "scraper_proof": {
+      "cf": true,
+      "hf": true,
+      "oracle": false,
+      "github": true
+    },
+    "markets": [],
+    "notes": ""
+  },
+  {
+    "name": "Underdog Fantasy (3 or 5 Pick)",
+    "url": "https://underdogfantasy.com",
+    "country": "Unknown",
+    "jurisdictions": [
+      "US (DFS)"
+    ],
+    "offer_types": [],
+    "scraper_status": "built",
+    "source": "optic_odds",
+    "status": "active",
+    "defunct": false,
+    "defunct_note": "",
+    "scraper_proof": {
+      "cf": true,
+      "hf": true,
+      "oracle": false,
+      "github": true
+    },
+    "markets": [],
+    "notes": ""
+  },
+  {
+    "name": "Underdog Fantasy (Multipliers)",
+    "url": "https://underdogfantasy.com",
+    "country": "Unknown",
+    "jurisdictions": [
+      "US (DFS)"
+    ],
+    "offer_types": [],
+    "scraper_status": "built",
+    "source": "optic_odds",
+    "status": "active",
+    "defunct": false,
+    "defunct_note": "",
+    "scraper_proof": {
+      "cf": true,
+      "hf": true,
+      "oracle": false,
+      "github": true
+    },
+    "markets": [],
+    "notes": ""
+  },
+  {
+    "name": "Underdog Predictions",
+    "url": "https://underdogfantasy.com",
+    "country": "Unknown",
+    "jurisdictions": [
+      "US (DFS)"
+    ],
+    "offer_types": [],
+    "scraper_status": "built",
+    "source": "optic_odds",
+    "status": "active",
+    "defunct": false,
+    "defunct_note": "",
+    "scraper_proof": {
+      "cf": true,
+      "hf": true,
+      "oracle": false,
+      "github": true
+    },
+    "markets": [],
+    "notes": ""
+  },
+  {
+    "name": "Unibet",
+    "url": "https://unibet.com",
+    "country": "Unknown",
+    "jurisdictions": [
+      "UK",
+      "EU",
+      "International",
+      "SE",
+      "DK",
+      "FR",
+      "AU"
+    ],
+    "offer_types": [
+      "Moneyline"
+    ],
+    "scraper_status": "built",
+    "source": "optic_odds",
+    "status": "active",
+    "defunct": false,
+    "defunct_note": "",
+    "scraper_proof": {
+      "cf": true,
+      "hf": true,
+      "oracle": true,
+      "github": true
+    },
+    "markets": [
+      "Moneyline"
+    ],
+    "notes": ""
+  },
+  {
+    "name": "Unibet (Australia)",
+    "url": "https://unibet.com",
+    "country": "Unknown",
+    "jurisdictions": [
+      "AU"
+    ],
+    "offer_types": [
+      "Moneyline",
+      "Run Line",
+      "Total"
+    ],
+    "scraper_status": "built",
+    "source": "optic_odds",
+    "status": "active",
+    "defunct": false,
+    "defunct_note": "",
+    "scraper_proof": {
+      "cf": true,
+      "hf": true,
+      "oracle": true,
+      "github": true
+    },
+    "markets": [
+      "Moneyline",
+      "Run Line",
+      "Total"
+    ],
+    "notes": ""
+  },
+  {
+    "name": "Unibet (Denmark)",
+    "url": "https://unibet.com",
+    "country": "Unknown",
+    "jurisdictions": [
+      "Unknown"
+    ],
+    "offer_types": [],
+    "scraper_status": "none",
+    "source": "optic_odds",
+    "status": "active",
+    "defunct": false,
+    "defunct_note": "",
+    "scraper_proof": {
+      "cf": false,
+      "hf": false,
+      "oracle": false,
+      "github": false
+    },
+    "markets": [],
+    "notes": ""
+  },
+  {
+    "name": "Unibet (Sweden)",
+    "url": "https://unibet.com",
+    "country": "Unknown",
+    "jurisdictions": [
+      "Unknown"
+    ],
+    "offer_types": [],
+    "scraper_status": "none",
+    "source": "optic_odds",
+    "status": "active",
+    "defunct": false,
+    "defunct_note": "",
+    "scraper_proof": {
+      "cf": false,
+      "hf": false,
+      "oracle": false,
+      "github": false
+    },
+    "markets": [],
+    "notes": ""
+  },
+  {
+    "name": "Unibet (United Kingdom)",
+    "url": "https://unibet.com",
+    "country": "Unknown",
+    "jurisdictions": [
+      "Unknown"
+    ],
+    "offer_types": [],
+    "scraper_status": "none",
+    "source": "optic_odds",
+    "status": "active",
+    "defunct": false,
+    "defunct_note": "",
+    "scraper_proof": {
+      "cf": false,
+      "hf": false,
+      "oracle": false,
+      "github": false
+    },
+    "markets": [],
+    "notes": ""
+  },
+  {
+    "name": "Veikkaus",
+    "url": "https://veikkaus.fi",
+    "country": "Unknown",
+    "jurisdictions": [
+      "Unknown"
+    ],
+    "offer_types": [],
+    "scraper_status": "none",
+    "source": "optic_odds",
+    "status": "active",
+    "defunct": false,
+    "defunct_note": "",
+    "scraper_proof": {
+      "cf": false,
+      "hf": false,
+      "oracle": false,
+      "github": false
+    },
+    "markets": [],
+    "notes": ""
+  },
+  {
+    "name": "Wanna Parlay",
+    "url": "https://wannaparlay.com",
+    "country": "Unknown",
+    "jurisdictions": [
+      "Unknown"
+    ],
+    "offer_types": [],
+    "scraper_status": "none",
+    "source": "optic_odds",
+    "status": "active",
+    "defunct": false,
+    "defunct_note": "",
+    "scraper_proof": {
+      "cf": false,
+      "hf": false,
+      "oracle": false,
+      "github": false
+    },
+    "markets": [],
+    "notes": ""
+  },
+  {
+    "name": "William Hill",
+    "url": "https://williamhill.com",
+    "country": "Unknown",
+    "jurisdictions": [
+      "Unknown"
+    ],
+    "offer_types": [],
+    "scraper_status": "none",
+    "source": "optic_odds",
+    "status": "active",
+    "defunct": false,
+    "defunct_note": "",
+    "scraper_proof": {
+      "cf": false,
+      "hf": false,
+      "oracle": false,
+      "github": false
+    },
+    "markets": [],
+    "notes": ""
+  },
+  {
+    "name": "Winpot",
+    "url": "https://winpot.com",
+    "country": "Unknown",
+    "jurisdictions": [
+      "Unknown"
+    ],
+    "offer_types": [],
+    "scraper_status": "none",
+    "source": "optic_odds",
+    "status": "active",
+    "defunct": false,
+    "defunct_note": "",
+    "scraper_proof": {
+      "cf": false,
+      "hf": false,
+      "oracle": false,
+      "github": false
+    },
+    "markets": [],
+    "notes": ""
+  },
+  {
+    "name": "YouWager",
+    "url": "https://youwager.com",
+    "country": "Unknown",
+    "jurisdictions": [
+      "Unknown"
+    ],
+    "offer_types": [],
+    "scraper_status": "none",
+    "source": "optic_odds",
+    "status": "active",
+    "defunct": false,
+    "defunct_note": "",
+    "scraper_proof": {
+      "cf": false,
+      "hf": false,
+      "oracle": false,
+      "github": false
+    },
+    "markets": [],
+    "notes": ""
+  },
+  {
+    "name": "FanDuel",
+    "url": "https://www.fanduel.com",
+    "country": "Unknown",
+    "jurisdictions": [
+      "US"
+    ],
+    "offer_types": [
+      "Moneyline",
+      "Run Line",
+      "Total"
+    ],
+    "scraper_status": "built",
+    "source": "optic_odds",
+    "status": "active",
+    "defunct": false,
+    "defunct_note": "",
+    "scraper_proof": {
+      "cf": true,
+      "hf": true,
+      "oracle": true,
+      "github": true
+    },
+    "markets": [
+      "Moneyline",
+      "Run Line",
+      "Total"
+    ],
+    "notes": ""
+  },
+  {
+    "name": "Pinnacle",
+    "url": "https://www.pinnacle.com",
+    "country": "Unknown",
+    "jurisdictions": [
+      "International",
+      "US (Limited)"
+    ],
+    "offer_types": [],
+    "scraper_status": "built",
+    "source": "optic_odds",
+    "status": "active",
+    "defunct": false,
+    "defunct_note": "",
+    "scraper_proof": {
+      "cf": true,
+      "hf": true,
+      "oracle": true,
+      "github": true
+    },
+    "markets": [],
+    "notes": ""
+  },
+  {
+    "name": "Hard Rock Bet",
+    "url": "https://www.hardrock.bet",
+    "country": "Unknown",
+    "jurisdictions": [
+      "US-FL",
+      "US-AZ",
+      "US-IN",
+      "US-VA",
+      "US-OH",
+      "US-TN",
+      "US-CO",
+      "US-MI"
+    ],
+    "offer_types": [
+      "11 other"
+    ],
+    "scraper_status": "built",
+    "source": "optic_odds",
+    "status": "active",
+    "defunct": false,
+    "defunct_note": "",
+    "scraper_proof": {
+      "cf": true,
+      "hf": true,
+      "oracle": true,
+      "github": true
+    },
+    "markets": [
+      "Moneyline",
+      "Spread",
+      "Total",
+      "Props"
+    ],
+    "notes": ""
+  },
+  {
+    "name": "WynnBET",
+    "url": "https://www.wynnbet.com",
+    "country": "Unknown",
+    "jurisdictions": [
+      "Unknown"
+    ],
+    "offer_types": [],
+    "scraper_status": "none",
+    "source": "optic_odds",
+    "status": "active",
+    "defunct": false,
+    "defunct_note": "",
+    "scraper_proof": {
+      "cf": false,
+      "hf": false,
+      "oracle": false,
+      "github": false
+    },
+    "markets": [],
+    "notes": ""
+  },
+  {
+    "name": "SuperBook",
+    "url": "https://www.superbook.com",
+    "country": "Unknown",
+    "jurisdictions": [
+      "Unknown"
+    ],
+    "offer_types": [],
+    "scraper_status": "none",
+    "source": "optic_odds",
+    "status": "active",
+    "defunct": false,
+    "defunct_note": "",
+    "scraper_proof": {
+      "cf": false,
+      "hf": false,
+      "oracle": false,
+      "github": false
+    },
+    "markets": [],
+    "notes": ""
+  },
+  {
+    "name": "Betfred",
+    "url": "https://www.betfred.com",
+    "country": "Unknown",
+    "jurisdictions": [
+      "Unknown"
+    ],
+    "offer_types": [],
+    "scraper_status": "none",
+    "source": "optic_odds",
+    "status": "active",
+    "defunct": false,
+    "defunct_note": "",
+    "scraper_proof": {
+      "cf": false,
+      "hf": false,
+      "oracle": false,
+      "github": false
+    },
+    "markets": [],
+    "notes": ""
+  },
+  {
+    "name": "Betly",
+    "url": "https://www.betly.com",
+    "country": "Unknown",
+    "jurisdictions": [
+      "Unknown"
+    ],
+    "offer_types": [],
+    "scraper_status": "none",
+    "source": "optic_odds",
+    "status": "active",
+    "defunct": false,
+    "defunct_note": "",
+    "scraper_proof": {
+      "cf": false,
+      "hf": false,
+      "oracle": false,
+      "github": false
+    },
+    "markets": [],
+    "notes": ""
+  },
+  {
+    "name": "SBK",
+    "url": "https://www.sbk.com",
+    "country": "Unknown",
+    "jurisdictions": [
+      "Unknown"
+    ],
+    "offer_types": [],
+    "scraper_status": "none",
+    "source": "optic_odds",
+    "status": "active",
+    "defunct": false,
+    "defunct_note": "",
+    "scraper_proof": {
+      "cf": false,
+      "hf": false,
+      "oracle": false,
+      "github": false
+    },
+    "markets": [],
+    "notes": ""
+  },
+  {
+    "name": "Resorts World",
+    "url": "https://www.resortsworld.com",
+    "country": "Unknown",
+    "jurisdictions": [
+      "Unknown"
+    ],
+    "offer_types": [],
+    "scraper_status": "none",
+    "source": "optic_odds",
+    "status": "active",
+    "defunct": false,
+    "defunct_note": "",
+    "scraper_proof": {
+      "cf": false,
+      "hf": false,
+      "oracle": false,
+      "github": false
+    },
+    "markets": [],
+    "notes": ""
+  },
+  {
+    "name": "Action 24/7",
+    "url": "https://www.action247.com",
+    "defunct": true,
+    "defunct_note": "No longer accepting wagers. Shut down 2025, funds remitted to TN Treasury.",
+    "country": "Unknown",
+    "jurisdictions": [
+      "Unknown"
+    ],
+    "offer_types": [],
+    "scraper_status": "none",
+    "source": "optic_odds",
+    "status": "active",
+    "scraper_proof": {
+      "cf": false,
+      "hf": false,
+      "oracle": false,
+      "github": false
+    },
+    "markets": [],
+    "notes": ""
+  },
+  {
+    "name": "Q Sportsbook",
+    "url": "https://www.qsportsbook.com",
+    "country": "Unknown",
+    "jurisdictions": [
+      "Unknown"
+    ],
+    "offer_types": [],
+    "scraper_status": "none",
+    "source": "optic_odds",
+    "status": "active",
+    "defunct": false,
+    "defunct_note": "",
+    "scraper_proof": {
+      "cf": false,
+      "hf": false,
+      "oracle": false,
+      "github": false
+    },
+    "markets": [],
+    "notes": ""
+  },
+  {
+    "name": "BetMonarch",
+    "url": "https://www.betmonarch.com",
+    "country": "Unknown",
+    "jurisdictions": [
+      "Unknown"
+    ],
+    "offer_types": [],
+    "scraper_status": "none",
+    "source": "optic_odds",
+    "status": "active",
+    "defunct": false,
+    "defunct_note": "",
+    "scraper_proof": {
+      "cf": false,
+      "hf": false,
+      "oracle": false,
+      "github": false
+    },
+    "markets": [],
+    "notes": ""
+  },
+  {
+    "name": "DRF Sportsbook",
+    "url": "https://www.drf.com",
+    "country": "Unknown",
+    "jurisdictions": [
+      "Unknown"
+    ],
+    "offer_types": [],
+    "scraper_status": "none",
+    "source": "optic_odds",
+    "status": "active",
+    "defunct": false,
+    "defunct_note": "",
+    "scraper_proof": {
+      "cf": false,
+      "hf": false,
+      "oracle": false,
+      "github": false
+    },
+    "markets": [],
+    "notes": ""
+  },
+  {
+    "name": "BetWildwood",
+    "url": "https://www.betwildwood.com",
+    "country": "Unknown",
+    "jurisdictions": [
+      "Unknown"
+    ],
+    "offer_types": [],
+    "scraper_status": "none",
+    "source": "optic_odds",
+    "status": "active",
+    "defunct": false,
+    "defunct_note": "",
+    "scraper_proof": {
+      "cf": false,
+      "hf": false,
+      "oracle": false,
+      "github": false
+    },
+    "markets": [],
+    "notes": ""
+  },
+  {
+    "name": "Eagle Sports",
+    "url": "https://www.eaglesports.com",
+    "country": "Unknown",
+    "jurisdictions": [
+      "Unknown"
+    ],
+    "offer_types": [],
+    "scraper_status": "none",
+    "source": "optic_odds",
+    "status": "active",
+    "defunct": false,
+    "defunct_note": "",
+    "scraper_proof": {
+      "cf": false,
+      "hf": false,
+      "oracle": false,
+      "github": false
+    },
+    "markets": [],
+    "notes": ""
+  },
+  {
+    "name": "MVGBet",
+    "url": "https://www.mvgbet.com",
+    "country": "Unknown",
+    "jurisdictions": [
+      "Unknown"
+    ],
+    "offer_types": [],
+    "scraper_status": "none",
+    "source": "optic_odds",
+    "status": "active",
+    "defunct": false,
+    "defunct_note": "",
+    "scraper_proof": {
+      "cf": false,
+      "hf": false,
+      "oracle": false,
+      "github": false
+    },
+    "markets": [],
+    "notes": ""
+  },
+  {
+    "name": "Prime Sportsbook",
+    "url": "https://www.primesportsbook.com",
+    "country": "Unknown",
+    "jurisdictions": [
+      "Unknown"
+    ],
+    "offer_types": [],
+    "scraper_status": "none",
+    "source": "optic_odds",
+    "status": "active",
+    "defunct": false,
+    "defunct_note": "",
+    "scraper_proof": {
+      "cf": false,
+      "hf": false,
+      "oracle": false,
+      "github": false
+    },
+    "markets": [],
+    "notes": ""
+  },
+  {
+    "name": "Snoqualmie",
+    "url": "https://www.snoqualmieceasons.com",
+    "country": "Unknown",
+    "jurisdictions": [
+      "Unknown"
+    ],
+    "offer_types": [],
+    "scraper_status": "none",
+    "source": "optic_odds",
+    "status": "active",
+    "defunct": false,
+    "defunct_note": "",
+    "scraper_proof": {
+      "cf": false,
+      "hf": false,
+      "oracle": false,
+      "github": false
+    },
+    "markets": [],
+    "notes": ""
+  },
+  {
+    "name": "Ladbrokes Australia",
+    "url": "https://www.ladbrokes.com.au",
+    "country": "Unknown",
+    "jurisdictions": [
+      "Unknown"
+    ],
+    "offer_types": [],
+    "scraper_status": "none",
+    "source": "optic_odds",
+    "status": "active",
+    "defunct": false,
+    "defunct_note": "",
+    "scraper_proof": {
+      "cf": false,
+      "hf": false,
+      "oracle": false,
+      "github": false
+    },
+    "markets": [],
+    "notes": ""
+  },
+  {
+    "name": "SuperSport",
+    "url": "https://www.supersport.com",
+    "country": "Unknown",
+    "jurisdictions": [
+      "Unknown"
+    ],
+    "offer_types": [],
+    "scraper_status": "none",
+    "source": "optic_odds",
+    "status": "active",
+    "defunct": false,
+    "defunct_note": "",
+    "scraper_proof": {
+      "cf": false,
+      "hf": false,
+      "oracle": false,
+      "github": false
+    },
+    "markets": [],
+    "notes": ""
+  },
+  {
+    "name": "STS",
+    "url": "https://www.sts.pl",
+    "country": "Unknown",
+    "jurisdictions": [
+      "Unknown"
+    ],
+    "offer_types": [],
+    "scraper_status": "none",
+    "source": "optic_odds",
+    "status": "active",
+    "defunct": false,
+    "defunct_note": "",
+    "scraper_proof": {
+      "cf": false,
+      "hf": false,
+      "oracle": false,
+      "github": false
+    },
+    "markets": [],
+    "notes": ""
+  },
+  {
+    "name": "BetCity",
+    "url": "https://www.betcity.nl",
+    "country": "Unknown",
+    "jurisdictions": [
+      "Unknown"
+    ],
+    "offer_types": [],
+    "scraper_status": "none",
+    "source": "optic_odds",
+    "status": "active",
+    "defunct": false,
+    "defunct_note": "",
+    "scraper_proof": {
+      "cf": false,
+      "hf": false,
+      "oracle": false,
+      "github": false
+    },
+    "markets": [],
+    "notes": ""
+  },
+  {
+    "name": "Crystalbet",
+    "url": "https://www.crystalbet.gr",
+    "country": "Unknown",
+    "jurisdictions": [
+      "Unknown"
+    ],
+    "offer_types": [],
+    "scraper_status": "none",
+    "source": "optic_odds",
+    "status": "active",
+    "defunct": false,
+    "defunct_note": "",
+    "scraper_proof": {
+      "cf": false,
+      "hf": false,
+      "oracle": false,
+      "github": false
+    },
+    "markets": [],
+    "notes": ""
+  },
+  {
+    "name": "betcha",
+    "url": "https://www.betcha.com",
+    "country": "Unknown",
+    "jurisdictions": [
+      "Unknown"
+    ],
+    "offer_types": [],
+    "scraper_status": "none",
+    "source": "optic_odds",
+    "status": "active",
+    "defunct": false,
+    "defunct_note": "",
+    "scraper_proof": {
+      "cf": false,
+      "hf": false,
+      "oracle": false,
+      "github": false
+    },
+    "markets": [],
+    "notes": ""
+  },
+  {
+    "name": "bets.io",
+    "url": "https://bets.io",
+    "source": "optic_odds",
+    "country": "Curaçao",
+    "jurisdictions": [
+      "International",
+      "Crypto"
+    ],
+    "status": "active",
+    "offer_types": [],
+    "scraper_status": "none",
+    "defunct": false,
+    "defunct_note": "",
+    "scraper_proof": {
+      "cf": false,
+      "hf": false,
+      "oracle": false,
+      "github": false
+    },
+    "markets": [],
+    "notes": ""
+  },
+  {
+    "name": "Grosvenor",
+    "url": "https://www.grosvenorcasinos.com",
+    "source": "optic_odds",
+    "country": "UK",
+    "jurisdictions": [
+      "UK"
+    ],
+    "status": "active",
+    "offer_types": [
+      "Moneyline",
+      "Run Line",
+      "Total"
+    ],
+    "scraper_status": "built",
+    "defunct": false,
+    "defunct_note": "",
+    "scraper_proof": {
+      "cf": true,
+      "hf": true,
+      "oracle": true,
+      "github": true
+    },
+    "markets": [
+      "Moneyline",
+      "Run Line",
+      "Total"
+    ],
+    "notes": ""
+  },
+  {
+    "name": "LiveScore Bet",
+    "url": "https://www.livescorebet.com",
+    "source": "optic_odds",
+    "country": "UK",
+    "jurisdictions": [
+      "UK"
+    ],
+    "status": "active",
+    "offer_types": [
+      "Moneyline",
+      "Run Line",
+      "Total"
+    ],
+    "scraper_status": "built",
+    "defunct": false,
+    "defunct_note": "",
+    "scraper_proof": {
+      "cf": true,
+      "hf": true,
+      "oracle": true,
+      "github": true
+    },
+    "markets": [
+      "Moneyline",
+      "Run Line",
+      "Total"
+    ],
+    "notes": ""
+  },
+  {
+    "name": "Matchbook",
+    "url": "https://www.matchbook.com",
+    "source": "optic_odds",
+    "country": "Ireland",
+    "jurisdictions": [
+      "UK",
+      "IE",
+      "International"
+    ],
+    "status": "active",
+    "offer_types": [
+      "Moneyline",
+      "Total"
+    ],
+    "scraper_status": "built",
+    "defunct": false,
+    "defunct_note": "",
+    "scraper_proof": {
+      "cf": true,
+      "hf": true,
+      "oracle": true,
+      "github": true
+    },
+    "markets": [
+      "Moneyline",
+      "Total"
+    ],
+    "notes": ""
+  },
+  {
+    "name": "MVG Bet",
+    "url": "https://mvgbet.com",
+    "source": "optic_odds",
+    "country": "US",
+    "jurisdictions": [
+      "US-OH",
+      "US-VA"
+    ],
+    "status": "active",
+    "offer_types": [],
+    "scraper_status": "none",
+    "defunct": false,
+    "defunct_note": "",
+    "scraper_proof": {
+      "cf": false,
+      "hf": false,
+      "oracle": false,
+      "github": false
+    },
+    "markets": [],
+    "notes": ""
+  },
+  {
+    "name": "NetBet",
+    "url": "https://www.netbet.com",
+    "source": "optic_odds",
+    "country": "Malta",
+    "jurisdictions": [
+      "UK",
+      "EU",
+      "International"
+    ],
+    "status": "active",
+    "offer_types": [],
+    "scraper_status": "built",
+    "defunct": false,
+    "defunct_note": "",
+    "scraper_proof": {
+      "cf": true,
+      "hf": true,
+      "oracle": true,
+      "github": true
+    },
+    "markets": [],
+    "notes": ""
+  },
+  {
+    "name": "Odding",
+    "url": "https://odding.com",
+    "source": "optic_odds",
+    "country": "Unknown",
+    "jurisdictions": [
+      "Unknown"
+    ],
+    "status": "active",
+    "offer_types": [],
+    "scraper_status": "none",
+    "defunct": false,
+    "defunct_note": "",
+    "scraper_proof": {
+      "cf": false,
+      "hf": false,
+      "oracle": false,
+      "github": false
+    },
+    "markets": [],
+    "notes": ""
+  },
+  {
+    "name": "PlayUp",
+    "url": "https://www.playup.com",
+    "source": "optic_odds",
+    "country": "Australia",
+    "jurisdictions": [
+      "AU"
+    ],
+    "status": "active",
+    "offer_types": [
+      "Moneyline",
+      "Run Line",
+      "Total"
+    ],
+    "scraper_status": "built",
+    "defunct": false,
+    "defunct_note": "",
+    "scraper_proof": {
+      "cf": true,
+      "hf": true,
+      "oracle": true,
+      "github": true
+    },
+    "markets": [
+      "Moneyline",
+      "Run Line",
+      "Total"
+    ],
+    "notes": ""
+  },
+  {
+    "name": "PMU",
+    "url": "https://www.pmu.fr",
+    "source": "optic_odds",
+    "country": "France",
+    "jurisdictions": [
+      "FR"
+    ],
+    "status": "active",
+    "offer_types": [],
+    "scraper_status": "built",
+    "defunct": false,
+    "defunct_note": "",
+    "scraper_proof": {
+      "cf": true,
+      "hf": true,
+      "oracle": true,
+      "github": true
+    },
+    "markets": [],
+    "notes": ""
+  },
+  {
+    "name": "Svenska Spel",
+    "url": "https://www.svenskaspel.se",
+    "source": "optic_odds",
+    "country": "Sweden",
+    "jurisdictions": [
+      "SE"
+    ],
+    "status": "active",
+    "offer_types": [],
+    "scraper_status": "none",
+    "defunct": false,
+    "defunct_note": "",
+    "scraper_proof": {
+      "cf": false,
+      "hf": false,
+      "oracle": false,
+      "github": false
+    },
+    "markets": [],
+    "notes": ""
+  },
+  {
+    "name": "Unibet (FR)",
+    "url": "https://www.unibet.fr",
+    "source": "optic_odds",
+    "country": "Malta",
+    "jurisdictions": [
+      "FR"
+    ],
+    "status": "active",
+    "offer_types": [],
+    "scraper_status": "none",
+    "defunct": false,
+    "defunct_note": "",
+    "scraper_proof": {
+      "cf": false,
+      "hf": false,
+      "oracle": false,
+      "github": false
+    },
+    "markets": [],
+    "notes": ""
+  },
+  {
+    "name": "Virgin Bet",
+    "url": "https://www.virginbet.com",
+    "source": "optic_odds",
+    "country": "UK",
+    "jurisdictions": [
+      "UK"
+    ],
+    "status": "active",
+    "offer_types": [
+      "Moneyline",
+      "Run Line",
+      "Total"
+    ],
+    "scraper_status": "built",
+    "defunct": false,
+    "defunct_note": "",
+    "scraper_proof": {
+      "cf": true,
+      "hf": true,
+      "oracle": true,
+      "github": true
+    },
+    "markets": [
+      "Moneyline",
+      "Run Line",
+      "Total"
+    ],
+    "notes": ""
+  },
+  {
+    "name": "Winamax",
+    "url": "https://www.winamax.fr",
+    "source": "optic_odds",
+    "country": "France",
+    "jurisdictions": [
+      "FR",
+      "ES"
+    ],
+    "status": "active",
+    "offer_types": [
+      "Moneyline"
+    ],
+    "scraper_status": "built",
+    "defunct": false,
+    "defunct_note": "",
+    "scraper_proof": {
+      "cf": true,
+      "hf": true,
+      "oracle": true,
+      "github": true
+    },
+    "markets": [
+      "Moneyline"
+    ],
+    "notes": ""
+  }
+]

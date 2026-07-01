@@ -660,11 +660,10 @@
     "file": "caesars_com.png"
   },
   "Campeonbet": {
-      "name": "Campeonbet",
-      "domain": "campeonbet.com",
-      "status": "defunct",
-      "defunct_note": "Permanently closed - ceased operations",
-      "size": 0,
+    "name": "Campeonbet",
+    "domain": "campeonbet.com",
+    "status": "defunct",
+    "defunct_note": "Permanently closed - ceased operations",
     "size": 6802,
     "content_type": "image/svg+xml",
     "sha256": "36d2090d48fd74e4622ac7379e6341e8f0d409e44abbc69ce95baaef6e292cad",
@@ -992,25 +991,25 @@
     "file": "firekeepers_com.bin"
   },
   "Fliff": {
-      "name": "Fliff",
-      "domain": "getfliff.com",
-      "status": "verified",
-      "size": 38486,
-      "content_type": "image/png",
-      "sha256": "afile",
-      "source_url": "logos/fliff_com.png",
-      "file": "fliff_com.png"
-    },
+    "name": "Fliff",
+    "domain": "getfliff.com",
+    "status": "verified",
+    "size": 38486,
+    "content_type": "image/png",
+    "sha256": "afile",
+    "source_url": "logos/fliff_com.png",
+    "file": "fliff_com.png"
+  },
   "Fliff Superstars": {
-      "name": "Fliff Superstars",
-      "domain": "getfliff.com",
-      "status": "verified",
-      "size": 38486,
-      "content_type": "image/png",
-      "sha256": "afile",
-      "source_url": "logos/fliff_com.png",
-      "file": "fliff_com.png"
-    },
+    "name": "Fliff Superstars",
+    "domain": "getfliff.com",
+    "status": "verified",
+    "size": 38486,
+    "content_type": "image/png",
+    "sha256": "afile",
+    "source_url": "logos/fliff_com.png",
+    "file": "fliff_com.png"
+  },
   "Fonbet": {
     "name": "Fonbet",
     "domain": "fonbet.com",
@@ -1722,15 +1721,15 @@
     "file": "sharp_com.bin"
   },
   "Sleeper": {
-      "name": "Sleeper",
-      "domain": "sleeper.com",
-      "status": "verified",
-      "size": 3951,
-      "content_type": "image/png",
-      "sha256": "sleeper_bot_favicon",
-      "source_url": "logos/sleeper_com.png",
-      "file": "sleeper_com.png"
-    },
+    "name": "Sleeper",
+    "domain": "sleeper.com",
+    "status": "verified",
+    "size": 3951,
+    "content_type": "image/png",
+    "sha256": "sleeper_bot_favicon",
+    "source_url": "logos/sleeper_com.png",
+    "file": "sleeper_com.png"
+  },
   "Smarkets": {
     "name": "Smarkets",
     "domain": "smarkets.com",
@@ -1882,15 +1881,15 @@
     "file": "svenskaspel_se.bin"
   },
   "SX Bet": {
-      "name": "SX Bet",
-      "domain": "sx.bet",
-      "status": "verified",
-      "size": 373,
-      "content_type": "image/png",
+    "name": "SX Bet",
+    "domain": "sx.bet",
+    "status": "verified",
+    "size": 373,
+    "content_type": "image/png",
     "sha256": "22ab27ff03e7132172c579190ee272492e7ef935d76af8b2a31bba325a08bfac",
     "source_url": "logos/sxbet_com.png",
-        "file": "sxbet_com.png"
-      },
+    "file": "sxbet_com.png"
+  },
   "TAB": {
     "name": "TAB",
     "domain": "tab.co.nz",
@@ -2232,10 +2231,10 @@
     "file": ""
   },
   "Action 24/7": {
-      "name": "Action 24/7",
-      "domain": "action247.com",
-      "status": "defunct",
-      "defunct_note": "No longer accepting wagers. Shut down 2025, funds remitted to TN Treasury.",
+    "name": "Action 24/7",
+    "domain": "action247.com",
+    "status": "defunct",
+    "defunct_note": "No longer accepting wagers. Shut down 2025, funds remitted to TN Treasury.",
     "size": 998,
     "content_type": "image/png",
     "sha256": "ea86aa7357cbd9c23c336645f1f24c84288a548629f37917b1d1eb757b40bc3b",
@@ -2381,5 +2380,25 @@
     "sha256": "58e9d360763152d121a9fb3d6095d62a6e1e90b685c4e9c91f4d78787d69a53a",
     "source_url": "logos/betcha_com.svg",
     "file": "betcha_com.svg"
+  },
+  "Winamax": {
+    "name": "Winamax",
+    "domain": "winamax.fr",
+    "status": "verified",
+    "size": 2300,
+    "content_type": "image/png",
+    "sha256": "c06930bd7996c43286ab68fb396a4bd239c3fb64a58e42c6eb289bb46a6b096c",
+    "source_url": "logos/winamax_fr.png",
+    "file": "winamax_fr.png"
+  },
+  "LiveScore Bet": {
+    "name": "LiveScore Bet",
+    "domain": "livescorebet.com",
+    "status": "verified",
+    "size": 2782,
+    "content_type": "image/png",
+    "sha256": "35e8104e34284e5823c07f0d618469b81c70935bcf9ccc1a3bb7bf2c53cf696e",
+    "source_url": "logos/livescorebet_com.png",
+    "file": "livescorebet_com.png"
   }
 }

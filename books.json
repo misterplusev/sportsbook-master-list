@@ -755,7 +755,7 @@
   },
   {
     "name": "SX Bet",
-        "url": "https://sx.bet"
+    "url": "https://sx.bet"
   },
   {
     "name": "TAB",
@@ -954,5 +954,142 @@
   {
     "name": "betcha",
     "url": "https://www.betcha.com"
+  },
+  {
+    "name": "bets.io",
+    "url": "https://bets.io",
+    "source": "optic_odds",
+    "country": "Curaçao",
+    "jurisdictions": [
+      "International",
+      "Crypto"
+    ],
+    "status": "active"
+  },
+  {
+    "name": "Grosvenor",
+    "url": "https://www.grosvenorcasinos.com",
+    "source": "optic_odds",
+    "country": "UK",
+    "jurisdictions": [
+      "UK"
+    ],
+    "status": "active"
+  },
+  {
+    "name": "LiveScore Bet",
+    "url": "https://www.livescorebet.com",
+    "source": "optic_odds",
+    "country": "UK",
+    "jurisdictions": [
+      "UK"
+    ],
+    "status": "active"
+  },
+  {
+    "name": "Matchbook",
+    "url": "https://www.matchbook.com",
+    "source": "optic_odds",
+    "country": "Ireland",
+    "jurisdictions": [
+      "UK",
+      "Ireland",
+      "International"
+    ],
+    "status": "active"
+  },
+  {
+    "name": "MVG Bet",
+    "url": "https://mvgbet.com",
+    "source": "optic_odds",
+    "country": "US",
+    "jurisdictions": [
+      "US-OH",
+      "US-VA"
+    ],
+    "status": "active"
+  },
+  {
+    "name": "NetBet",
+    "url": "https://www.netbet.com",
+    "source": "optic_odds",
+    "country": "Malta",
+    "jurisdictions": [
+      "UK",
+      "EU",
+      "International"
+    ],
+    "status": "active"
+  },
+  {
+    "name": "Odding",
+    "url": "https://odding.com",
+    "source": "optic_odds",
+    "country": "Unknown",
+    "jurisdictions": [
+      "Unknown"
+    ],
+    "status": "active"
+  },
+  {
+    "name": "PlayUp",
+    "url": "https://www.playup.com",
+    "source": "optic_odds",
+    "country": "Australia",
+    "jurisdictions": [
+      "AU"
+    ],
+    "status": "active"
+  },
+  {
+    "name": "PMU",
+    "url": "https://www.pmu.fr",
+    "source": "optic_odds",
+    "country": "France",
+    "jurisdictions": [
+      "FR"
+    ],
+    "status": "active"
+  },
+  {
+    "name": "Svenska Spel",
+    "url": "https://www.svenskaspel.se",
+    "source": "optic_odds",
+    "country": "Sweden",
+    "jurisdictions": [
+      "SE"
+    ],
+    "status": "active"
+  },
+  {
+    "name": "Unibet (FR)",
+    "url": "https://www.unibet.fr",
+    "source": "optic_odds",
+    "country": "Malta",
+    "jurisdictions": [
+      "FR"
+    ],
+    "status": "active"
+  },
+  {
+    "name": "Virgin Bet",
+    "url": "https://www.virginbet.com",
+    "source": "optic_odds",
+    "country": "UK",
+    "jurisdictions": [
+      "UK"
+    ],
+    "status": "active"
+  },
+  {
+    "name": "Winamax",
+    "url": "https://www.winamax.fr",
+    "source": "optic_odds",
+    "country": "France",
+    "jurisdictions": [
+      "FR",
+      "ES"
+    ],
+    "status": "active"
   }
 ]
