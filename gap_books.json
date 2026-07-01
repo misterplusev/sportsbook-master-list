@@ -1,0 +1,326 @@
+[
+    {
+        "name": "1XBet",
+        "url": "https://1xbet.com",
+        "country": "Unknown",
+        "jurisdictions": ["Unknown"],
+        "offer_types": [],
+        "markets": [],
+        "scraper_status": "none"
+    },
+    {
+        "name": "20bet",
+        "url": "https://20bet.com",
+        "country": "Unknown",
+        "jurisdictions": ["Unknown"],
+        "offer_types": [],
+        "markets": [],
+        "scraper_status": "none"
+    },
+    {
+        "name": "22bet",
+        "url": "https://22bet.com",
+        "country": "Unknown",
+        "jurisdictions": ["Unknown"],
+        "offer_types": [],
+        "markets": [],
+        "scraper_status": "none"
+    },
+    {
+        "name": "4Cx",
+        "url": "https://4cx.com",
+        "country": "Unknown",
+        "jurisdictions": ["Unknown"],
+        "offer_types": [],
+        "markets": [],
+        "scraper_status": "none"
+    },
+    {
+        "name": "888sport",
+        "url": "https://888sport.com",
+        "country": "Unknown",
+        "jurisdictions": ["Unknown"],
+        "offer_types": [],
+        "markets": [],
+        "scraper_status": "none"
+    },
+    {
+        "name": "Batery",
+        "url": "https://batery.bet",
+        "country": "Unknown",
+        "jurisdictions": ["Unknown"],
+        "offer_types": [],
+        "markets": [],
+        "scraper_status": "none"
+    },
+    {
+        "name": "BC.GAME",
+        "url": "https://bc.game",
+        "country": "Unknown",
+        "jurisdictions": ["Unknown"],
+        "offer_types": [],
+        "markets": [],
+        "scraper_status": "none"
+    },
+    {
+        "name": "bet105",
+        "url": "https://bet105.ag",
+        "country": "Unknown",
+        "jurisdictions": ["Unknown"],
+        "offer_types": [],
+        "markets": [],
+        "scraper_status": "none"
+    },
+    {
+        "name": "bet365",
+        "url": "https://bet365.com",
+        "country": "Unknown",
+        "jurisdictions": ["Unknown"],
+        "offer_types": [],
+        "markets": [],
+        "scraper_status": "none"
+    },
+    {
+        "name": "BET99",
+        "url": "https://bet99.ca",
+        "country": "Unknown",
+        "jurisdictions": ["Unknown"],
+        "offer_types": [],
+        "markets": [],
+        "scraper_status": "none"
+    },
+    {
+        "name": "BetAmapola",
+        "url": "https://betamapola.com",
+        "country": "Unknown",
+        "jurisdictions": ["Unknown"],
+        "offer_types": [],
+        "markets": [],
+        "scraper_status": "none"
+    },
+    {
+        "name": "Betano",
+        "url": "https://betano.com",
+        "country": "Unknown",
+        "jurisdictions": ["Unknown"],
+        "offer_types": [],
+        "markets": [],
+        "scraper_status": "none"
+    },
+    {
+        "name": "Betano (Argentina)",
+        "url": "https://betano.com",
+        "country": "Unknown",
+        "jurisdictions": ["Unknown"],
+        "offer_types": [],
+        "markets": [],
+        "scraper_status": "none"
+    },
+    {
+        "name": "Betano (Chile)",
+        "url": "https://betano.com",
+        "country": "Unknown",
+        "jurisdictions": ["Unknown"],
+        "offer_types": [],
+        "markets": [],
+        "scraper_status": "none"
+    },
+    {
+        "name": "BetCorrect",
+        "url": "https://betcorrect.com",
+        "country": "Unknown",
+        "jurisdictions": ["Unknown"],
+        "offer_types": [],
+        "markets": [],
+        "scraper_status": "none"
+    },
+    {
+        "name": "Betcris",
+        "url": "https://betcris.com",
+        "country": "Unknown",
+        "jurisdictions": ["Unknown"],
+        "offer_types": [],
+        "markets": [],
+        "scraper_status": "none"
+    },
+    {
+        "name": "BetDeluxe",
+        "url": "https://betdeluxe.com",
+        "country": "Unknown",
+        "jurisdictions": ["Unknown"],
+        "offer_types": [],
+        "markets": [],
+        "scraper_status": "none"
+    },
+    {
+        "name": "BetDEX",
+        "url": "https://betdex.com",
+        "country": "Unknown",
+        "jurisdictions": ["Unknown"],
+        "offer_types": [],
+        "markets": [],
+        "scraper_status": "none"
+    },
+    {
+        "name": "BetDSI",
+        "url": "https://betdsi.eu",
+        "country": "Unknown",
+        "jurisdictions": ["Unknown"],
+        "offer_types": [],
+        "markets": [],
+        "scraper_status": "none"
+    },
+    {
+        "name": "Betfair",
+        "url": "https://betfair.com",
+        "country": "Unknown",
+        "jurisdictions": ["Unknown"],
+        "offer_types": [],
+        "markets": [],
+        "scraper_status": "none"
+    },
+    {
+        "name": "Betfair Exchange",
+        "url": "https://betfair.com",
+        "country": "Unknown",
+        "jurisdictions": ["Unknown"],
+        "offer_types": [],
+        "markets": [],
+        "scraper_status": "none"
+    },
+    {
+        "name": "Betfair Exchange (Australia)",
+        "url": "https://betfair.com",
+        "country": "Unknown",
+        "jurisdictions": ["Unknown"],
+        "offer_types": [],
+        "markets": [],
+        "scraper_status": "none"
+    },
+    {
+        "name": "Betfair Exchange (Australia) (Lay)",
+        "url": "https://betfair.com",
+        "country": "Unknown",
+        "jurisdictions": ["Unknown"],
+        "offer_types": [],
+        "markets": [],
+        "scraper_status": "none"
+    },
+    {
+        "name": "Betfair Exchange (Lay)",
+        "url": "https://betfair.com",
+        "country": "Unknown",
+        "jurisdictions": ["Unknown"],
+        "offer_types": [],
+        "markets": [],
+        "scraper_status": "none"
+    },
+    {
+        "name": "BetGRW",
+        "url": "https://betgrw.com",
+        "country": "Unknown",
+        "jurisdictions": ["Unknown"],
+        "offer_types": [],
+        "markets": [],
+        "scraper_status": "none"
+    },
+    {
+        "name": "betJACK",
+        "url": "https://betjack.com",
+        "country": "Unknown",
+        "jurisdictions": ["Unknown"],
+        "offer_types": [],
+        "markets": [],
+        "scraper_status": "none"
+    },
+    {
+        "name": "BetMania",
+        "url": "https://betmania.com",
+        "country": "Unknown",
+        "jurisdictions": ["Unknown"],
+        "offer_types": [],
+        "markets": [],
+        "scraper_status": "none"
+    },
+    {
+        "name": "BetMGM (UK)",
+        "url": "https://betmgm.co.uk",
+        "country": "Unknown",
+        "jurisdictions": ["Unknown"],
+        "offer_types": [],
+        "markets": [],
+        "scraper_status": "none"
+    },
+    {
+        "name": "Betnacional",
+        "url": "https://betnacional.com",
+        "country": "Unknown",
+        "jurisdictions": ["Unknown"],
+        "offer_types": [],
+        "markets": [],
+        "scraper_status": "none"
+    },
+    {
+        "name": "BetNation",
+        "url": "https://betnation.com",
+        "country": "Unknown",
+        "jurisdictions": ["Unknown"],
+        "offer_types": [],
+        "markets": [],
+        "scraper_status": "none"
+    },
+    {
+        "name": "Betnow",
+        "url": "https://betnow.eu",
+        "country": "Unknown",
+        "jurisdictions": ["Unknown"],
+        "offer_types": [],
+        "markets": [],
+        "scraper_status": "none"
+    },
+    {
+        "name": "Bets IO",
+        "url": "https://bets.io",
+        "country": "Unknown",
+        "jurisdictions": ["Unknown"],
+        "offer_types": [],
+        "markets": [],
+        "scraper_status": "none"
+    },
+    {
+        "name": "Betsafe",
+        "url": "https://www.betsafe.com",
+        "country": "Unknown",
+        "jurisdictions": ["Unknown"],
+        "offer_types": [],
+        "markets": [],
+        "scraper_status": "none"
+    },
+    {
+        "name": "Betsson",
+        "url": "https://www.betsson.com",
+        "country": "Unknown",
+        "jurisdictions": ["Unknown"],
+        "offer_types": [],
+        "markets": [],
+        "scraper_status": "none"
+    },
+    {
+        "name": "Betsoli",
+        "url": "https://www.betsoli.com",
+        "country": "Unknown",
+        "jurisdictions": ["Unknown"],
+        "offer_types": [],
+        "markets": [],
+        "scraper_status": "none"
+    },
+    {
+        "name": "Betsson",
+        "url": "https://www.betsson.com",
+        "country": "Unknown",
+        "jurisdictions": ["Unknown"],
+        "offer_types": [],
+        "markets": [],
+        "scraper_status": "none"
+    }
+]
