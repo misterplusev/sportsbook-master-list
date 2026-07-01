@@ -1,0 +1,70 @@
+{
+  "schema_version": "1.0.0",
+  "selected_book": "Svenska Spel",
+  "selected_reason": "First gap book to attempt scraper build. Swedish state monopoly, accessible domain, likely shares platform with other Nordic books. No scraper currently built (universe gap).",
+  "verification_plan": {
+    "real_site": {
+      "domain": "https://www.svenskaspel.se",
+      "platform_hypothesis": "Potentially OpenBet or proprietary Svenska Spel platform",
+      "geo_requirement": "Swedish IP required for full odds feed",
+      "dns_check": "Pending"
+    },
+    "real_live_data": {
+      "target_sports": ["Ice Hockey (SHL)", "Football (Allsvenskan)", "Tennis"],
+      "cross_check_source": "ESPN public APIs for event existence",
+      "live_indicator": "Timestamp and odds price changes between captures",
+      "minimum_events": "At least 5 active events per sport"
+    },
+    "all_offers_on_demand": {
+      "mainline": ["Moneyline", "Spread/Handicap", "Total/Over-Under"],
+      "props": "Determined after first successful feed",
+      "futures": "Determined after first successful feed",
+      "live": "Determined after first successful feed"
+    },
+    "four_sources": {
+      "cf": "Svenska Spel official public endpoint",
+      "hf": "Alternative endpoint or app API",
+      "oracle": "Third-party odds source or known aggregator",
+      "github": "Open-source reference implementation or community scraper"
+    }
+  },
+  "phase2_discovery_output": {
+    "api_base": "PENDING DISCOVERY",
+    "endpoints": {
+      "sports": "PENDING",
+      "events": "PENDING",
+      "event_markets": "PENDING",
+      "event_prices": "PENDING"
+    },
+    "auth": {
+      "type": "PENDING",
+      "header": "PENDING",
+      "fetch_method": "PENDING"
+    },
+    "id_maps": {
+      "sport_id_map": "PENDING",
+      "market_type_id_map": "PENDING"
+    },
+    "category_fetch_patterns": {
+      "mainline": ["Moneyline", "Spread/Handicap", "Total/Over-Under"],
+      "props": "PENDING",
+      "futures": "PENDING"
+    },
+    "data_structure": {
+      "odds_format": "PENDING - likely Decimal odds",
+      "timestamp_format": "PENDING",
+      "price_divisor": "PENDING"
+    },
+    "geo_auth_notes": {
+      "location_detection": "Likely IP-based geo-block",
+      "restricted_markets": "International bets blocked",
+      "notes": "Swedish state monopoly - may require Swedish payment methods or account"
+    },
+    "verification_notes": {
+      "known_platforms": ["OpenBet common among Nordic books", "Proprietary Svenska Spel platform possible"],
+      "scraper_status": "none - first build attempt",
+      "priority": "HIGH - first in queue from ABET universe gap"
+    }
+  },
+  "status": "Phase 2 pending - requires live access via Swedish proxy/VPN"
+}
